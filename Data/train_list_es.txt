@@ -1,0 +1,1638 @@
+clf_05223_00290343042.wav|en ˈeste momˈɛnto estˈoɪ embjˈando a sus koɾɾˈeos ˈunos lˈiŋks ðe ˈunas mˌeðitasjˈones en dʒˈow tˈuβe|5
+clf_09334_01204187746.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|11
+clf_01523_00431279373.wav|ˈes mˈujj ˌimpoɾtˈante el apˈojjo nasˈal en la pɾˌonunsjasjˈon|1
+clf_04310_00460991016.wav|ˈe ðexˈaðo ðe komˈeɾ pˌoɾke tˈɛŋɡo mjˈeðo ðe ˌeŋɡoɾðˈaɾ mˈas|4
+clf_07508_01727875805.wav|estˈa mˈujj kansˈaðo|8
+clf_04310_00452663720.wav|tjˈenen ke estˈaɾ ðˈos ˈoɾas ˈantes ðe la funsjˈom pˌaɾa ɾɾˌekoxˈeɾ las entɾˈaðas|4
+clf_03397_01936219933.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|3
+clf_03397_01330244821.wav|estˈoɪ akˈi kon ˈuna amˈiɣo kˌosinˈando komˈiða tˌaɪlandˈesa|3
+clf_09334_02054103547.wav|kisjˈeɾa ɾɾˌeseɾβˈaɾ sjˈete pasˈaxes en klˈase tuɾˈista|11
+clf_08784_00215256164.wav|kˈe ˈes ˈuna fɾontˈeɾa βiɾtwˈal|10
+clf_02484_00872915231.wav|los aβjˈones al iɣwˈal ke los ˈaʊtos ˈusam bensˈina|2
+clf_07508_00065948268.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|8
+clf_00610_01114986956.wav|dˌesafˌoɾtunˈaðamˈente tˈoðas las βˈias ðe kˌomunˌikasjˈon estˈan koɾtˈaðas|0
+clf_04310_00013073693.wav|tɾˌaðisjonˈalmˈente la komˈiða ˌitaljˈana se ˌakompˈaɲa kom bˈino tˈinto|4
+clf_08784_00188823294.wav|pɾˌoiβˈiðo pɾˌoiβˈiɾ ˈes ˈun eslˈoɣan mˈujj famˈoso ðel mˌoβimjˈɛnto ˌanaɾkˈista fɾansˈes|10
+clf_09334_00704813376.wav|bˈoɪ a ˈiɾ a koɾɾˈeɾ kon mi amˈiɣa pepˈita i estˈamos βuskˈando ˈuna pˈista ðe ˌatletˈismo|11
+clf_06136_01297566676.wav|bˌeɾakɾˈus se enkwˈɛntɾa sitwˈaða en la kˈosta ðel ɣˈolfo ðe mˈɛxiko|6
+clf_09697_00597068361.wav|ˈaɪ ˈuna ɾɾeβˈista ʝamˈaða la ɣasˈeta ðel umˈoɾ ke ðˈise ke el βwˈelo ˈiβan tɾˈes ðe sus amˈantes|12
+clf_04310_01329348149.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|4
+clf_05223_01906425896.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|5
+clf_05223_00891605327.wav|ˈaɪ alɣˈun eksˈamen de ˌadmisjˈon|5
+clf_07508_00279603982.wav|tjˈenes ke komˈeɾ mexˈoɾ i tomˈaɾ βˌitamˈinas|8
+clf_07508_00424642959.wav|la aktɾˈis aŋxˈelika maɾˈia ɣˈano ˈum pɾˈemjo poɾ su ˌaktwasjˈon en la nwˈeβa pelˈikula ðe iɲˈaɾɾitu|8
+clf_05223_01315979078.wav|ˈes pɾoðˈukto ðel pɾoɣɾˈama ˈindjo ðe ˌentɾenamjˈɛnto sjentˈifiko|5
+clf_05223_01411379767.wav|ˈes ˈun ˌeðifˈisjo mˈujj ˈalto|5
+clf_03397_00372618834.wav|ˈesta atlˈeta ˌespaɲˈola ˈes ˈun kˈaso ˈuniko ˈase ˌatletˈismo i lˌeβantamjˈɛnto ðe pˈesa i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|3
+clf_09334_01082841622.wav|bˈa a nˌesesitˈaɾ pˈan mostˈasa mˌajjonˈesa seβˈojja ˈun wˈeβo letʃˈuɣa tomˈate i pimjˈɛnta|11
+clf_04310_00964897655.wav|tˈɛŋɡo ˈuna ɾɾeʊnjˈon ˈoɪ en mi kˈasa pˌeɾo nˈo se ke βeβˈiðas seɾβˈiɾ|4
+clf_09697_01743052617.wav|estˈoɪ em bˈuska ðe ˈuna eskwˈela pˌaɾa ˌestuðjˈaɾ βjˌoloxˈia mˌolekulˈaɾ|12
+clf_09334_01073398940.wav|kjˈeɾo saβˈeɾ el oɾˈixen de la palˈaβɾa ˌalmoˈaða|11
+clf_05223_01578311399.wav|ˈaɪ alɣˈuna tˌeoɾˈia ðe ke los kɾˌusiɣɾˈamas pwˈeðen ˌajjuðˈaɾ a la βˈiða sˌentimentˈal|5
+clf_09334_01438066446.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|11
+clf_04310_00117122438.wav|nˈo te entjˈɛndo nˈaða|4
+clf_09697_01612121560.wav|estˈoɪ βjˈɛndo akˈi en la tˌeleβisjˈon ke ʝˈa ˈan kˌomensˈaðo ˈa ðˌeɾɾumbˈaɾ el ˌeðifˈisjo|12
+clf_07049_02034690476.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|7
+clf_08784_02035139902.wav|ˈas ˈiðo a la kˈasa ðe fɾˈiða kˈalo|10
+clf_02484_02080286311.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|2
+clf_03397_00689269956.wav|tˈɛŋɡo mutʃˈisimas ɣˈanas ðe βˈeɾ ˈuna βwˈena pelˈikula|3
+clf_00610_01255153967.wav|kjˈeɾo ˌaβeɾiɣwˈaɾ kˈomo se ʝˈama ˈun dˌiɾektˈoɾ ðe teˈatɾo|0
+clf_08784_01392291641.wav|si ʝuˈeβe ˈoɪ nˈo saβɾˈe kˈe asˈeɾ|10
+clf_03397_01058559958.wav|ˈesos ðˌepaɾtamˈɛntos nˈo asˈepːtan maskˈotas|3
+clf_04310_01921975502.wav|maðɾˈid tjˈene mˈutʃos pˈaɾkes ðˌonde ˈaɪ konsjˈeɾtos ɣɾatwˈitos|4
+clf_00610_00806557496.wav|kjˈeɾo asˈeɾ ˈuna kˈompɾa en lˈinea pˌaɾa ˌajjuðˈaɾ a los ðˌamnifikˈaðos|0
+clf_04310_01762965530.wav|kjˈeɾo asˈeɾ ˈuna kˈompɾa en lˈinea pˌaɾa ˌajjuðˈaɾ a los ðˌamnifikˈaðos|4
+clf_07049_01846434831.wav|ɾɾeˈalmˈente me ɾɾˌekomjˈɛndas ˈiɾme em bˌisiklˈeta o me βˈoɪ en tˈaksi|7
+clf_07508_00600410557.wav|el ˈuniko tˈipo ðe musˈika ke me ɣˈusta ˈes la klˈasika|8
+clf_09334_00857033629.wav|ˈes ˌimpoɾtˈante ke manˈexes βjˈen la lˈetɾa ˈe|11
+clf_07508_01758342092.wav|la ˌoβskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|8
+clf_07508_02043845297.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|8
+clf_06136_00135808948.wav|poɾ faβˈoɾ ðˈame la ˌimfoɾmasjˈon komplˈeta i los oɾˈaɾjos|6
+clf_04310_01907281467.wav|mˈas o mˈenos se tˈaɾða tɾˈes kwˈaɾtos ðe ˈoɾa en asˈeɾ ˈesa ɾɾesˈeta|4
+clf_05223_02005788288.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe ˈejja|5
+clf_07049_00338677953.wav|ˌakaβˈamos ðe tˌeɾminˈaɾ la pelˈikula bˈamos a sˌeleβɾˈaɾ|7
+clf_09334_00166279108.wav|mi ˈixa βˈa a kumplˈiɾ nwˈeβe ˈaɲos i ˈes alˈeɾxika al pˈelo ðel ɣˈato|11
+clf_07049_00040949257.wav|ɾɾesˈeɾβame ˈuna mˈesa en el ɾɾˌestaʊɾˈante ðe akˈi al lˈaðo i ðˈiles ke kjˈeɾo komˈeɾ meɾlˈusa al ˈoɾno|7
+clf_01523_00406176244.wav|a su mamˈa le ɣˈustan las flˈoɾes|1
+clf_08421_01348351037.wav|ˈaɪ ˈalɣo en la lˈista ðe ɾɾeɣˈalos kon embˈio ɣɾˈatis|9
+clf_01523_01543603074.wav|tjˈene ke ɾɾˌepoɾtˈaɾ ˌinmeðjˈatamˈente el ˌaksiðˈɛnte pˌaɾa ke le kˈuβɾa la pˈolisa|1
+clf_04310_00409463994.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas ˈotʃo wˈeβos i ˈuŋ kˈilo ðe pˈapas pˌeɾuˈanas|4
+clf_03397_00676692977.wav|estˈoɪ poɾ kambjˈaɾme ðe kˈasa i kjˈeɾo βuskˈaɾ nwˈeβos ðˌepaɾtamˈɛntos ðˌonde asˈepːten maskˈotas|3
+clf_08421_01640339012.wav|kɾˈeo ke tjˈene ɾɾˈoto el fˈemuɾ|9
+clf_00610_00041705766.wav|si βˈuska βaxˈaɾ ðe pˈeso los kˌaɾβoiðɾˈatos nˈo sˈon ˈuna βwˈena opsjˈon|0
+clf_08421_01891276337.wav|ˈeste lˈiβɾo nos mwˈestɾa ˈuna tˌeoɾˈia sˌoβɾe la ˌimpoɾtˈansja ðel ˈaɾte en el ˈambito sjentˈifiko|9
+clf_02484_00892139482.wav|la seɾβˈesa kwˈesta sˈolo tɾˈeɪnta i sˈinko pˈesos|2
+clf_01523_02125821084.wav|te ɣˈustan los tʃˌokolˈates|1
+clf_09697_01380384296.wav|nˌesesˈito ðe tu ajjˈuða pˌaɾa asˈeɾ ˈuna ɾɾesˈeta|12
+clf_09334_01947409716.wav|el xˌuɣaðˈoɾ saljˈo en el minˈuto βˌeɪntinwˈeβe poɾ ˈuna molˈestja en el toβˈijjo iskjˈeɾðo|11
+clf_02484_00614373368.wav|kˈe asˈemos kˈomo ˌempesˈamos kˈomo ˌaɾɾankˈamos kˈe nˌesesˈitas saβˈeɾ|2
+clf_08421_01954888132.wav|si tjˈene kon ke ˌapuntˈaɾ ʝˈo le βˈoɪ a ˈiɾ ðˈando la ɾɾesˈeta|9
+clf_03397_00694759867.wav|la pelˈea ˌentɾe mˈaɾkes i el kanˈelo ˌalβaɾˈes estˈuβo ˌaɾɾeɣlˈaða|3
+clf_09334_00666624965.wav|las ɾɾuˈeðas βˈan en la pˈaɾte ðe atɾˈas o en la pˈaɾte ðe ˌaðelˈante|11
+clf_07049_01236578591.wav|sjˈempɾe me ˈa ɣustˈaðo el kolˈoɾ βˈeɾðe ˌesmeɾˈalða|7
+clf_09334_00817814268.wav|ʝˈa se asˈeɾka el ðˈia ðe la mˈaðɾe i nˌesesˈito kompɾˈaɾle ˈun ɾɾeɣˈalo a mi mamˈa pˌeɾo nˈo se kwˈal|11
+clf_03397_01876115986.wav|tjˈene el tjˈempo kontˈaðo|3
+clf_06136_00668772483.wav|ˈaɪ fˈutβol fˌemenˈino em bɾasˈil|6
+clf_07508_02027308543.wav|lo ˌimpoɾtˈante ðe ˈeste mˈundo ˈes ðexˈaɾse ʝeβˈaɾ poɾ los ˈaɲos|8
+clf_09334_01432353920.wav|natˈalja kisjˈeɾa βjaxˈaɾ a maðɾˈið en los pɾˈoksimos ðˈias|11
+clf_06136_00613684270.wav|ˌapɾoβˈetʃe su ðˈia al mˈaksimo|6
+clf_07508_00045749850.wav|el pɾoβlˈema ˈes ke nˈo tenˈemos pˌesˈe pˌaɾa la esˈena nos pwˈeðes ˌajjuðˈaɾ|8
+clf_08784_01530228859.wav|bˈoɪ a eʊɾˈopa a pasˈaɾ mi kˌumpleˈaɲos|10
+clf_04310_00984018524.wav|kjˈeɾo tɾˌansfeɾˈiɾ ðinˈeɾo βˈia paɪpˈal|4
+clf_05223_01102895589.wav|nˈo te entjˈɛndo nˈaða|5
+clf_08784_00531297704.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|10
+clf_08421_01638505254.wav|tjˈenes el tjˈempo kontˈaðo|9
+clf_09697_01489582077.wav|ˈambos otˈeles tjˈenen kwˈatɾo estɾˈejjas|12
+clf_04310_01855056890.wav|tjˈene el tjˈempo kontˈaðo|4
+clf_01523_00115709920.wav|los βolˈetos kwˈestan ˌalreðeðˈoɾ ðe tɾˈes mˈil pˈesos mˌexikˈanos|1
+clf_08784_00428628274.wav|el mˈaɾ ˈesta sjˈɛndo ˌimbaðˈiðo poɾ tˌonelˈaðas ðe plˈastiko|10
+clf_09697_00357002520.wav|la pɾˈoksima βˈes ke βˈajja al sˌupeɾmeɾkˈaðo βˈoɪ a kompɾˈaɾ ˈese kˈeso|12
+clf_07049_00981336827.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|7
+clf_07508_01734783762.wav|tjˈene el tjˈempo kontˈaðo|8
+clf_01523_00570268785.wav|lo pwˈeðes kaɾɣˈaɾ a la taɾxˈeta ðe ˌameɾˈikan ekspɾˈess|1
+clf_03397_01404429659.wav|nˈo te entjˈɛndo nˈaða|3
+clf_01523_01690498597.wav|ˈes mamˈa tɾˌaðisjonˈal o ˈes mamˈa moðˈeɾna|1
+clf_03397_00367676488.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe ɾɾˌafaˈel sˌoβɾe fˌotoɣɾafˈia ðˌixitˈal|3
+clf_08421_00085253652.wav|me enkˈanta la komˈiða ðe mˈaɾ i kjˈeɾo kˌosinˈaɾ ˈuna kaswˈela ðe maɾˈiskos|9
+clf_08421_01813784908.wav|ˈaɪ alɣˈuna opsjˈon en el menˈu pˌaɾa kjˌenes nˈo kˈoman kˈaɾne|9
+clf_02484_00605572839.wav|nˈo ˈe tenˈiðo ˈixos pˌaɾa nˈo kambjˈaɾles los paɲˈales|2
+clf_09697_00108407188.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|12
+clf_05223_01182048529.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe ˈel|5
+clf_09697_01808810950.wav|kˈe ˈaɣo pˌaɾa ke nˈo se imfˈekte la eɾˈiða|12
+clf_07049_00645647749.wav|aβɾˈia ke ˌimbestiɣˈaɾ ˈum pˈoko mˈas las kwestjˈones ðe salˈud|7
+clf_00610_01313263316.wav|te kjˈeɾo peðˈiɾ mˈil lintˈeɾnas i sˈinko mˈil kˌaɾɣaðˈoɾes ðe βˌateɾˈias|0
+clf_04310_00404469201.wav|de pˈostɾe βˈoɪ a seɾβˈiɾ plˈatanos a la kɾˈema ðe kafˈe|4
+clf_00610_00315538124.wav|ˈeste ˌentɾenaðˈoɾ tˈuβo mˈutʃos pɾoβlˈemas ˌasta ʝeɣˈaɾ a sˈer ˈuno ðe los mexˈoɾes|0
+clf_09697_01516967493.wav|tˈɛŋɡo sˈolo ˈuna ˈoɾa pˌaɾa komˈeɾ tˈɛŋɡo ke ɾɾˌeɣɾesˈaɾ a la ˌofisˈina lˌokalˈisame ˈun luɣˈaɾ seɾkˈano|12
+clf_00610_02117768201.wav|kjˈeɾo sakˈaɾ ðinˈeɾo en ˌefektˈiβo kwˈal ˈes el kaxˈeɾo ˌaʊtomˈatiko mˈas seɾkˈano|0
+clf_09697_01384666381.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|12
+clf_03397_01039446673.wav|lo pɾimˈeɾo ðe ˈeste ɾɾˌestaʊɾˈant ˈes ke tjˈene ˈun ˈamplio menˈu|3
+clf_03397_01329926118.wav|tˈɛŋɡo ke pasˈaɾ alɣˈuna pɾuˈeβa|3
+clf_07508_00867767773.wav|kˈomo te fwˈe ajjˈeɾ|8
+clf_00610_00652927506.wav|ˈel ˈes ˈuna peɾsˈona ke βjˈene ðe ˈum bˈaɾɾio umˈilðe|0
+clf_07049_01305032454.wav|maɲˈana βˈa a asˈeɾ sˈol poɾ la maɲˈana|7
+clf_04310_00195608089.wav|el ˈotɾo ðˈia me komˈi ˈun aɾɾˈos kon kˌamaɾˈones|4
+clf_04310_00175511681.wav|pwˈeðen matˈaɾ ðˈos pˈaxaɾos ðe ˈun tˈiɾo e ˈiɾ al ɾɾˌestaʊɾˈante xˌaponˈes ke estˈa al lˈaðo ðel sˈine|4
+clf_03397_00281035811.wav|ɾɾesˈeɾβame kwˈatɾo entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las ðjˈes i mˈeðja|3
+clf_08784_00587004034.wav|los ˌalakɾˈanes tendɾˈan ˈun sˌiɡnifikˈaðo simbˈoliko|10
+clf_06136_01511714824.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|6
+clf_07508_00282947164.wav|kjˈeɾo kompɾˈaɾ ˈun ɾɾeɣˈalo sˌiɡnifˌikatˈiβo|8
+clf_08421_01731971998.wav|le pwˈeðo kˌompaɾtˈiɾ alɣˈunas lˈiɣas ðe βiðˈeo pˌaɾa ke ustˈed βˈea lo ke pasˈo|9
+clf_09697_01941061481.wav|kjˈeɾes ke lo kˈompɾe kon tu taɾxˈeta ðe kɾˈeðito o ðˈeβito|12
+clf_08784_00933756132.wav|al sˈiɣlo βˈeɪnte se le ʝˈama el sˈiɣlo ðel seɾˈeβɾo poɾ tˈoðos los aβˈanses sjentˈifikos ke ˌokuɾɾiˈeɾon en ˈel|10
+clf_00610_00266125560.wav|maɲˈana βˈajja ˌaβɾiɣˈaða ˈuŋ ɡˈoɾɾo ðe lˈana i ɣwˈantes ˈes lo mˈas ɾɾˌekomendˈaβle|0
+clf_02484_01394876413.wav|kɾˈees ke sˈea mexˈoɾ ʝeβˈaɾ los βˈiβeɾes ðˌesðe la sjuðˈad|2
+clf_09697_01437390992.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|12
+clf_08421_01846787739.wav|ˈemos ˌenkontɾˈaðo βˈaɾjos βlˈoɡs kon ˌopinjˈones xˌeneɾˈales sˌoβɾe el tˈema|9
+clf_08784_01073500235.wav|me ɾɾˌeenkontɾˈe kon ˈuna nˈoβja ke nˈo βeˈia ðˌesðe la sˌekundˈaɾja ɣɾˈasjas a fˈeɪsβuk|10
+clf_03397_00783648238.wav|los ˈamsteɾs kˈomen sˌanaˈoɾjas|3
+clf_08784_00224795970.wav|ˈoɪ se pɾesˈɛnta el βajjˈet kˌaskanwˈeses em bˈejjas ˈaɾtes|10
+clf_00610_01896077350.wav|le ɾɾˌekomjˈɛndo mˈutʃo el xˈuɣo ðe pˈiɲa kon mansˈana poɾ las maɲˈanas ˈes ˈuŋ ɡɾˈan ˌeneɾxˈetiko|0
+clf_09697_01336291986.wav|pwˈeðes βuskˈaɾ ˈum bwˈen tɾˌatamjˈɛnto pˌaɾa ˈestos kˈasos|12
+clf_08421_01407643285.wav|ˈoɪ βˈoɪ a ɾɾˌealisˈaɾ ˈuno ðe mis swˈeɲos ðe la imfˈansja|9
+clf_03397_01971249779.wav|me paɾˈese mˈujj ˌinteɾesˈante el ðˈato|3
+clf_07508_01483353514.wav|kwˈal ˈes la ðˌefinisjˈon de ˈuna tɾˌaxikomˈeðja|8
+clf_07508_00682922429.wav|nˌesesitˈamos ˌenkontɾˈaɾ ˈun nˌoteβoˈok ɾɾˈoxo pˌaɾa ˈesta tˈaɾðe|8
+clf_08784_00038588990.wav|fɾansˈisko fɾˈanko entɾˈo al poðˈeɾ al tˌeɾminˈaɾ la ɣˈeɾɾa siβˈil en espˈaɲa|10
+clf_06136_01222989174.wav|se me ðˌeskompˈuso mi ˈaʊto pilˈaɾ nˌesesˈito ˈuno ðe seɣˈunda mˈano|6
+clf_08784_00858817475.wav|me ɣˈustan los luɣˈaɾes al ˈaɪɾe lˈiβɾe|10
+clf_06136_02122183017.wav|alˈeks poðɾˈias pɾˌoponˈeɾme alɣˈun ɾɾˌestaʊɾˈante pˌaɾa ˈesta nˈotʃe|6
+clf_01523_01260678377.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|1
+clf_01523_01637115198.wav|bˈamos a usˈaɾ la ˈapp ðe la ˌembaxˈaða ðe exˈipːto ke ˈes pˌaɾa xˈɛnte ke nˈo sˈaβe nˈaða ðe aɾˈaβe|1
+clf_00610_01624352669.wav|kjˈeɾo ˌaβeɾiɣwˈaɾ kˌomo se ʝˈama ˈun dˌiɾektˈoɾ ðe sˈine|0
+clf_00610_01427307386.wav|ˈel ˈes ˈuna peɾsˈona ke βjˈene ðe ˈum bˈaɾɾio ðe klˈase mˈeðja|0
+clf_00610_00025628111.wav|seɣˈun mis ðˈatos ˈeste sˈaβaðo ðˈos ðe xˈunjo ˈes el ðˈia ðe la mˈaðɾe|0
+clf_07049_00168653156.wav|ˈaɪ alɣˈum bwˈelo mˈas βaɾˈato pasˈando poɾ kankˈun|7
+clf_09334_01463452467.wav|me pwˈeðes embjˈaɾ el lˈiŋks ðe pˈaxinas wˈeβ en dˌonde pwˈeða ˌampliˈaɾ mi kultˈuɾa xˌeneɾˈal|11
+clf_03397_01699829470.wav|estˈa mˈujj kansˈaðo|3
+clf_09334_00039085589.wav|kjˈeɾo ke se ˈaɣa ɾɾˌesponsˈaβle ðe ˈuna kɾiatˈuɾa βˈiβa|11
+clf_06136_00211488361.wav|el pˈuβliko estˈa ˌenlokesˈiðo|6
+clf_07049_00351704152.wav|mˈutʃas ɣɾˈasjas βˌeɾonˈika|7
+clf_05223_01278188632.wav|en mi sistˈema ˌopeɾatˈiβo ˈaɪ ˈuna ˌaplikasjˈon ke pwˈeðe βaxˈaɾ a su sˌelulˈaɾ i ke ˈase tɾˌaðuksjˈon sˌimultˈanea|5
+clf_09334_01843788383.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|11
+clf_08421_01777291711.wav|me pwˈeðes kˌonkɾetˈaɾ la pɾeɣˈunta|9
+clf_09697_00910767515.wav|estˈa notˈisja la ˈam pˌuβlikˈaðo tˈoðos los mˈeðjos ðel paˈis i ðel ˌekstɾaŋxˈeɾo|12
+clf_04310_01686723690.wav|maɲˈana βˈa a asˈeɾ mˈutʃo kalˈoɾ|4
+clf_03397_00831082347.wav|kjˈeɾe ke ɾɾeβˈise su estˈaðo ðe kwˈɛnta i los ðepˈositos ke ˈa ˈetʃo en el ˈultimo mˈes|3
+clf_09334_01112698811.wav|kˈompɾa ˌalimˈɛntos nˈo pˌeɾeseðˈeɾos|11
+clf_03397_01052451614.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|3
+clf_05223_00427723555.wav|estˈuβe lejjˈɛndo ˈun ˌaɾtikˈulo i βˈi ke ˈaɪ ˈun nwˈeβo tɾˌatamjˈɛnto pˌaɾa ke te kɾˈeska el pˈelo|5
+clf_01523_01727249888.wav|estˈoɪ em bˈaɾjos ɣɾˈupos ðe ɾɾˈeðes sosjˈales en dˌonde ˌinteɾkambjˈamos iðˈeas|1
+clf_01523_00994111014.wav|maɲˈana xwˈeɣan los ˈotʃo ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa ˌeʊɾopˈea|1
+clf_02484_00839981772.wav|estˈa mˈujj kansˈaðo|2
+clf_09334_00721733636.wav|kjˈen ˈes la pɾˌotaɣonˈista|11
+clf_01523_00043524233.wav|ˈaɪ ˈum pakˈete em pɾˌomosjˈon de ðˈos mˈil ðˈolaɾes poɾ semˈana|1
+clf_02484_01385072651.wav|kjˈeɾo saβˈeɾ la ˌimfoɾmasjˈon nˌutɾisjonˈal ke tjˈene ˈum peðˈaso ðe pˈitsa|2
+clf_09334_01901320072.wav|tˈɛŋɡo ɾɾˌexistɾˈaðo ke nˈo le ɣˈusta el pikˈante nˈi los lˈakteos|11
+clf_05223_00365203610.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|5
+clf_07508_00333530561.wav|pwˈeðes moβˈeɾte mˈujj fˈasil kon la βˈisi dˌesðe ðistˈansjas kˈoɾtas ˌasta lˈaɾɣas|8
+clf_01523_01620202555.wav|lo pwˈeðes kaɾɣˈaɾ a la taɾxˈeta βˈeɾðe ðe βˈisa|1
+clf_07049_01086329816.wav|nˈo te entjˈɛndo nˈaða|7
+clf_04310_00012790580.wav|ˈum pˈoko ðe umˈoɾ nˈunka kˈae mˈal ðespwˈes ðe ˈestos ðesˈastɾes|4
+clf_04310_00323477331.wav|maɲˈana βˈa a asˈeɾ mˈutʃo βjˈɛnto i aβɾˈa toɾmˈɛntas|4
+clf_01523_01339473549.wav|le ɾɾˌekomjˈɛndo ke βˈajja pɾˌepaɾˈaðo kon ˈuna βwˈena tʃakˈeta i ˈun tˈeɾmo kon tˈe kaljˈɛnte|1
+clf_04310_00621636203.wav|pˌaɾa ke el saβˈoɾ ðe la komˈiða mˌeðiteɾɾˈanea ɾɾeˈalmˈente ɾɾesˈalte se ɾɾˌekomjˈɛnda ˈum bˈino mˈas sˈeko|4
+clf_09697_00318190862.wav|la ˈoβɾa ðe teˈatɾo ˌaβentuɾˈeɾa ˈa sˈiðo ˈun ˈeksito en takˈijja|12
+clf_07049_01007353159.wav|te ɣˈusta la njˈeβe|7
+clf_07049_01654495785.wav|a los βeɣˈanos les enkˈanta el wˈiski|7
+clf_02484_01338641166.wav|kˈe tˈal tu ðˈia|2
+clf_07508_00562411226.wav|ˈaɪ mˈas ðe setˈɛnta ˌestasjˈones en el sˈɛntɾo ðe la sjuðˈad|8
+clf_08784_00114683574.wav|nˈo me ɣˈusta la βeɾsjˈom bjˈexa|10
+clf_01523_00850465509.wav|kˈe ˈotɾas opsjˈones ðe eskwˈela tˈɛŋɡo|1
+clf_05223_01334426926.wav|ˈesta atlˈeta ɾɾˈusa ˈes ˈun kˈaso ˈuniko ˈase nˌatasjˈon i ximnˈasja i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|5
+clf_03397_00329908344.wav|kwˈal fwˈe su ˈultima noβˈela|3
+clf_09334_00487704570.wav|kˈe opsjˈones ðe oɾˈaɾjo ðe salˈiða me ofɾˈeses|11
+clf_03397_00185921992.wav|ˈesta kˌomputaðˈoɾa ˈes ˌiðeˈal pˌaɾa tus nˌesesiðˈaðes pˌeɾsonˈales i lˌaβoɾˈales|3
+clf_07508_01027158338.wav|kjˈeɾo ˈun xaβˈon kon esˈɛnsjas ðe flˈoɾes|8
+clf_06136_00160402992.wav|las ˌimfoɾmasjˈones ke tenˈemos en ˈeste momˈɛnto sˈon kˌontundˈɛntes|6
+clf_09334_00285104739.wav|kˈomo se ˌalimˈɛnta a ˈuna iɣwˈana|11
+clf_09334_00003210162.wav|ˈesa palˈaβɾa βjˈene ðel ɣɾiˈeɣo klˈasiko|11
+clf_05223_00646840972.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|5
+clf_08421_00146171199.wav|kom bˈase en los ðˈiskos ke ˈas kompɾˈaðo ˈultimamˈente poðɾˈia ɾɾˌekomendˈaɾte el ˈultimo ðˈisko ðe kɾistˈina ˌaɣilˈeɾa|9
+clf_05223_01586512908.wav|me pwˈeðes kˌonseɣˈiɾ ˈun ˌanalxˈesiko|5
+clf_09334_00438637940.wav|si βˈiβe en ˈuna sˈona ðˌonde el niβˈel ðel ˈaɣwa pwˈeðe suβˈiɾ kˌonsiðˈeɾe lˌeβantˈaɾ los mwˈeβles kon laðɾˈijjos|11
+clf_02484_01460510035.wav|me ɣˌustaɾˈia ɾɾˌeseɾβˈaɾ pˌaɾa ðˈos peɾsˈonas pwˈeðe sˈer|2
+clf_06136_00384490393.wav|seɣˈun mis ðˈatos ˈeste lˈunes kˈinse ðe aβɾˈil nˈo ˈaɪ paɾtˈiðos ðe βˈadminton|6
+clf_01523_00247152285.wav|ˌestasjˈone el ˈaʊto en ˈuna sˈona plˈana i seɣˈuɾa i ensjˈɛnda las lˈuses ˌinteɾmitˈɛntes|1
+clf_07508_01008912195.wav|seɣˈun el peɾjˈoðiko ˌuniβeɾsˈal las βˌisiklˈetas kˈaʊsan tɾˈes ˌaksiðˈɛntes al ðˈia|8
+clf_08784_01006732091.wav|la ˌoskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|10
+clf_08784_00132627893.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|10
+clf_09334_01176427536.wav|nˈo te entjˈɛndo nˈaða|11
+clf_07508_01353961022.wav|la sjuðˈad ʝˈa tjˈene mˈas ðe sjˈeŋ kilˈometɾos ðe sˌikloβˈias ke βˈan de nˈoɾte a sˈuɾ|8
+clf_03397_00827611904.wav|estˈoɪ akˈi kon ˈuna amˈiɣa ðˌiskutjˈɛndo sˌoβɾe la ˌeksposisjˈon de pintˈuɾa|3
+clf_03397_00905905971.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe fɾˈiða sˌoβɾe ˌastɾonomˈia|3
+clf_08421_00715840547.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|9
+clf_09697_00195688128.wav|el ɣoβjˈeɾno ˈa pwˈesto a ðˌisposisjˈon de la pˌoβlasjˈon los mˈeðjos nˌesesˈaɾjos pˌaɾa la ɾɾˌeʊβikasjˈon de la mˌajjoɾˈia ðe las βˈiktimas|12
+clf_04310_00974874315.wav|tɾˌaðisjonˈalmˈente la komˈiða lˌiβanˈesa se ˌakompˈaɲa kon xˈuɣo ðe fɾˈutas|4
+clf_07508_00350686664.wav|me pwˈeðes ɾɾˌekomendˈaɾ ˈuna kˌompaɲˈia ðe telˈefono ke funsjˈone βjˈen en tˈoðo el paˈis|8
+clf_02484_01030974689.wav|se me ˈesta kajjˈɛndo el pˈelo|2
+clf_09334_02108847716.wav|la ˌaplikasjˈon te ensˈeɲa a pɾˌonunsjˈaɾ las lˈetɾas pɾˌinsipˈales|11
+clf_07508_02062794969.wav|me paɾˈese mˈujj βjˈen|8
+clf_02484_01531247059.wav|eŋ ɡˈuɣəl mˈaps me ˌapaɾˈese ke en mˈikɾo sˈon kwaɾˈɛnta i ðˈos minˈutos i el kˈosto ˈes ˌapɾoksimˈaðamˈente ðe βˈeɪnte pˈesos|2
+clf_01523_01873961412.wav|bˌeɾifˈike su ˌinstalasjˈon elˈektɾika|1
+clf_02484_01850364728.wav|kjˈeɾo ke poɾ faβˈoɾ ˌaβeɾiɣˈues kˈe pelˈikulas tjˈenem pˌaɾa ˈoɪ a kˈe ˈoɾas i kwˈal ˈes la ke mˈas ɾɾˌekomjˈɛndan|2
+clf_02484_00378163399.wav|los sˈandwitʃes estˈam fɾˈio|2
+clf_01523_00318406943.wav|kisjˈeɾa ɾɾˌeseɾβˈaɾ sjˈete pasˈaxes en klˈase tuɾˈista|1
+clf_08421_01459819273.wav|lˈola kˈe tɾˈiste lo ke les pˈaso a los xˌaponˈeses kon el tˈesunˈami|9
+clf_09697_00099253068.wav|ustˈed tjˈene ke ˌinstalˈaɾ en su ðˌispositˈiβo ˈesta ˌaplikasjˈon ke akˈaβa ðe βaxˈaɾ|12
+clf_08784_00081847264.wav|el ðˌiktaðˈoɾ fɾˈanko estˈuβo kwaɾˈɛnta ˈaɲos en el poðˈeɾ|10
+clf_07508_00423033302.wav|los ˈamsteɾs kˈomen sˌanaˈoɾjas|8
+clf_04310_00605321676.wav|los sandwˈitʃ estˈam fɾˈios|4
+clf_08784_00278594357.wav|bˈoɪ a βˈeɾ pɾimˈeɾo la pelˈikula ˌoɾixinˈal i luˈeɣo βeɾˈe la nwˈeβa βeɾsjˈon|10
+clf_00610_01498116174.wav|seɣˈun mis ðˈatos ˈeste βjˈeɾnes nwˈeβe ðe sepːtjˈembɾe ˈaɪ ʝˈuβja ðe mˌeteoɾˈitos|0
+clf_04310_00660286119.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|4
+clf_02484_00330329764.wav|te ɣˈustan los tʃˌokolˈates|2
+clf_01523_00978839484.wav|ˈaɪ alɣˈum bwˈelo mˈas ˌekonˈomiko pasˈando poɾ los ˈaŋxeles|1
+clf_09697_01393493148.wav|ˈaɪ alɣˈuna pɾˌomosjˈon de alɣˈuna ˌaeɾolˈinea|12
+clf_07049_00252936933.wav|ˈes βwˈelo ðiɾˈekto o ˈase eskˈala en alɣˈum pˈunto|7
+clf_04310_00557167859.wav|te kjˈeɾo peðˈiɾ mˈil lintˈeɾnas i sˈinko mˈil kˌaɾɣaðˈoɾes ðe βˌateɾˈias|4
+clf_09697_00913718932.wav|los pasˈaxes estˈan mˈujj βaɾˈatos poɾ la ˈalta ðemˈanda|12
+clf_03397_00099449966.wav|estˈoɪ akˈi kon ˈuna amˈiɣa ðˌiskutjˈɛndo sˌoβɾe fˈisika kwˈantika|3
+clf_00610_01762603748.wav|me estˈoɪ muɾjˈɛndo ðe kalˈoɾ nˈo se ke asˈeɾ estˈoɪ suðˈando|0
+clf_07508_00475090256.wav|kˈomo te fwˈe el ðˈia ðe ˈoɪ|8
+clf_01523_01251547745.wav|le ɾɾˌekomjˈɛndo los pˌiɾinˈeos|1
+clf_01523_01566976040.wav|los tʃoɾˈisos ke ˈasen en ˈesa sˈona sˈon dˌelisjˈosos|1
+clf_08421_01410018184.wav|poɾ aˈi se ðˈise ke ˈeste pˌeɾsonˈaxe mˌalβeɾsˈo ˈuna kˌantiðˈað ˌekstɾaˌoɾðinˈaɾjo ðe fˈondos pˈuβlikos|9
+clf_08784_00284311642.wav|el kˌampeonˈato ðe sˈuɾf mˈas antˈiɣwo ðel mˈundo ˈes el ðe las ˈislas awˈai|10
+clf_07049_01238949590.wav|ˈola maɾjˈana ʝˈa konˈoses a mi famˈilja|7
+clf_05223_00602448110.wav|konsˈiɣeme tambjˈen dˈatos ðe su estˈaðjo ðe fˈutβol poɾ faβˈoɾ|5
+clf_03397_01022230414.wav|poðɾˈias pɾˌeɣuntˈaɾ tˈoðos los ɾɾˌekeɾimjˈɛntos ke se nˌesesˈitam pˌaɾa poðˈeɾ sˌolisitˈaɾ el eksˈamen|3
+clf_07508_01635657547.wav|ʝˈa me ʝˈeɣo el ˌinteɾnˈet|8
+clf_02484_00513916590.wav|kjˈeɾo ˈiɾme ðe βˌakasjˈones a awˈai pˌeɾo tˈɛŋɡo ˈesta ðˈuða ðe si el βolkˈan estˈa aktˈiβo|2
+clf_02484_01595451722.wav|kwˈanto tjˈempo tjˈene seɲˈoɾ mˈiɾe si tjˈene pˈoko tjˈempo tendɾˈia ke asˈeɾlo ustˈed o sˈino ʝˈo al tˈiɾo le konsˈiɣo ˈuna ɣɾˈua|2
+clf_03397_01202722887.wav|ˈesta atlˈeta pˌanamˈeɲa ˈes ˈun kˈaso ˈuniko ˈase ˌatletˈismo i esɣɾˈima i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|3
+clf_02484_01336580417.wav|tˈoðas las apwˈestas ˈan keðˈaðo imbˈaliðas ðˈaðo ke el paɾtˈiðo nˈo se pˈuðo ʝeβˈaɾ a kˈaβo|2
+clf_08421_00872017107.wav|ˈaɪ ˈun estˈuðjo ke ɾɾˌeβelˈo ke mˈutʃos ðe los kwˈaðɾos ðe los pintˈoɾes ðˌaðaˈistas ˈeɾam pintˈaðos poɾ sus muxˈeɾes|9
+clf_07508_00074983568.wav|kˈompɾala i ke le ʝˈeɣe a su ðˌomisˈiljo ke ˈes ˈun ɾɾeɣˈalo soɾpɾˈesa|8
+clf_09334_02064674524.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|11
+clf_04310_01773347026.wav|kompɾˈaɾ plˈumas βˈeɾðes ðe mˈas ðe βˈeɪnte sentˈimetɾos estˈa pɾˌoiβˈiðo pˌoɾke el lˈoɾo ˌafɾikˈano estˈa em pelˈiɣɾo ðe ˌekstinsjˈon|4
+clf_00610_01911593025.wav|ɾɾaˈul me ˈe sentˈiðo mˈujj eʊfˈoɾika ˈestos ðˈias|0
+clf_06136_01260328342.wav|la sjuðˈad ðe maðɾˈið ˈa kambjˈaðo mˈutʃo en los ˈultimos ˈaɲos|6
+clf_01523_00471187977.wav|le ɾɾˌekomjˈɛndo los fjˈoɾðos nˌoɾuˈeɣos|1
+clf_08784_01711011682.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|10
+clf_05223_00644934060.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|5
+clf_04310_00382329081.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|4
+clf_04310_02004581698.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|4
+clf_05223_02066409610.wav|en mi pɾˈoksima βˈiða nˈo kjˈeɾo sˈer umˈano|5
+clf_08421_00151623147.wav|si el kwˈeɾpo pˈiðe ðeskˈanso ˈaɪ ke ðˈaɾselo ðˈisen los mˈeðikos|9
+clf_08784_01385804934.wav|mi famˈilja βjˈene ðe βisˈita i kjˈeɾen kˌonosˈeɾ la istˈoɾja ðe la sjuðˈad|10
+clf_09697_00109774961.wav|kjˈeɾe ke le pɾˌopoɾsjˈone el tˌelefˈono|12
+clf_05223_02140653469.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|5
+clf_03397_00678034394.wav|kwˈal ˈes el peɾjˈoðiko ke mˈas se lˈee en ˈesta sˈona|3
+clf_09697_01684907990.wav|ʝˈa sˈaβes ke las pelˈikulas en espˈaɲa i mˈɛxiko tjˈenen tˈitulos totˈalmˈente ðistˈintos|12
+clf_01523_00839158099.wav|kisjˈeɾa ɾɾˌeseɾβˈaɾ ðˈos pasˈaxes poɾ faβˈoɾ pˌeɾo em pɾimˈeɾa klˈase|1
+clf_04310_00705116253.wav|te ɣˈustan los tʃˌokolˈates|4
+clf_01523_02096206106.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|1
+clf_00610_00800782811.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas asˈeɪte ðe olˈiβa i asˈeɪte ðe xˌiɾasˈol|0
+clf_09697_00805981986.wav|kˈe ðetˈajjes me pwˈeðes ðˈaɾ sˌoβɾe el pɾˌoseðimjˈɛnto kiɾˈuɾxiko ðe tɾasplˈante ðe kˈaɾa|12
+clf_07508_01149759075.wav|akˈi ˌenkontɾˈe ˈun sˈitjo ðˌonde pwˈeðes leˈeɾ sˌoβɾe las ðˌifeɾˈɛnsjas ˌentɾe los xˈeneɾos ðe teˈatɾo|8
+clf_09334_00327200033.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|11
+clf_03397_00938572094.wav|en akˈejjos tjˈempos los ɣɾiˈeɣos ˌimitˈaβan a los ðjˈoses ðel olˈimpo i kaɾɣˈaβam pjˈeðɾas ðˌesðe la plˈajja a la plˈasa sentɾˈal|3
+clf_09334_00679123792.wav|las βisˈaɣɾas sˈon asˈules|11
+clf_09334_01050797689.wav|lo pɾimˈeɾo ke tjˈene ke asˈeɾ ˈes mˌantenˈeɾ la kˈalma|11
+clf_04310_00125351628.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna sˌapateɾˈia sˈeɾka ðe la kˈasa ðe mis pɾˈimos|4
+clf_02484_01080203000.wav|la ðjˈeta ðe la lˈuna seɣˈun la ɾɾeβˈista ɾɾinkˈon del βˈaɣo konsˈiste en sˈolamˈente komˈeɾ poɾ las nˈotʃes|2
+clf_01523_00063722340.wav|tˈɛŋɡo ˈum bjˈaxe ðe tɾaβˈaxo i ˈando pɾˌeokupˈaðo pˌoɾke mi fɾˈanses ˈes mˈujj mˈalo|1
+clf_01523_01612674939.wav|el ɣɾanˈiso ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|1
+clf_04310_01783367231.wav|sˈaβes kˈomo ˌoɾɣanˈisan la ˌasistˈɛnsja a los ðˌamnifikˈaðos|4
+clf_09334_02119550018.wav|estˈoɪ em bˈaɾjos ɣɾˈupos ðe ɾɾˈeðes sosjˈales en dˌonde ˌinteɾkambjˈamos iðˈeas|11
+clf_00610_00507882566.wav|kˌasaβlˈanka ˈes la pelˈikula fˌaβoɾˈita ðe peɾsˈonas nasˈiðas ˌentɾe mˈil nˌoβesjˈɛntos otʃˈɛnta i mˈil nˌoβesjˈɛntos otʃˈɛnta i sˈinko|0
+clf_07508_02108141410.wav|ke ˈes lo mˈas ˌimpoɾtˈante ðe ˈeste mˈundo|8
+clf_08421_00020256808.wav|me akˈaβo ðe kompɾˈaɾ ˈun dɾˈone pˌeɾo nˈo tˈɛŋɡo iðˈea ðe kˌomo aɾmˈaɾlo|9
+clf_06136_00162728380.wav|paɾˈis se enkwˈɛntɾa sitwˈaða al nˈoɾte ðe fɾˈansja|6
+clf_04310_00089176123.wav|kˌomo βjˈenem peɾsˈonas ðe ðˌifeɾˈɛntes pˈaɾtes ðel mˈundo nˌesesˈito tɾˌaðuktˈoɾes|4
+clf_08784_02018822836.wav|sˈaβes ke tˈeknika usˈaβa ðjˈeɣo ɾɾiβˈeɾa|10
+clf_05223_01376547683.wav|pɾimˈeɾo ke nˈaða βˈamos a asˈeɾ ˈun ˌexeɾsˈisjo ðe ɾɾˌespiɾasjˈon|5
+clf_00610_00625199308.wav|kjˈeɾo ˌaβeɾiɣwˈaɾ kˌomo se ʝˈama ˈun dˌiɾektˈoɾ ðe oɾkˈesta|0
+clf_09334_01592172486.wav|kˈomo se ˌalimˈɛnta a ˈun ˈamsteɾ|11
+clf_05223_01559394652.wav|los sˈandwitʃes estˈam fɾˈios|5
+clf_05223_00541635119.wav|pwˈeðes ɣɾaβˈaɾ ˈum biðˈeo i mandˈaɾmelo a mi koɾɾˈeo|5
+clf_07049_00198547957.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|7
+clf_00610_00160046377.wav|kjˈeɾo saβˈeɾ ðe kwˌanto ˈes la kˌomisjˈon ˈes ˈum pˌoɾsentˈaxe o ˈes ˈuna kˌantiðˈad fˈixa|0
+clf_01523_00429408734.wav|estˈa mˈujj kansˈaðo|1
+clf_07508_00468825334.wav|me pwˈeðes βuskˈaɾ tɾˈes mˈakinas ðe ˌeskɾiβˈiɾ ðˌifeɾˈɛntes|8
+clf_08784_00211718233.wav|a βˈeses la eðˈad ðe pjˈeðɾa sˈiɣe kon nosˈotɾos en el sˈiɣlo βeɪntjˈuno|10
+clf_08784_00719705675.wav|konˈoses alɣˈum paˈis ke nˈo tˈɛŋɡa fɾontˈeɾas|10
+clf_08421_01152964240.wav|kɾˈeo ke tjˈene ɾɾˈota la muɲˈeka|9
+clf_08421_00904474725.wav|desˈeas embjˈaɾ ðˈatos a tus kˌompaɲˈeɾos ðe tɾaβˈaxo ke ˈestas βjˈen|9
+clf_07508_01739543130.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|8
+clf_07049_00994281900.wav|sjentˈifikos ðe la ˌuniβˌeɾsiðˈað ˈan ˌenkontɾˈaðo ke ˈesa sustˈansja se enkwˈɛntɾa en ˈunas pjˈeðɾas|7
+clf_02484_01722725063.wav|bjˈɛntos i toɾmˈɛntas tˈoðo el ðˈia ʝˈeβen ˈum bwˈem paɾˈaɣwas i poɾ aˈi ˈun ˌimpeɾmeˈaβle|2
+clf_01523_00543455731.wav|lo pwˈeðes kaɾɣˈaɾ a la taɾxˈeta ˈoɾo ðe mˌasteɾkˈaɾd|1
+clf_09334_01279718795.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|11
+clf_06136_00488624148.wav|seɣˈun mis ðˈatos ˈeste mˈaɾtes ðjesjˈotʃo ðe feβɾˈeɾo nˈo se tɾaβˈaxa|6
+clf_01523_01756008690.wav|kˈe opsjˈones ðe βwˈelo me pwˈeðes ˌofɾesˈeɾ|1
+clf_08784_00700230407.wav|los tʃˈinos ˈam pɾˌoiβˈiðo los kˈesos fɾansˈeses poɾ temˈoɾ a sus βaktˈeɾjas|10
+clf_06136_00994161715.wav|en dˈos mˈeses me saljˈo ˈum bjˈaxe a nwˈeβa ʝˈoɾk i nˈo tˈɛŋɡo nˈi iðˈea ke ɾɾˈopa ʝeβˈaɾ|6
+clf_06136_00432186316.wav|kˌasaβlˈanka ˈes la pelˈikula fˌaβoɾˈita ðe peɾsˈonas nasˈiðas ˌentɾe mˈil nˌoβesjˈɛntos otʃˈɛnta i mˈil nˌoβesjˈɛntos otʃˈɛnta i sˈinko|6
+clf_09697_00381350553.wav|kjˈeɾe ke le pɾˌopoɾsjˈone la ðˌiɾeksjˈon ˌelektɾonˈika|12
+clf_04310_01094030626.wav|ˈel ˈes ˈuna peɾsˈona ke βjˈene ðe ˈuno ðe los βˈaɾɾios mˈas kˈaɾos ðe la sjuðˈad|4
+clf_03397_00788571676.wav|ɾɾesˈeɾβame sˈinko entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las ˈonse i βˈeɪnte|3
+clf_04310_02116893935.wav|miɣˈel aŋxˈel ˌestɾenˈaɾon ˈuna pelˈikula akˈi en lˈima pˌeɾo nˈo me akwˈeɾðo si ˈes ˌanimˈaða|4
+clf_01523_01122231971.wav|el aktˈoɾ ˈes ˌekstɾaˌoɾðinˈaɾjo ˈes ðe oɾˈixen indˈu i ˈaβla βˈaɾjos iðjˈomas|1
+clf_06136_01883864078.wav|en tɾˈes semˈanas me saljˈo ˈum bjˈaxe a kaɾˈakas i nˈo tˈɛŋɡo nˈi iðˈea ke ˌaeɾolˈinea tomˈaɾ|6
+clf_03397_00907759458.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|3
+clf_05223_01181173299.wav|los ɾɾˌekisˈitos pˌaɾa la eskwˈela ðe sˈine ˈes ˈun eksˈamen en tɾˈes etˈapas i ˈuna ˌaʊðisjˈon|5
+clf_08421_01601620308.wav|buskˈando tˌutoɾjˈales ðe ˌentɾenamjˈɛnto|9
+clf_04310_01670300127.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|4
+clf_07049_01792868583.wav|te ɾɾˌekomjˈɛndo los ˈalpes swˈisos|7
+clf_09334_00635795156.wav|estˈoɪ kansˈaðo ðe komˈeɾ fɾˈuta ɾɾˈoxa|11
+clf_06136_01422979291.wav|estˈoɪ βuskˈando ˈun ɾɾˌestaʊɾˈante ðe peskˈaðos i maɾˈiskos|6
+clf_05223_00751349911.wav|kwˈal fwˈe su ˈultima noβˈela|5
+clf_05223_00858076351.wav|mˈandame ˈuna pelˈikula ke te ɣˈuste ðe ˈese ðˌiɾektˈoɾ|5
+clf_03397_01653927953.wav|mˈandame ˈuna pelˈikula ke te ɣˈuste ðe ˈese ðˌiɾektˈoɾ|3
+clf_08784_00188632353.wav|ˈas βolˈaðo en ˌelikˈopːteɾo|10
+clf_03397_00910612987.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|3
+clf_02484_01153684925.wav|me pwˈeðes ɾɾˌeseɾβˈaɾ ðˈos nˈotʃes en el otˈel poɾ faβˈoɾ|2
+clf_05223_00897588952.wav|kisjˈeɾa ɾɾˌekoɾðˈaɾ los tjˈempos ðe mi imfˈansja|5
+clf_09697_00141931636.wav|aˈoɾa mˈismo en la ˈisla ðe pwˈeɾto ɾɾˈiko ˈaɪ kwaɾˈɛnta i sˈinko sˈɛntɾos ðe akˈopjo ɾɾˌexistɾˈaðos|12
+clf_07049_02033400252.wav|lo pwˈeðes kaɾɣˈaɾ en la taɾxˈeta βˈeɾðe ðe βˈisa|7
+clf_08784_01231739240.wav|nˈo me ɣˈustan los luɣˈaɾes al ˈaɪɾe lˈiβɾe|10
+clf_02484_00850252577.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|2
+clf_07049_01538968106.wav|la βˌisiklˈeta uɾβˈana se ˈa kˌombeɾtˈiðo en ˈuno ðe los mˈeðjos ðe tɾanspˈoɾte mˈas pˌeliɣɾˈosos|7
+clf_01523_01062270414.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|1
+clf_05223_00062292851.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|5
+clf_07049_00210878150.wav|te ɣˈusta el tʃˌokolˈate kaljˈɛnte|7
+clf_04310_01555499173.wav|kompɾˈaɾ maɾfˈil estˈa pɾˌoiβˈiðo pˌoɾke el ˌelefˈante estˈa em pelˈiɣɾo ðe ˌekstinsjˈon|4
+clf_09334_01287027076.wav|el tjˈempo totˈal ðe βjˈaxe ˈes ðe ðjˈes ˈoɾas tɾˈeɪnta i sˈinko minˈutos|11
+clf_01523_01132758479.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|1
+clf_05223_00702757946.wav|kwˈal ˈes la ˌestasjˈon de mˈetɾo mˈas seɾkˈana|5
+clf_09697_00892771921.wav|ˈes βeɾðˈad ke ˌestefanˈia nˈo se ʝˈeβa βjˈen kon ˌaŋxelˈika|12
+clf_05223_01730105370.wav|tenˈemos ke ponˈeɾnos ðe akwˈeɾðo|5
+clf_05223_01536742488.wav|kˈe pɾoɣɾˈamas ðe tˌeleβisjˈom bˈen los ˌaβitˈantes ðe mˌonteɾɾˈeɪ|5
+clf_02484_01816043446.wav|tjˈenes ke entɾˈaɾ al mˈetɾo poɾ la lˈinea nwˈeβe seɣˈuŋ ɡˈuɣəl ˈesta lˈinea tjˈene tɾˈes ˌestasjˈones ðe tɾansβˈoɾðo|2
+clf_03397_00193706450.wav|ʝˈo kjˈeɾo komˈeɾ pˈaβo pˌeɾo nˈaðje mˈas kjˈeɾe|3
+clf_08784_00229251871.wav|tjˈene el tjˈempo kontˈaðo|10
+clf_06136_01695430415.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas insˈektos sˈekos i kˈeso fɾansˈes|6
+clf_08421_01433060774.wav|ajjˈeɾ βˈi ˈuna pelˈikula fɾansˈesa sˌoβɾe la pɾimˈeɾa ɣˈeɾɾa mundjˈal i me ʝamˈo mˈutʃo la ˌatensjˈon ˈuno ðe los solðˈaðos|9
+clf_05223_00153322094.wav|te ɣˈustan los tʃˌokolˈates|5
+clf_05223_01948250535.wav|poðɾˈias pɾˌeɣuntˈaɾ tˈoðos los ɾɾˌekeɾimjˈɛntos ke se nˌesesˈitam pˌaɾa poðˈeɾ sˌolisitˈaɾ el eksˈamen|5
+clf_09334_02024039011.wav|nˈo tjˈenes alɣˈun oɾˈaɾjo saljˈɛndo kˌomo al mˈeðjo ðˈia|11
+clf_04310_01495474399.wav|si kjˈeɾe le pwˈeðo ðˈaɾ alɣˈunas ɾɾˌekomˌendasjˈones ˌalimentˈisjas|4
+clf_02484_00684068190.wav|kˌonosˈi a ˈalɣjen nˈo te pˈone felˈis|2
+clf_02484_00998167106.wav|nˈo te entjˈɛndo nˈaða|2
+clf_07049_01061565513.wav|en el estˈaðjo βˈa a asˈeɾ mˈutʃo fɾˈio|7
+clf_03397_01744320812.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|3
+clf_06136_01577960936.wav|estˈoɪ βuskˈando ˈun ɾɾˌestaʊɾˈante ˌaɾxentˈino|6
+clf_09697_00851328939.wav|kˈe ɾɾˈuta ðˈeβo tomˈaɾ pˌaɾa ˈiɾ al ˌospitˈal mˈas seɾkˈano|12
+clf_08784_01568375540.wav|kwˈanto kwˈestan los βolˈetos ðel βajjˈet|10
+clf_01523_00211262514.wav|te ɣˈusta la njˈeβe|1
+clf_08421_00237574546.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|9
+clf_02484_00802717926.wav|tˈɛŋɡo mˈutʃas ɣˈanas ðe kˌomensˈaɾ a asˈeɾ ˌexeɾsˈisjo|2
+clf_09697_00500224470.wav|los pɾˌesiðˈɛntes estˈan mˈujj pˌeleˈaðos poɾ el ˈultimo kˈaso ðe kˌoɾɾupsjˈon ˌokuɾɾˈiðo|12
+clf_02484_00441128087.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|2
+clf_06136_01468703536.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|6
+clf_09334_02052507203.wav|kjˈeɾo saβˈeɾ el oɾˈixen de la palˈaβɾa fˌeɾɾetˈeɾja|11
+clf_07508_00247598216.wav|kjˈeɾes ke te sˈiɾβa ˈun tˈe|8
+clf_07049_00874347682.wav|tˈɛŋɡo ˈuna amˈiɣa ke βˈiβe poɾ la sˈona ðˌeβastˈaða i nˈo me kontˈesta el telˈefono|7
+clf_04310_02146927674.wav|ɾɾaˈul me ˈe sentˈiðo mˈujj eʊfˈoɾiko ˈestos ðˈias|4
+clf_01523_01583361073.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|1
+clf_01523_02004534744.wav|bˈa a nˌesesitˈaɾ pˈan mostˈasa mˌajjonˈesa seβˈojja ˈun wˈeβo letʃˈuɣa tomˈate i pimjˈɛnta|1
+clf_01523_01095591444.wav|me pwˈeðes ˌajjuðˈaɾ kon el fˌoɾmulˈaɾjo|1
+clf_08421_00456322727.wav|nˈo se aβlˈaɾ malˈajjo|9
+clf_09697_00445711193.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|12
+clf_09334_01004385972.wav|me ɣˈusta la iðˈea|11
+clf_04310_01740610149.wav|maɲˈana βˈa a neβˈaɾ al ˌamanesˈeɾ i en la tˈaɾðe kˌaeɾˈa ɣɾanˈiso|4
+clf_03397_01116018309.wav|ɾɾesˈeɾβame ðˈos entɾˈaðas poɾ faβˈoɾ pˌaɾa las ˈotʃo i βˌeɪntisˈinko|3
+clf_09334_01069858173.wav|kwˈanto tjˈempo ðˈuɾan ˈestas taɾxˈetas|11
+clf_00610_01264386200.wav|ɾɾaˈul me ˈe sentˈiðo ˈum pˈoko fwˈeɾa ðe luɣˈaɾ ˈestos ðˈias me sjˈɛnto ɣˈoɾða|0
+clf_07049_01795519845.wav|te ɾɾˌekomjˈɛndo la kˌoɾðijjˈeɾa ðe los ˈandes|7
+clf_04310_00785840624.wav|la ˌoβskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|4
+clf_05223_01373289266.wav|kjˈeɾe ke ɾɾeβˈise su estˈaðo ðe kwˈɛnta i los ðepˈositos ke ˈa ˈetʃo en el ˈultimo mˈes|5
+clf_07508_00537189755.wav|kwˈanto kwˈesta ˈesa βˈolsa ˌitaljˈana|8
+clf_09697_00537986546.wav|kjˈeɾo ˈun luɣˈaɾ ðˌonde nˈo pˈoŋɡan la mˈusika tˈam fwˈeɾte|12
+clf_02484_00364682147.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|2
+clf_05223_00571992422.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|5
+clf_07508_02140583740.wav|nˈo te entjˈɛndo nˈaða|8
+clf_08421_00206702075.wav|el fɾˈio me ɣˈusta mˈutʃo|9
+clf_08784_00970747768.wav|en la kultˈuɾa exˈipsja el ˌalakɾˈan sˌimbolˈisa la fwˈeɾsa ðel fˌaɾaˈon|10
+clf_05223_01404799720.wav|el ɣɾanˈiso ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|5
+clf_09697_00737796816.wav|le kajjˈo alɣˈuna sustˈansja ˌiɾɾitˈante|12
+clf_09697_01975681694.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|12
+clf_03397_01721207550.wav|en kwˈantos xwˈeɣos ˌafɾikˈanos ˈa pˌaɾtisipˈaðo|3
+clf_09697_00796594744.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|12
+clf_09697_01437544129.wav|seɲˈoɾ feɾnˈando en ke le pwˈeðo ˌajjuðˈaɾ|12
+clf_09697_01543273045.wav|bˈe ustˈed la pestˈaɲa en la pˈaɾte sˌupeɾjˈoɾ iskjˈeɾða ke ðˈise βuskˈaɾ|12
+clf_09697_00599194247.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|12
+clf_04310_00791436023.wav|sesˈilja kisjˈeɾa asˈeɾ ˈun depˈosito a la kwˈɛnta ðe mi eɾmˈana|4
+clf_04310_02093543417.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna fˌeɾɾeteɾˈia sˈeɾka ðe kˈasa ðe mis aβwˈelos|4
+clf_08421_00718048879.wav|me akˈaβo ðe kompɾˈaɾ ˈun ɾɾˌompekaβˈesas|9
+clf_02484_00678231627.wav|se ɾɾˌekomjˈɛnda ke ʝˈeβes ˈum pˌantalˈon de mesklˈijja sˌapatˈijjas kˈomoðas o βˈotas pˌaɾa kˌaminˈaɾ polˈeɾa ðe mˈaŋɡa lˈaɾɣa ɡˈoɾɾa i lˈɛntes ðe sˈol|2
+clf_03397_01572549945.wav|kjˈeɾo kompɾˈaɾ ˈuna kˌomputaðˈoɾa i kjˈeɾo ke me ajjˈuðes a asˈeɾ ˈum peðˈiðo|3
+clf_07049_00791461428.wav|kwˈanto me ðemˈoɾo ðe akˈi a βwˈenos ˈaɪɾes en aβjˈon|7
+clf_05223_01692372116.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|5
+clf_08421_01633739935.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|9
+clf_03397_01860673101.wav|el siɣjˈɛnte semˈestɾe kjˈeɾo ˌempesˈaɾ a ˌestuðjˈaɾ la lˌisensjatˈuɾa en sˈine|3
+clf_07508_00885584730.wav|i sˈon mˈujj estɾˈiktos kon las ɾɾˈeɣlas|8
+clf_08421_01325829143.wav|kjˈeɾe ke se lo mˈande poɾ mˈaɪl o poɾ watsˈapp|9
+clf_07049_01462095183.wav|tjˈene ke ɾɾˌepoɾtˈaɾ ˌinmeðjˈatamˈente el ˌaksiðˈɛnte pˌaɾa ke le kˈuβɾa la pˈolisa|7
+clf_08784_00849035830.wav|la pɾimˈeɾa mˈakina ke ˈaβlo fwˈe ˈun aʊtˈomata fˌaβɾikˈaðo en ɾɾˈusja en el sˈiɣlo ðjˌesisjˈete|10
+clf_08421_00694559372.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|9
+clf_07049_01982809561.wav|kwˈales fwˈeɾon las kˌonsekwˈɛnsjas ðe ˈeste mˌoβimjˈɛnto|7
+clf_08421_01883355600.wav|bˈuskas ˈun kwˈaɾto ˈun dˌepaɾtamˈɛnto o ˈuna kˈasa|9
+clf_08784_00049574301.wav|los ˌafɾoˌameɾikˈanos pwˈeðem botˈaɾ en estˈaðos unˈiðos ðˌesðe mˈil nˌoβesjˈɛntos sesˈɛnta ˈantes lo tenˈiam pɾˌoiβˈiðo|10
+clf_07049_01665080300.wav|tˈɛŋɡo ˈesta imˈaxen en la kaβˈesa ke ˈes ˈun muɾˈal mˈeðjo fˌutuɾˈista|7
+clf_09697_01564520013.wav|te ˌakonsˈexo ke te kˈuβɾas ðe pjˈes a kaβˈesa|12
+clf_02484_00899424185.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|2
+clf_07049_01219049742.wav|ˈaɪ ˈum pakˈete em pɾˌomosjˈon de ðˈos mˈil ðˈolaɾes poɾ semˈana|7
+clf_05223_00131434809.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|5
+clf_02484_00823766319.wav|akˈaβo ðe leˈeɾ ke fwˈe ˈuna pelˈikula ðˌesastɾˈosa ðe βeɾðˈad entˈonses nˈo te la ɾɾˌekomjˈɛndo|2
+clf_05223_00509346815.wav|en akˈejjos tjˈempos los ɣɾiˈeɣos ˌimitˈaβan a los ðjˈoses ðel olˈimpo i kaɾɣˈaβam pjˈeðɾas ðˌesðe la plˈajja a la plˈasa sentɾˈal|5
+clf_08421_01058958134.wav|la ˌensiklopˈeðja βɾitˈanika ðˈise ke el sˈer umˈano tjˈene lˈiβɾe ˌalβeðɾˈio|9
+clf_02484_01601115831.wav|ʝˈa sˈaβes kwˌanto βˈan a kostˈaɾ las entɾˈaðas|2
+clf_08421_01753965139.wav|dˌesðe ˈase mˈutʃo tjˈempo tenˈia ɣˈanas ðe usˈaɾ ˈesta ˌaplikasjˈon dˌonde le ensˈeɲan a ˈuno a asˈeɾ komˈiða|9
+clf_08784_02037621130.wav|la lˈuna tendɾˈa ˈun sˌiɡnifikˈaðo simbˈoliko|10
+clf_03397_00252587690.wav|nˌesesˈito poɾ faβˈoɾ ke βˈuskes ke tɾanspˈoɾte ˈusan los ˌaβitˈantes ðe mˌonteɾɾˈeɪ pˌaɾa ˈiɾ a su tɾaβˈaxo|3
+clf_09697_01329579557.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|12
+clf_06136_01508834273.wav|ˈe estˈaðo pensˈando ke nˌesesˈito ˈiɾ a naðˈaɾ ðˈos βˈeses poɾ semˈana|6
+clf_08784_00632851026.wav|bˈoɪ a la sjuðˈad ðe mˈɛxiko poɾ kwˈatɾo ðˈias|10
+clf_03397_00273171519.wav|las sˈalas imˈaks tjˈenen ˈun kˈosto ðe sjˈɛnto ðjˈes pˈesos|3
+clf_07049_01778663128.wav|tjˈene ˈuna pelˈikula mˈujj famˈosa ke se ʝˈama ðˈos mˈil ˈuno ˈuna ˌoðisˈea ðel espˈasjo|7
+clf_08421_01697371241.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|9
+clf_02484_00977384616.wav|nˈo entjˈɛndo nˈaða|2
+clf_08784_01728414977.wav|la ˌintelixˈɛnsja ˌaɾtifisjˈal estˈa kon nosˈotɾos ðˌesðe meðjˈaðos ðe los ˈaɲos sinkwˈɛnta ðel sˈiɣlo pasˈaðo|10
+clf_07049_00264045442.wav|te ɣˈustan los tʃˌokolˈates|7
+clf_08421_01230423994.wav|eksˈiste la pˌosiβˌiliðˈad ðe asˈeɾ ˌekotuɾˈismo en kˌanaðˈa a mˈujj βwˈem pɾˈesjo|9
+clf_01523_02018669296.wav|se ɾɾompjˈo la mˈesa ðe la kosˈina i nˈo se kˌomo ˌaɾɾeɣlˈaɾla|1
+clf_08421_00362574962.wav|ˈes mˈujj ˌimpoɾtˈante ˌaɲaðˈiɾ a la ɾɾesˈeta sjˈen mˌililˈitɾos ðe βˈino βlˈanko|9
+clf_07049_00430629756.wav|kˈe efˈektos sˌekundˈaɾjos pwˈeðe tenˈeɾ ˈese ɾɾemˈeðjo|7
+clf_04310_00461112180.wav|tjˈenen ke estˈaɾ kwaɾˈɛnta i sˈinko minˈutos ˈantes ðe la funsjˈom pˌaɾa ɾɾˌekoxˈeɾ las entɾˈaðas|4
+clf_07508_00783472688.wav|en kˈe kˈajje estˈa la kˈasa|8
+clf_03397_00712993131.wav|me pwˈeðes ɾɾˌepetˈiɾ la ˌimfoɾmasjˈom poɾ faβˈoɾ|3
+clf_08421_00178097563.wav|konˈoses la ˌimfoɾmasjˈon nˌutɾisjonˈal ðe la pˈitsa βˌexetaɾjˈana|9
+clf_07508_02143155917.wav|kˈompɾala i ke ʝˈeɣe a mi ðˌomisˈiljo ke ʝˈo le kjˈeɾo ðˈaɾ el ɾɾeɣˈalo|8
+clf_08784_01705717517.wav|te ɾɾˌekomjˈɛndo ke βˈeas las pelˈikulas ðe luˈis βuɲwˈel|10
+clf_07049_00606691130.wav|estˈa mˈujj kansˈaðo|7
+clf_07508_00672452374.wav|estˈamos en la pˈaɾte ðe la esˈena ðˌonde la aktɾˈis estˈa usˈando su pˌesˈe|8
+clf_03397_00660465538.wav|la pelˈea ˌentɾe ɾɾoðɾˈiɣo i manwˈel estˈuβo ˌaɾɾeɣlˈaða|3
+clf_04310_00487957155.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|4
+clf_06136_00013257401.wav|ˌoxalˈa puðjˈeɾamos ˌimbitˈaɾ a ˈesta ɾɾeʊnjˈon kon la seɲˈoɾa ˈaɾjas a βˈaɾjos pintˈoɾes|6
+clf_08421_00494303128.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|9
+clf_07508_00011533677.wav|leˈi ˈuna nˈota ðˌonde ɾɾˌekomjˈɛndan ke los siklˈistas ˈusen kˈasko|8
+clf_03397_01606304142.wav|ɾɾesˈeɾβame sˈeɪs entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las ðˈose i ðjˈes|3
+clf_01523_01891871073.wav|maɲˈana βˈa a estˈaɾ nuβlˈaðo poɾ la maɲˈana|1
+clf_07049_00534338857.wav|nˌesesˈito ˈunas sˌapatˈijjas ˌespesjˈales pˌaɾa kˌaminˈaɾ|7
+clf_01523_02033674842.wav|pˈoŋɡa ˈum pˈoko ðe asˈeɪte en la saɾtˈen i fɾˈia el wˈeβo|1
+clf_09697_00864715113.wav|tˈɛŋɡo mˈutʃos nˌeɣatˈiβos ðe tɾˈeɪnta i sˈinko milˈimetɾos|12
+clf_08784_01345897388.wav|la ˈoβɾa ke βˈi nˈo ˈesta βasˈaða en la βeɾsjˈon ˌoɾixinˈal|10
+clf_08784_01540237347.wav|nˈo me ɣˈustan nˈaða las pelˈikulas ðe fejjˈini|10
+clf_01523_00341727089.wav|tˈɛŋɡo ke asˈeɾ ˈuna pɾˌesentasjˈom pˌaɾa la ˌofisˈina i keɾˈemos ˌasosjˈaɾlo a ˈun eβˈɛnto kˌultuɾˈal|1
+clf_09697_01565882936.wav|ˈaɪ mˈutʃa xˈɛnte ke ʝˈa ˈa βˈisto la pelˈikula tɾˈes βˈeses|12
+clf_06136_00374497838.wav|en sˈalto lˈaɾɣo nˈo tenˈemos pˌaɾtisipˈantes|6
+clf_07049_00623069332.wav|sjˈempɾe me ˈa ɣustˈaðo mˈutʃo el kolˈoɾ ˌamaɾˈijjo|7
+clf_03397_01750443241.wav|kjˈeɾen o nˈo kjˈeɾen senˈaɾ en kˈasa|3
+clf_07049_01102304623.wav|lo pwˈeðes pasˈaɾ en la taɾxˈeta ðe ˌameɾˈikan ekspɾˈess|7
+clf_07508_00694403456.wav|ˈultimamˈente ˈe andˈaðo mˈujj ˌaseleɾˈaða|8
+clf_02484_01668868886.wav|tjˈenes alɣˈuna ˈotɾa sˌuxeɾˈɛnsja ˈum plˈan asˈi ɾɾomˈantiko bonˈito ˈintimo|2
+clf_08421_00325750860.wav|kˈe ˈetʃo en ˌespesˈifiko te ɣˌustaɾˈia saβˈeɾ ðe la pɾimˈeɾa ɣˈeɾɾa mundjˈal|9
+clf_07049_02110550247.wav|le ɾɾˌekomjˈɛndo ke βˈajjam pɾˌepaɾˈaðos kom paɾˈaɣwas i βeβˈiðas kaljˈɛntes|7
+clf_02484_01451477427.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|2
+clf_08421_00357927505.wav|estˈoɪ mˈujj ˌokupˈaða kon el tɾaβˈaxo|9
+clf_03397_01124427937.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe ˈel|3
+clf_08421_00603971394.wav|su tɾaβˈaxo ˈes ˌaɾɾiesɣˈaðo i pɾofˈundo|9
+clf_08421_01082275527.wav|la kˈasa estˈa ˌamoβlˈaða o nˈo|9
+clf_04310_00785899323.wav|en la sˈona ðel sˈɛntɾo te pwˈeðes moβˈeɾ fˈasilmˈente kˌaminˈando i nˈo βˈas a nˌesesitˈaɾ usˈaɾ niŋɡˈun mˈeðjo ðe tɾanspˈoɾte|4
+clf_04310_00862338601.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe ˈana sˌoβɾe pintˈuɾa ɾɾupˈestɾe|4
+clf_08421_01185764608.wav|ˈemos ˌenkontɾˈaðo ðˌifeɾˈɛntes kwˈaɾtos en la sˈona sˈuɾ ke se ˌaðekˈuan a tus nˌesesiðˈaðes|9
+clf_06136_00100643317.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|6
+clf_08784_00133531365.wav|te ɾɾˌekomjˈɛndo ke βˈeas las pelˈikulas ðe fejjˈini|10
+clf_05223_00480432903.wav|ˈes ˈuna ɣɾˈam bentˈaxa tenˈeɾ ˈuna amˈiɣa majjˈoɾ|5
+clf_09697_01683085692.wav|aˈoɾa tʃekˈeo la ˌimfoɾmasjˈon ke me mandˈaste i lo ɾɾeswˈelβo|12
+clf_07508_00173724006.wav|te lo pwˈeðo mandˈaɾ a tu koɾɾˈeo pˌaɾa ke lo entjˈɛndas mexˈoɾ|8
+clf_08784_00908141149.wav|los fɾansˈeses tjˈenen la majjˈoɾ βˌaɾjeðˈad ðe kˈesos ðel planˈeta|10
+clf_08784_00916052760.wav|se espˈeɾan toɾmˈɛntas maɲˈana tˈoðo el ðˈia|10
+clf_02484_01793309414.wav|tambjˈen estˈa la ðjˈeta βˌalanseˈaða ðe kˌaloɾˈias ɾɾˌestɾiŋxˈiðas ˈesta ðjˈeta βjˈene kon sˌupeɾβisjˈon del kaɾðjˈoloɣo|2
+clf_08421_00441335057.wav|al sˌiɾkulˈaɾ mˈenos ˌaʊtomˈoβiles en la sjuðˈad se lˈoɣɾa ˈuna mexˈoɾ kˌaliðˈad ðel ˈaɪɾe|9
+clf_01523_01945641384.wav|kjˈeɾo mi asjˈɛnto en el pasˈijjo|1
+clf_09697_00611148573.wav|tˈɛŋɡo mˈutʃas kˌomputaðˈoɾas i kassˈettes βjˈexas|12
+clf_08784_01157152167.wav|konˈoses los ˈoɾnos mˌaɾɾokˈies pˌaɾa asˈeɾ pˈan|10
+clf_06136_01767068645.wav|mˌonteβiðˈeo se enkwˈɛntɾa sitwˈaða en el ɾɾˈio ðe la plˈata|6
+clf_08421_00893452619.wav|el ˈotɾo ðˈia me ðixˈiste ke kompɾˈaste ˈun mˈujj βwˈem pˌeɣamˈɛnto|9
+clf_07508_00335912632.wav|te ɣˈustan los tʃˌokolˈates|8
+clf_08421_01581170345.wav|dˌefinitˈiβamˈente el ðˌepaɾtamˈɛnto tjˈene ke tenˈeɾ teɾɾˈasa o βalkˈon|9
+clf_00610_00425819568.wav|si βˈuska βaxˈaɾ ðe pˈeso los asˈukaɾes nˈo sˈon ˈuna βwˈena opsjˈon|0
+clf_08421_00828063494.wav|kwalkjˈeɾ kˈosa ke nˌesesˈites me ðˈises|9
+clf_07049_01111890574.wav|te ɣˈustan los elˈaðos|7
+clf_01523_02097338089.wav|la sjuðˈað ˈes βejjˈisima i sˈupeɾ alˈeɣɾe|1
+clf_02484_00232693438.wav|bˈoɪ a nˌesesitˈaɾ ke lo pˈaɣes kon la taɾxˈeta ɾɾˈoxa|2
+clf_07049_01231985554.wav|en el sˈɛntɾo ˈaɪ mˈujj βwˈenos βˈaɾes kom pantˈajjas ðe plˈasma ðe sesˈɛnta pulɣˈaðas pˌaɾa ðˌisfɾutˈaɾ βjˈen el paɾtˈiðo|7
+clf_02484_01095573777.wav|ˌaβeɾiɣwˈame pɾˈesjos kwˌanto ˈes tˌempoɾˈaða βˈaxa kwˌanto ˈes tˌempoɾˈaða ˈalta i opsjˈones ðe βˈus|2
+clf_07049_01073614188.wav|los kˈesos ke ˈasen en ˈesa sˈona sˈom pˌaɾa tʃupˈaɾse los ðˈeðos|7
+clf_09697_00378337969.wav|estˈoɪ ˈum pˈoko pɾˌeokupˈaðo me sˈaljo kˌomo ˈuna mˈantʃa en la pjˈeɾna i nˌesesˈito ke me ajjˈuðes|12
+clf_01523_00360677393.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|1
+clf_08421_00403862711.wav|estˈoɪ mˈujj mˌaɾeˈaðo|9
+clf_08784_00528413229.wav|ˈaɪ alɣˈuna ˈoβɾa ðe teˈatɾo ˈeste fˈin de semˈana|10
+clf_06136_02045217113.wav|kjˈen ˈes el βˌendeðˈoɾ|6
+clf_07508_00329702487.wav|de ðˈonde ˈes el ðˌiɾektˈoɾ ɣonsˈales iɲˈaɾɾitu|8
+clf_09697_01831066208.wav|kjˈeɾe ke le pɾˌopoɾsjˈone la ðˌiɾeksjˈom postˈal|12
+clf_09334_01201074094.wav|ˈes mˈujj ˌimpoɾtˈante la pˈaɾte ɣˌutuɾˈal kon la ˈeɾɾe|11
+clf_05223_00339880445.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|5
+clf_04310_00120207939.wav|te kjˈeɾo peðˈiɾ ˈunas ˈotʃo kˈaxas ðe papˈel ixjˈeniko i tɾˈeɪnta ðe toˈajjas nˈo ðˌesetʃˈaβles|4
+clf_02484_01529017520.wav|los paɾlˈantes ˈestos ke te ðˈixe sˈon enˈoɾmes sˈaβes ke se pwˈeðe asˈeɾ kon ˈejjos|2
+clf_09334_00961452630.wav|lo ke nombɾˈaste sˈom pelˈikulas o sˈon sˈeɾjes|11
+clf_04310_00133848650.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|4
+clf_08421_01060068682.wav|xˈusto ajjˈeɾ βˈaxe ˈuna ˌaplikasjˈon de la ɾɾeˈal ˌakaðˈemja ðe la lˈɛŋɡwa ˌespaɲˈola|9
+clf_02484_00334085009.wav|la βˈolsa ˈa ˌaʊmentˈaðo en ˈun djˌesisjˈete poɾ sjˈɛnto ˈes ˈum bwˈen momˈɛnto pˌaɾa asˈeɾ ˌimbeɾsjˈones|2
+clf_09334_00187462521.wav|ɾɾeβˈise ke tˈoðas las pwˈeɾtas ðe la kˈasa sjˈeɾɾen koɾɾˈektamˈente|11
+clf_07508_01917416204.wav|kwˈal ˈes la ðˌefinisjˈon del ðɾˈama|8
+clf_02484_00228782705.wav|de ˈetʃo si kjˈeɾes te βˈoɪ a mandˈaɾ ˈum pˌantajjˈaso ðe mi spotˈifi pˌoɾke tˈɛŋɡo la kansjˈon te la βˈoɪ a kˌompaɾtˈiɾ poɾ watsˈapp|2
+clf_08421_02056831396.wav|ˈola βwˈenas tˈaɾðes pˈaβlo ke pwˈeðo asˈeɾ poɾ tˈi|9
+clf_09697_01850296187.wav|ustˈeð estˈa a ðjˈes minˈutos ðe la klˈinika mˈas seɾkˈana|12
+clf_07508_01519738750.wav|kjˈeɾes ke te sˈiɾβa ˈun kafˈe|8
+clf_01523_01209968250.wav|del mˈetɾo al teˈatɾo sˈon djˈes minˈutos|1
+clf_07049_01909433693.wav|ˈes ˈuna nwˈeβa fwˈɛnte ðe ˌeneɾxˈia|7
+clf_03397_00301901936.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|3
+clf_08421_00859067334.wav|dˈime a sjˈɛnsja sjˈeɾta kjˈen ˈes ˈeste pˌeɾsonˈaxe|9
+clf_00610_02028830858.wav|mˈas o mˈenos se tˈaɾða mˈeðja ˈoɾa en asˈeɾ ˈesa ɾɾesˈeta|0
+clf_05223_00887476571.wav|ɾɾesˈeɾβame tɾˈes entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de ˈun kwˈaɾto pˌaɾa las nwˈeβe|5
+clf_07508_01510591749.wav|ʝˈa kˈasi ˈes el ðˈia ðe las mamˈa|8
+clf_04310_01784851503.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas βeɾðˈuɾas kˌosinˈaðas al βapˈoɾ|4
+clf_08421_00263065241.wav|bˈoɪ a tenˈeɾ βisˈitas i kjˈeɾo sˌoɾpɾendˈeɾlos kon ˈum plˈato ˌekskisˈito|9
+clf_04310_02087561078.wav|kaɾˈakas tjˈene mˈutʃos pˈaɾkes ðˌonde ˈaɪ konsjˈeɾtos ɣɾatwˈitos|4
+clf_09334_00198371872.wav|te ɣˈustan los tʃˌokolˈates|11
+clf_06136_01497820408.wav|sˈam fɾansˈisko se enkwˈɛntɾa sitwˈaða en la kˈosta oˈeste ðe los estˈaðos unˈiðos|6
+clf_07508_02086718031.wav|me dwˈele mˈutʃo la kaβˈesa kwˌando ˈaɣo ˌexeɾsˈisjo|8
+clf_01523_00116095579.wav|el fɾansˈes ˈes el iðjˈoma ðel amˈoɾ|1
+clf_04310_00341159848.wav|alβˈaɾo kisjˈeɾa asˈeɾ ˈun ɾɾetˈiɾo ðe ˌefektˈiβo ðe mi kwˈɛnta ˈoɾo|4
+clf_04310_01680166786.wav|tjˈenen ke ʝeɣˈaɾ katˈoɾse minˈutos ˈantes ðe la funsjˈom pˌaɾa ɾɾˌekoxˈeɾ las entɾˈaðas|4
+clf_09697_00751669059.wav|akˈi tˈɛŋɡo la pɾˌoɣɾamasjˈon komplˈeta ðe la sˈala ðe ˌeksposisjˈones|12
+clf_07049_01260853052.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|7
+clf_07049_01362799752.wav|maɲˈana xwˈeɣan los ˈotʃo ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa ˌeʊɾopˈea|7
+clf_01523_01412877326.wav|maɲˈana xwˈeɣan los ˈotʃo ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa ˌaɾxentˈina|1
+clf_08421_02058490184.wav|tˈɛŋɡo mˈutʃas ðˈuðas|9
+clf_01523_00527666780.wav|tˈɛŋɡo ˈesta imˈaxen en la kaβˈesa ke ˈes ˈun muɾˈal mˈeðjo fˌutuɾˈista|1
+clf_08784_01530531445.wav|en la kultˈuɾa ˌafɾikˈana el ˌalkatɾˈas sˌimbolˈisa ˌinosˈɛnsja|10
+clf_05223_00008926376.wav|ɾɾesˈeɾβame kwˈatɾo entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las ðjˈes i mˈeðja|5
+clf_08784_00527332511.wav|las notˈisjas fˈalsas sˈon ˈum bˌeɾðaðˈeɾo lˈastɾe pˌaɾa las ðˌemokɾˈasjas|10
+clf_01523_00271020354.wav|lo pɾimˈeɾo ke tjˈene ke asˈeɾ ˈes mˌantenˈeɾ la kˈalma|1
+clf_07508_02064401136.wav|pˌeɾo tjˈenes ke saβˈeɾ usˈaɾ ˈuna βˈisi mˈujj βjˈen o nˈo|8
+clf_09334_01598075995.wav|ˈas ˈeste ˌexeɾsˈisjo kˌomo si ˌestuβjˈeɾas asjˈɛndo ɣˈaɾɣaɾas ðe βˌikaɾβonˈato|11
+clf_01523_00669515167.wav|le ɾɾˌekomjˈɛndo ke βˈajja pɾˌepaɾˈaðo kom paɾˈaɣwas i βeβˈiðas kaljˈɛntes|1
+clf_04310_00570424209.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas fɾˈuta i ˌalkoˈol|4
+clf_06136_01571787212.wav|a kwˈanto tjˈempo estˈa el ˌuɾakˈan de ˌimpaktˈaɾ en tjˈeɾɾa fˈiɾme|6
+clf_03397_01582607204.wav|ˈesa ˌimfoɾmasjˈon nˈo estˈa ðel tˈoðo βˌeɾifikˈaða|3
+clf_08784_00067246013.wav|ˈoɪ se pɾesˈɛnta la ˈoβɾa ðe amlˈet en el teˈatɾo βisˈɛnte kˈastɾo|10
+clf_09334_01964120794.wav|el βwˈelo ʝˈeɣa al tˌeɾminˈal ˈuno o al tˌeɾminˈal kwˈatɾo|11
+clf_04310_01894195007.wav|el ˈotɾo ðˈia me komˈi ˈuna sˈopa ðe tʃˌampiɲˈones mˈujj pikˈante|4
+clf_04310_00665251189.wav|komˈeɾ sˈopa ðe toɾtˈuɣa estˈa pɾˌoiβˈiðo pˌoɾke estˈa em pelˈiɣɾo ðe ˌekstinsjˈon|4
+clf_02484_00445479791.wav|se ˈusa pˌaɾa ˌinsitˈaɾ a ˈalɣjen a sakˈaɾ el majjˈoɾ pɾoβˈetʃo ðel ðˈia pɾesˈɛnte|2
+clf_01523_01360350451.wav|el tjˈempo totˈal ðe βjˈaxe ˈes ðe ðjˈes ˈoɾas tɾˈeɪnta i sˈinko minˈutos|1
+clf_09334_01073033291.wav|nˈo te entjˈɛndo nˈaða|11
+clf_08421_00016802857.wav|nˈo me ɣˈusta ke el ðˌepaɾtamˈɛnto ˈeste em plˈanta βˈaxa pˌoɾke nˈo le ðˈa el sˈol|9
+clf_02484_00292796286.wav|lo ðˈisen en ˌinteɾnˈet pwˈeðe sˈer mentˈiɾa o nˈo|2
+clf_07049_00249406485.wav|tjˈene ˈuna pelˈikula mˈujj famˈosa ke se ʝˈama βjˈaxe al sˈɛntɾo ðe la tjˈeɾɾa|7
+clf_08421_00083328571.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|9
+clf_00610_01521661937.wav|si kjˈeɾe le pwˈeðo ðˈaɾ alɣˈunas ɾɾˌekomˌendasjˈones ˌalimentˈisjas|0
+clf_02484_01521464060.wav|sˈolo ɾɾekwˈeɾða ke pˌaɾa poðˈeɾ peskˈaɾ nˌesesˈitas ʝeβˈaɾ ˈuna ˌiðentˌifikasjˈom pˌaɾa ke te ðˈexen ˌaɾɾendˈaɾ el ekˈipo|2
+clf_02484_01959750259.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|2
+clf_03397_01411875311.wav|nˈo te entjˈɛndo nˈaða|3
+clf_01523_01391424664.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈexas|1
+clf_09697_01142039357.wav|estˈoɪ em bˈuska ðe ˈuna eskwˈela pˌaɾa ˌestuðjˈaɾ sjˈɛnsjas ðe la kˌomputasjˈon i lˌiŋɡuˈistika|12
+clf_00610_01352126440.wav|maɲˈana βˈa a ʝoβˈeɾ tˈoðo el ðˈia nˈo olβˈiðe su ˌimpeɾmeˈaβle|0
+clf_09697_01617039346.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|12
+clf_03397_00679095171.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe el estˈaðjo ðe fˈutβol|3
+clf_02484_00722596838.wav|nˌesesˈito ke me ajjˈuðes a βuskˈaɾ sˈɛntɾos ðe ɾɾˌesiklˈaxe tˈɛŋɡo mˈutʃo kaɾtˈon|2
+clf_08421_00884954028.wav|se ˈan ˈetʃo βeɾsjˈones en tˈoðos los iðjˈomas ðe ˈesta kansjˈon|9
+clf_08421_01577823413.wav|nos βˈemos mˈas tˈaɾðe ɣɾˈasjas|9
+clf_04310_01562478950.wav|kjˈeɾo sakˈaɾ ðinˈeɾo en ˌefektˈiβo kwˈal ˈes el kaxˈeɾo ˌaʊtomˈatiko mˈas seɾkˈano|4
+clf_04310_00130527160.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ ˈalɣun kolˈexjo sˈeɾka|4
+clf_09334_00959247420.wav|aktwˈalmˈente ˈeste aktˈoɾ tjˈene ˈuna pelˈikula en kˌaɾtelˈeɾa|11
+clf_04310_00216134199.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|4
+clf_02484_01567123982.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|2
+clf_08421_01353126150.wav|los ˈiɣaðos ðe pˈojjo me enkˈantan|9
+clf_08421_01341611331.wav|la ˌoβskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|9
+clf_06136_01972255775.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˈo nˌesesˈitas mˈutʃa pimjˈɛnta nˈeɣɾa|6
+clf_05223_00890041599.wav|pwˈeðes ˌajjuðˈaɾme a mˌeðitˈaɾ|5
+clf_09697_01544509106.wav|pˈuma ˈa sakˈaðo ˈuna βeɾsjˈon ˌespesjˈal ðe sˌapatˈijjas a los kwˈales nˈo les ˈɛntɾa el ˈaɣwa|12
+clf_02484_01135256359.wav|la tˌempeɾatˈuɾa mˈinima i mˈaksima pˌaɾa maɲˈana βˈa a sˈer ðe βˌeɪntinwˈeβe a tɾˈeɪnta i sˈinko ɣɾˈaðos|2
+clf_05223_00935658742.wav|me ʝeɣˈo ˈuna ˌimbitasjˈom pˌaɾa ˈun kˈastiŋ pˌeɾo nˈo konˈosko βjˈen al ðˌiɾektˈoɾ|5
+clf_09334_00947523480.wav|ˈoɪ ðˌesiðˈi ðexˈaɾ ðe sˈer ðˌiseɲaðˈoɾa ðe ˌinteɾjˈoɾes|11
+clf_07508_00669893450.wav|nˌesesitˈamos el kˌomputaðˈoɾ lo mˈas ɾɾˈapiðo posˈiβle|8
+clf_09334_01719617573.wav|kjˈeɾo mi asjˈɛnto en la βentˈana|11
+clf_08421_00428640371.wav|a sˈofja i a pˈaβlo les ɣˈusta el kˌaɾaˈoke i el sˈusi|9
+clf_02484_00836958945.wav|me poðɾˈias mandˈaɾ ˈuna fˈoto a mi sˌelulˈaɾ|2
+clf_01523_01979527868.wav|les ɾɾˌekomjˈɛndo βˌisitˈaɾ sjˈete montˈaɲas kon altˈuɾas sˌupeɾjˈoɾes a los sˈinko mˈil mˈetɾos sˌoβɾe el niβˈel ðel mˈaɾ|1
+clf_01523_02046453200.wav|tˈu tjˈenes ke ˌenkaɾɣˈaɾte ðe tˈoðo ˈeso|1
+clf_04310_01808113095.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas kˈaɾne ðe βwˈena kˌaliðˈad|4
+clf_07508_01396669570.wav|ˈultimamˈente ˈe βˈisto mˈujj pˈokas βˌisiklˈetas en la sjuðˈad|8
+clf_07508_01521406898.wav|tˈɛŋɡo ˈun dolˈoɾ oɾɾˈiβle ðe espˈalða|8
+clf_08784_00993136054.wav|las ˌaeɾolˈineas pˈonem poɾ ensˈima el neɣˈosjo ke la kˌomoðiðˈad ðe sus pˌasaxˈeɾos|10
+clf_07049_01188732994.wav|sjˈempɾe me ˈa ɣustˈaðo mˈutʃo el kolˈoɾ naɾˈaŋxa|7
+clf_09697_01439250239.wav|tˈu sˈaβes a ðˈonde pwˈeðo ˈiɾ a ɾɾˌesiklˈaɾ|12
+clf_07508_01714746853.wav|tˈɛŋɡo ðolˈoɾ ðe kaβˈesa|8
+clf_01523_01025522151.wav|sostˈen la pˈata ðe la sˈijja kon tu mˈano ðeɾˈetʃa i tˈoma tˈaɾɾo ðe pˌeɣamˈɛnto kon tu mˈano iskjˈeɾða|1
+clf_09334_00659007589.wav|kjˈeɾo saβˈeɾ el oɾˈixen de la palˈaβɾa ˌastɾonˈaʊta|11
+clf_07508_00278948136.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|8
+clf_01523_01895383316.wav|ˈes ˌimpoɾtˈante ke manˈexes βjˈen la lˈetɾa ˈe|1
+clf_08784_00399166945.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|10
+clf_02484_00024355877.wav|en kˈe kˈajje estˈa la kˈasa|2
+clf_07508_01675302508.wav|ˈultimamˈente ˈe βˈisto mˈutʃas βˌisiklˈetas en la kˈajje|8
+clf_00610_00519867994.wav|el ˈotɾo ðˈia me komˈi ˈun aɾɾˈos kon kˌalamˈaɾes|0
+clf_09697_00340072070.wav|pwˈeðo ˌaɲaðˈiɾ nwˈeses a ˈesa ðjˈeta|12
+clf_08784_01035927340.wav|ˈaɪ alɣˈuna ˈoβɾa ðe teˈatɾo el ðˈia ðe ˈoɪ|10
+clf_08784_00487109517.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|10
+clf_09334_00184299387.wav|kisjˈeɾa ɾɾˌeseɾβˈaɾ ðˈos pasˈaxes poɾ faβˈoɾ pˌeɾo em pɾimˈeɾa klˈase|11
+clf_09697_01066690155.wav|estˈoɪ em bˈuska ðe ˈuna eskwˈela pˌaɾa ˌestuðjˈaɾ ˌiŋxenjeɾˈia ˌindustɾiˈal|12
+clf_04310_01841901116.wav|tɾˌaðisjonˈalmˈente la komˈiða pˌoɾtuɣˈesa se ˌakompˈaɲa kon ˈaɣwa mˌineɾˈal koŋ ɡˈas|4
+clf_07049_01480785192.wav|estˈoɪ βjˈen ˌemosjonˈaða me βˈoɪ a tjˈeɾɾa ðel fwˈeɣo|7
+clf_05223_00420760994.wav|estˈoɪ poɾ kambjˈaɾme ðe kˈasa i kjˈeɾo βuskˈaɾ nwˈeβos ðˌepaɾtamˈɛntos ðˌonde asˈepːten maskˈotas|5
+clf_07049_01910098755.wav|tjˈene el tjˈempo kontˈaðo|7
+clf_04310_01424128915.wav|tˈaɾða ðˈos ðˈias ˈaβiles en ɾɾˌesiβˈiɾ el ðinˈeɾo en ˌefektˈiβo poɾ sˈer ðe ðˌifeɾˈɛnte βˈanko|4
+clf_09697_01206689778.wav|tjˈene el tjˈempo kontˈaðo|12
+clf_09697_00400738766.wav|me pwˈeðes ɾɾˌekomendˈaɾ alɣˈum bˈaɾ en ˈuna sˈona ke sˈea tɾankˈila|12
+clf_05223_01708175751.wav|la mˌeɾmelˈaða ðe mˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|5
+clf_07049_00297613692.wav|la mˌeɾmelˈaða ðe mˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|7
+clf_07508_00219536198.wav|nˈo entjˈɛndo la ðˌifeɾˈɛnsja ˌentɾe los ðˌifeɾˈɛntes xˈeneɾos ɣɾˌamatikˈales|8
+clf_00610_01980026766.wav|kwˈantos alβˈeɾɣes se ˌaβɾiˈeɾon despwˈes ðel tˌeɾɾemˈoto ðel ðjˌesinwˈeβe ðe sepːtjˈembɾe|0
+clf_07508_00488022797.wav|kjˈeɾo ˈun xaβˈon ke iðɾˈate mi pjˈel|8
+clf_08421_00136499171.wav|los sandwˈitʃ estˈam fɾˈios|9
+clf_07049_00067760335.wav|poɾ kˈaða paˈis asˈisten ˌalreðeðˈoɾ ðe ðˈose kˌompetiðˈoɾes|7
+clf_02484_01535977344.wav|la ˌoβskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ la nˌatuɾalˈesa|2
+clf_08421_00611139857.wav|a mi muxˈeɾ le ɣustˈaβan mˈutʃo los pˈeɾɾos i los ɣˈatos pˌeɾo ʝˈo kjˈeɾo tenˈeɾ ˈuna seɾpjˈɛnte|9
+clf_04310_01067757281.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas ðˈos βˌeɾeŋxˈenas asˈaðas i axˈi em pˈolβo|4
+clf_06136_00581856137.wav|ˌoxalˈa puðjˈeɾamos ˌimbitˈaɾ a ˈesta ɾɾeʊnjˈon kon el seɲˈoɾ ɣonsˈales a βˈaɾjos sjentˈifikos|6
+clf_03397_00761403935.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|3
+clf_09334_01028515323.wav|kˈomo se ˌalimˈɛnta a ˈuna taɾˈantula|11
+clf_02484_00925488080.wav|kjˈeɾo βˌisitˈaɾ las kˌataɾˈatas ðel njˈaɣaɾa|2
+clf_01523_01871148017.wav|mi ˈixa βˈa a kumplˈiɾ nwˈeβe ˈaɲos i ˈes alˈeɾxika al pˈelo ðel ɣˈato|1
+clf_08784_01893778549.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|10
+clf_03397_01427011922.wav|ˈes pɾoðˈukto ðel pɾoɣɾˈama ˈindjo ðe ˌentɾenamjˈɛnto sjentˈifiko|3
+clf_08784_00946886229.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|10
+clf_02484_00593270725.wav|pensˈe en la pˌosiβˌiliðˈad ðe ˌaðopːtˈaɾ ˈuna maskˈota|2
+clf_06136_01212976048.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|6
+clf_00610_00861592568.wav|ˈeste ˌentɾenaðˈoɾ ˈes mˈujj famˈoso|0
+clf_08421_00490594468.wav|en kˈe kˈajje estˈa la kˈasa|9
+clf_06136_00460588802.wav|nˈuɾja poðɾˈias pɾˌoponˈeɾme alɣˈuna ˈoβɾa ðe teˈatɾo pˌaɾa ˈesta nˈotʃe|6
+clf_02484_01827576065.wav|akwˈeɾðate ke lo pɾimˈeɾo ke ˈaɪ ke asˈeɾ pˌaɾa ke las kˈosas sˈalɣam bjˈen ˈes ɾɾˌespiɾˈaɾ i kon ˈeso βˈas a loɣɾˈaɾ salˈiɾ ˌaðelˈante|2
+clf_07049_00006767245.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|7
+clf_09697_00149718860.wav|te ɣˈustan los tʃˌokolˈates|12
+clf_03397_00710904661.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe lˈaʊɾa sˌoβɾe sjˈɛnsjas foɾˈɛnses|3
+clf_09697_01596720171.wav|estˈoɪ βjˈɛndo akˈi en la tˌeleβisjˈon ke ʝˈa ˈan kˌomensˈaðo las ðˌeliβˌeɾasjˈones|12
+clf_07508_00460891278.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|8
+clf_03397_00974720361.wav|pwˈeðes ɣɾaβˈaɾ ˈum biðˈeo i mandˈaɾmelo a mi koɾɾˈeo|3
+clf_09334_00469243769.wav|estˈoɪ ˈaɾta ðe nˈo poðˈeɾ tenˈeɾ ˈuna kˌombeɾsasjˈom fluˈiða kon mis amˈiɣos sˌineˈastas|11
+clf_09697_00264093516.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|12
+clf_09334_01961713069.wav|ˈes ˈuna laðɾˈona ekspˈeɾta ke ɾɾˈoβa ˈum bˈanko sin ke nˈaðje se ðe kwˈɛnta|11
+clf_06136_01567847582.wav|en lˌeβantamjˈɛnto ðe pˈesas tenˈemos a ˈuna kˌampeˈona|6
+clf_03397_00277134362.wav|ˈesta atlˈeta ɾɾˈusa ˈes ˈun kˈaso ˈuniko ˈase nˌatasjˈon i ximnˈasja i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|3
+clf_02484_01710675104.wav|le ɾɾˌekomjˈɛndo ke βˈajja al ˌospitˈal mˈas seɾkˈano|2
+clf_03397_00733024632.wav|ˈaɪ ke ponˈeɾnos ðe akwˈeɾðo|3
+clf_02484_01232120696.wav|nˌesesˈito ke me ajjˈuðes a βuskˈaɾ el nˈombɾe ðe ˈese ðˌiɾektˈoɾ el ke ðˌiɾixjˈo las pelˈikulas ðe βˈatman|2
+clf_01523_01268985074.wav|xwˈeɣan ˈum fˈutβol mˈujj pɾˌofesjonˈal mˈujj sˈeɾjo i estˈan ˌasepːtˈando xˈɛnte ˈestos ðˈias|1
+clf_08784_00159784190.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|10
+clf_07049_01202851603.wav|kwˈanto tjˈempo me ðemˈoɾo ðe akˈi a ɾɾˈio ðe xanˈeɪɾo en ˈaʊto|7
+clf_03397_01625291892.wav|las sˈalas kom pantˈajjas tɾˈes ðˈe tjˈenen ˈun kˈosto ðe noβˈɛnta i sˈinko ðˈolaɾes|3
+clf_06136_00870277074.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|6
+clf_08421_02091471444.wav|su neɣˈosjo ˈes ˈuno ðe los mˈas ɾɾˌekonosˈiðos en ˈeste paˈis|9
+clf_00610_01437098711.wav|seɣˈun mis ðˈatos ˈeste mjˈeɾkoles ˈotʃo ðe mˈajjo nˈo ˈaɪ paɾtˈiðos ðe tˈenis|0
+clf_07508_00807948579.wav|nˈo se si te βˈajja a βˈeɾ mˈas ɾɾˈato|8
+clf_06136_01949314377.wav|la sjuðˈad se enkwˈɛntɾa a kwˈatɾo ˈoɾas en tɾˈen de ˈalta βˌelosiðˈad|6
+clf_03397_01297806977.wav|estˈoɪ akˈi kon ˈuna amˈiɣa kˌosinˈando kˈaɾne|3
+clf_06136_01435825802.wav|nˌesesˈitas βˈeɾ alɣˈun ˈotɾo moðˈelo ðe ˈaʊto|6
+clf_02484_00632451939.wav|el tˈipo ðe pantˈajja ke se ˈusa ˈes ðe ˈalta tˌeknoloxˈia bˈes los piksˈeles kˈasi a ˈuna ɾɾˌesolusjˈon de ɾɾˌealiðˈad βiɾtwˈal|2
+clf_04310_00819785562.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna mˌultitjˈɛnda sˈeɾka ðe kˈasa ðe mis pˈaðɾes|4
+clf_05223_01230491561.wav|el pɾoβlˈema ˈes ke ʝˈo nˈo kjˈeɾo laβˈaɾ los plˈatos|5
+clf_03397_00223111304.wav|se βwˈena kon las peɾsˈonas ajjˈuðalas i nˈunka xˈusɣes a los ðemˈas|3
+clf_01523_00855911446.wav|la βˌisiklˈeta uɾβˈana se ˈa kˌombeɾtˈiðo en ˈuno ðe los mexˈoɾes mˈeðjos ðe tɾanspˈoɾte ðe la sjuðˈad|1
+clf_00610_01064569930.wav|maɲˈana βˈa a ʝoβˈeɾ en la tˈaɾðe ðespwˈes ðe las kwˈatɾo i mˈeðja|0
+clf_04310_01052673164.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|4
+clf_06136_01680605991.wav|estˈoɪ βjˈen ˌemosjonˈaða me βˈoɪ a olˈanda|6
+clf_09334_00552760178.wav|el xˌuɣaðˈoɾ saljˈo en el minˈuto ˈuno poɾ ˈuna molˈestja en la kaβˈesa|11
+clf_08784_01512461465.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|10
+clf_01523_00117928877.wav|ʝˈa se asˈeɾka el ðˈia ðe la mˈaðɾe i nˌesesˈito kompɾˈaɾle ˈun ɾɾeɣˈalo a mi mamˈa pˌeɾo nˈo se kwˈal|1
+clf_05223_01932544320.wav|estˈa mˈujj kansˈaðo|5
+clf_07508_00518092677.wav|enkwˈɛntɾa ˈun ˌaɾtikˈulo eskɾˈito poɾ ˈun ˌintelektwˈal mˈujj ˌimpoɾtˈante sˌoβɾe el teˈatɾo|8
+clf_03397_00132881008.wav|bwˈenos ðˈias maɾjˈana nˌesesˈito ˌimfoɾmasjˈon de mis tɾˈes kwˈɛntas βankˈaɾjas|3
+clf_06136_01749410895.wav|ˈaɪ fˈutβol fˌemenˈino eŋ ɡwˌatemˈala|6
+clf_08784_01496180446.wav|nˈo te entjˈɛndo nˈaða|10
+clf_09334_01292771863.wav|bˌeɾifˈike su ˌinstalasjˈon elˈektɾika|11
+clf_07508_00185466821.wav|em bˈaɾjos paˈises ˈes ˌileɣˈal andˈaɾ em bˌisiklˈeta sin kˈasko|8
+clf_08784_02026948463.wav|en la kultˈuɾa ɣɾiˈeɣa la lˈuna sˌimbolˈisa sˌaβiðuɾˈia|10
+clf_04310_00424619122.wav|ɾɾaˈul me ˈe sentˈiðo ˈum pˈoko fwˈeɾa ðe luɣˈaɾ ˈestos ðˈias me sjˈɛnto ɣˈoɾðo|4
+clf_03397_00856365057.wav|en ˈeste momˈɛnto estˈoɪ embjˈando a sus koɾɾˈeos ˈunos lˈiŋks pˌaɾa ˈunas mˌeðitasjˈones en dʒˈow tˈuβe|3
+clf_07049_01117561494.wav|aˈoɾa ʝˈa ˈaɪ ˈuna ofˈeɾta ðe mˈil tɾesjˈɛntos ðˈolaɾes ˌameɾikˈanos|7
+clf_08784_00051414401.wav|ajjˈeɾ βˈi a ˈuna tˈia ke nˈo βeˈia ðˌesðe ke ˈeɾa nˈiɲa|10
+clf_07508_01330256862.wav|nˈo se ke ˈes lo mˈas ˌimpoɾtˈante ðe ˈeste mˈundo|8
+clf_01523_01588619669.wav|kˈomo se ˌalimˈɛnta a ˈuna taɾˈantula|1
+clf_03397_01436659624.wav|nˈunka ˈas sˈiðo konstˈante en tu βˈiða|3
+clf_04310_00687357943.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|4
+clf_01523_00450052832.wav|del mˈetɾo al musˈeo sˈon kˈinse minˈutos|1
+clf_09697_00811028678.wav|estˈoɪ βjˈɛndo akˈi en la tˌeleβisjˈon ke ʝˈa ˈan kˌomensˈaðo las ˌolimpjˈaðas|12
+clf_05223_01948687797.wav|nˈo tˈɛŋɡo nˈi iðˈea ðe kˌomo kambjˈaɾ ˈuna ɾɾuˈeða nˈo se si pwˈeða peðˈiɾ ˌasistˈɛnsja o me pwˈeðas ˌajjuðˈaɾ tˈu|5
+clf_07508_01352466950.wav|kwˈesta sjˈete mˈil pˈesos pˌeɾo nˈo kwˈesta el embˈio|8
+clf_08784_00208287634.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|10
+clf_09334_00799522807.wav|ˈes mˈujj ˌimpoɾtˈante el apˈojjo nasˈal en la pɾˌonunsjasjˈon|11
+clf_09697_02067134864.wav|en el salˈon de fjˈestas kˈaβen ˌalreðeðˈoɾ ðe mˈil kinjˈɛntas peɾsˈonas|12
+clf_01523_02123164297.wav|te ɣˈusta el βˈino|1
+clf_08784_00201442892.wav|en alɣˈunas sjuðˈaðes xˌaponˈesas se ˈa pɾˌoiβˈiðo el ˈuso ðe βˈolsas ðe plˈastiko|10
+clf_07508_00215132447.wav|nˌesesˈito ˈuna makˈina ðe ˌeskɾiβˈiɾ kon tˈeklas swˈaβes|8
+clf_08421_01936825383.wav|ˈola kɾistˈina ke βjˈen ke pwˈeðo aβlˈaɾ kontˈiɣo|9
+clf_06136_01560031153.wav|en mi βˈase ðe ðˈatos tˈɛŋɡo ˈonse ðˌifeɾˈɛntes ɾɾˌekomˌendasjˈones pˌaɾa pasˈaɾ ˈun dˈia en el mˈaɾ|6
+clf_09697_01639385391.wav|kˈomo βˈa tu estˈaðo sˌikolˈoxiko|12
+clf_08421_00042582409.wav|estˈoɪ mˈujj ˌalaɾmˈaða i mˈujj peɾðˈiða kon tˈoðo lo ke estˈa pasˈando en espˈaɲa|9
+clf_02484_01816061556.wav|los ekˈipos ke pˌaɾtisˈipan del mundjˈal ðe fˈutβol sˈon mˈɛxiko pˌanamˈa kˈosta ɾɾˈika i los estˈaðos unˈiðos kon su ekˈipo ðe nwˈeβas estɾˈejjas|2
+clf_02484_01610172744.wav|kˈomo poðɾˈia ˌapɾendˈeɾ tʃˈino en ˈuna semˈana|2
+clf_04310_01305636286.wav|komˈeɾ alˈeta ðe tˌiβuɾˈon estˈa pɾˌoiβˈiðo pˌoɾke estˈa em pelˈiɣɾo ðe ˌekstinsjˈon|4
+clf_09697_01224027416.wav|mjˌentɾas se akˈaβan de kosˈeɾ tˈoðas las βeɾðˈuɾas βˈamos a fɾeˈiɾ los wˈeβos apˈaɾte|12
+clf_02484_02122790600.wav|me pwˈeðes ɾɾˌeseɾβˈaɾ poɾ ˌinteɾnˈet alɣˈunas entɾˈaðas pˌaɾa el sˈine|2
+clf_08421_00622773522.wav|kjˈen ˈes el aʊtˈoɾ ðel lˈiβɾo|9
+clf_06136_00658346534.wav|en tɾˈes semˈanas me saljˈo ˈum bjˈaxe a paɾˈis i nˈo tˈɛŋɡo nˈi iðˈea ke ɾɾˈopa ʝeβˈaɾ|6
+clf_03397_01340893911.wav|ˈes ˈun ˌeðifˈisjo mˈujj ˈalto|3
+clf_02484_00493027925.wav|nˈo aɣwˈanto mˈas el kalˈoɾ|2
+clf_09334_01701955561.wav|bˈamos a usˈaɾ la ˌapˌepˈe ðe la ˌembaxˈaða ðe exˈipːto ke ˈes pˌaɾa xˈɛnte ke nˈo sˈaβe nˈaða ðe aɾˈaβe|11
+clf_08421_01014632114.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|9
+clf_03397_00247202009.wav|la pelˈea ˌentɾe xwˈan i pˈeðɾo estˈuβo ˌaɾɾeɣlˈaða|3
+clf_03397_01957411620.wav|pwˈeðes ˌajjuðˈaɾme a mˌeðitˈaɾ|3
+clf_07508_01705658938.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|8
+clf_06136_00234878597.wav|me ɾɾˌesolβˈiste la βˈiða me βˈoɪ a ðoɾmˈiɾ ˈun ɾɾatˈito|6
+clf_01523_00118542027.wav|ˈes βwˈelo ðiɾˈekto o ˈase eskˈala en alɣˈum pˈunto|1
+clf_04310_00580311893.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna ˌestasjˈon de tɾˈen sˈeɾka ðel ˌaeɾopwˈeɾto|4
+clf_09697_01051625327.wav|estˈa mˈujj kansˈaðo|12
+clf_04310_02074421813.wav|si ðe kˌaswaliðˈad kˈambja el klˈima nos poðɾˈias mandˈaɾ ˈun mensˈaxe al sˌelulˈaɾ poɾ faβˈoɾ|4
+clf_02484_01022117311.wav|tu kɾˈees ke pwˈeða xˌeneɾˈaɾ ˈum bˈinkulo ˌemosjonˈal kon los pˈeses|2
+clf_09697_01168383646.wav|el luɣˈaɾ ðe ðesˈiɾme el numˈeɾo ðe telˈefono pˌaɾa ke lo anˈote me lo poðɾˈias mandˈaɾ poɾ mˈaɪl|12
+clf_00610_01317022204.wav|seɣˈun mis ðˈatos ˈeste xwˈeβes βˌeɪntikwˈatɾo ðe aɣˈosto ˈaɪ ˈun eklˈipse ðe sˈol|0
+clf_01523_00002718867.wav|en tu sˈona ˈaɪ tɾˈes paɾˈaðas ðe βˌisiklˈeta uɾβˈana|1
+clf_08421_00881175643.wav|las kˈoles ðe βɾusˈelas nˈo me ɣˈustan|9
+clf_08784_01483380680.wav|los sˈandwitʃes estˈam fɾˈios|10
+clf_09697_00153431447.wav|en kˈe kˈajje estˈa la kˈasa|12
+clf_06136_00064603381.wav|estˈoɪ βuskˈando ˈun ɾɾˌestaʊɾˈante ðe kosˈina tɾˌaðisjonˈal|6
+clf_02484_01265623522.wav|em bˈaɾjos poɾtˈales ðe ˌinteɾnˈet ˌenkontɾˈamos klˌasifˌikasjˈon de kwˈatɾo i sˈinko estɾˈejjas|2
+clf_09697_01967403078.wav|sˈolo tˈɛŋɡo ˈum pimjˈɛnto ɾɾˈoxo i ˈum pimjˈɛnto βˈeɾðe|12
+clf_01523_01044884775.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|1
+clf_08421_00960540448.wav|bˈoɪ a ʝeβˈaɾ a mi soβɾˈino a ðˌisneɪwˈoɾlð i keɾˈia saβˈeɾ los oɾˈaɾjos ðel pˈaɾke pˌaɾa plˌaneˈaɾlo tˈoðo mˈujj βjˈen|9
+clf_04310_01350214057.wav|de pˈostɾe βˈoɪ a seɾβˈiɾ mansˈanas asˈaðas sˌoβɾe pˈan de nwˈeses|4
+clf_00610_02074766378.wav|maɲˈana βˈa a elˈaɾ en la mˌaðɾuɣˈaða|0
+clf_01523_00118928658.wav|ˈes ˈum plˈato mˈujj nˌutɾitˈiβo|1
+clf_08784_00179033968.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|10
+clf_09697_00466936675.wav|tjˈenes ˈun tˈema kon la kˌomoðiðˈad sjˈeɾto|12
+clf_06136_00968508047.wav|estˈoɪ tenjˈɛndo pɾoβlˈemas kon mi ˈaʊto i ˈun amˈiɣo me ɾɾˌekomendˈo ˈun ˈaʊði ðe kwˈatɾo pwˈeɾtas|6
+clf_07049_01873727276.wav|me ɣˌustaɾˈia tenˈeɾ ˈum pˈoko ðe ˌimfoɾmasjˈon sˌoβɾe el mˌoβimjˈɛnto fˌeminˈista ðe mˈil nˌoβesjˈɛntos βˈeɪnte|7
+clf_08784_01384985957.wav|kjˈeɾo ʝeβˈaɾ a mis βisˈitas a ˈun musˈeo|10
+clf_04310_00107337035.wav|maɲˈana βˈa a asˈeɾ mˈutʃo fɾˈio|4
+clf_09334_00511425253.wav|ajjˈeɾ sˈolamˈente xuɣˈo setˈɛnta i ðˈos minˈutos i metjˈo ˈuŋ ɡˈol|11
+clf_04310_01482279125.wav|la pelˈikula ˈes em fɾˈanses pˌeɾo ˈesta ðoβlˈaða al ˌalemˈan|4
+clf_02484_00780451402.wav|me pwˈeðes ðˈaɾ ˈuna lˈista ðe βˌotijjeɾˈias seɾkˈanas a tu ðˌomisˈiljo|2
+clf_00610_02095883399.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas fɾeˈiɾ las kˌalaβˈasas|0
+clf_07049_00319751726.wav|los sandwˈitʃ estˈam fɾˈios|7
+clf_01523_01105104569.wav|ˈaɪ pˌaɾaðˈeɾo sˈeɾka ðel teˈatɾo ðe la sjuðˈad|1
+clf_08784_00139469080.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|10
+clf_04310_00384952767.wav|ˈeste ˌentɾenaðˈoɾ ˈes mˈujj famˈoso|4
+clf_04310_01986375886.wav|mˌonteβiðˈeo tjˈene mˈutʃos pˈaɾkes ðˌonde ˈaɪ konsjˈeɾtos ɣɾatwˈitos|4
+clf_07049_00566077663.wav|ˈiso ˈuna pelˈikula ðe ɣˈeɾɾa luˈeɣo ˈotɾa sˌoβɾe el sˈiɣlo ðjˌesisjˈete i ðespwˈes ˈotɾa sˌoβɾe el espˈasjo|7
+clf_06136_01854169242.wav|el fˈutβol tʃˈino ˈa ˌeβolˌusjonˈaðo a niβˈeles nˈunka ˈantes βˈistos|6
+clf_05223_01525837069.wav|kwˈal ˈes el ðjˈaɾjo ke mˈas se lˈee en ˈesta sˈona|5
+clf_03397_01332634778.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe ˈejja|3
+clf_09697_01505655474.wav|me ɣˈusta mˈutʃo kˌaminˈaɾ poɾ el kˈampo i tomˈaɾle fˈotos a la nˌatuɾalˈesa|12
+clf_07508_00333068529.wav|ˈaɪ mˈutʃas tjˈɛndas ðe ɾɾˈopa en el sˈɛntɾo|8
+clf_07508_01650491290.wav|nˈo me dwˈele la espˈalða si me ðespjˈeɾto tempɾˈano|8
+clf_07049_00466449579.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|7
+clf_04310_01868479503.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas asˈeɪte ðe olˈiβa i asˈeɪte ðe xˌiɾasˈol|4
+clf_09334_01630514030.wav|bˈa a nˌesesitˈaɾ pˈam blˈanko ðe tɾˈiɣo xamˈon seɾɾˈano pˌimentˈom bˈeɾðe i antʃˈoas sin sˈal|11
+clf_03397_00855093550.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe la kˈasa|3
+clf_03397_00254120860.wav|ustˈed βˈa a ðˌisfɾutˈaɾ ðe ˈuna plˈajja mˈujj βonˈita i kon ˈuna βˈista ˌinkɾeˈiβle|3
+clf_05223_01601629897.wav|nˌesesˈito poɾ faβˈoɾ ke βˈuskes ke tɾanspˈoɾte ˈusan los ˌaβitˈantes ðe mˌonteɾɾˈeɪ pˌaɾa ˈiɾ a su tɾaβˈaxo|5
+clf_09697_02120044723.wav|espˈeɾo ke lo pˈases mˈujj βjˈen kon tus amˈiɣos i ke kˈoman mˈujj ɾɾˈiko|12
+clf_05223_00386130384.wav|tˈɛŋɡo ke pasˈaɾ alɣˈuna pɾuˈeβa|5
+clf_07049_01938700985.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|7
+clf_08784_00660092056.wav|konˈoses el xaɾðˈim bˌotanˈiko|10
+clf_08421_02081254941.wav|pˈoðɾias ðesˈiɾme kwˈal ˈes la kansjˈon numˈeɾo ˈuno a niβˈel mundjˈal|9
+clf_03397_01993422169.wav|tu sˈaβes si ˈesta peɾsˈona ˈa pɾˌesentˈaðo ˈeste tˈipo ðe ˈoβɾas aɾtˈistikas en ˈotɾos paˈises|3
+clf_07508_01548012035.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|8
+clf_02484_00647564419.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈexas|2
+clf_07508_01330033478.wav|ˈuna mˈakina ðe ˌeskɾiβˈiɾ kwˈesta kˌomo kwˈatɾo mˈil pˈesos|8
+clf_09334_00480842127.wav|en kˈe kˈajje estˈa la kˈasa|11
+clf_08784_01473569898.wav|de kˈe me ðˈeβo βˌakunˈaɾ si βˈoɪ a ˈum paˈis ˌoksiðentˈal|10
+clf_02484_00119790770.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|2
+clf_05223_01167336986.wav|kwˈantos ðepˈoɾtes se pɾaktˈikan en las ˌolimpjˈaðas i kwˌantos paˈises pˌaɾtisˈipan|5
+clf_07508_01976346265.wav|ˈultimamˈente ˈe βˈisto mˈutʃas βˌisiklˈetas ɾɾˈoxas|8
+clf_07508_01834195731.wav|mi ðolˈoɾ ðe espˈalða ˌempeˈoɾa si ðespjˈeɾto tˈaɾðe|8
+clf_09334_01370853960.wav|el fɾansˈes ˈes el iðjˈoma ðel amˈoɾ|11
+clf_01523_00603290448.wav|me pɾˌeokˈupa la ˌinminˈɛnte tˌempoɾˈaða ðe ˌuɾakˈanes|1
+clf_09697_00323975355.wav|kjˈen diɾˈixe la pelˈikula|12
+clf_02484_00723706292.wav|los ˈamsteɾs kˈomen sˌanaˈoɾja|2
+clf_07508_00756533165.wav|las tˈeklas ðel kˌomputaðˈoɾ nˌesesˈitan estˈaɾ ðˌesɣastˈaðas pˌaɾa la ɣɾˌaβasjˈon|8
+clf_04310_00734592238.wav|ˈel ˈes ˈuna peɾsˈona ke βjˈene ðe ˈum bˈaɾɾio mˈujj umˈilðe|4
+clf_07508_01927763140.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|8
+clf_07049_00406216355.wav|tˈɛŋɡo ˈesta imˈaxen en la kaβˈesa ðe ke ˈes ˈun muɾˈal mˈeðjo sˌuɾɾealˈista|7
+clf_00610_01417733772.wav|maɲˈana βˈa a asˈeɾ mˈutʃo kalˈoɾ|0
+clf_09334_00170845835.wav|bˈoɪ a asˈeɾ ˌexeɾsˈisjo kon mi amˈiɣa βeɾˈonika i estˈamos βuskˈando ˈuŋ ximnˈasjo|11
+clf_02484_00459204402.wav|paɾˈese sˈer ke las lˈineas estˈan sˌatuɾˈaðas seɲˈoɾ pˌeɾo poðɾˈia seɣˈiɾ ˌintentˈando|2
+clf_08784_01936599589.wav|kˈomo βˈa el xwˈeɣo ðe tˈenis|10
+clf_02484_00922549853.wav|sin embˈaɾɣo nˈo ˈaɪ niŋɡˈun xˌuɣaðˈoɾ lˌesjonˈaðo pˌoɾke ˈejjos tenˈian el ekˈipo ˌaðekwˈaðo pˌaɾa pɾˌotexˈeɾse|2
+clf_03397_01853047970.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|3
+clf_03397_01403586300.wav|keɾˈemos saβˈeɾ kˈomo βˈa el βajjˈet akwˈatiko en las ˌolimpjˈaðas|3
+clf_04310_00599115478.wav|edɣˈaɾ kisjˈeɾa asˈeɾ ˈun depˈosito a la kwˈɛnta ðe mi pɾˈimo|4
+clf_07049_01762481927.wav|maɲˈana βˈa a estˈaɾ nuβlˈaðo poɾ la maɲˈana|7
+clf_07049_01854799093.wav|a los βˌexetaɾjˈanos les enkˈanta el βˈodka|7
+clf_07049_01742021195.wav|nˈo te entjˈɛndo nˈaða|7
+clf_02484_01554737557.wav|pˈulpo a la plˈantʃa komˈiða ðe mˈaɾ|2
+clf_07508_01787073206.wav|el tɾˈafiko estˈa teɾɾˈiβle ˈes ˌimposˈiβle ʝeɣˈaɾ a tjˈempo|8
+clf_07049_01399911194.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|7
+clf_02484_01946324543.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|2
+clf_00610_00304464329.wav|sˈaβes kˈomo ˌoɾɣanisˈaɾ la ˌasistˈɛnsja a los ðˌamnifikˈaðos|0
+clf_08421_00970312962.wav|kwˈal ˈes la pˈitsa ke tjˈene mˈenos kˌaloɾˈias|9
+clf_07508_01112974806.wav|kɾˈeo ke tjˈenes ˈuna kˌondisjˈon ɾɾˌelasjonˈaða kon la mˈala nˌutɾisjˈon|8
+clf_01523_00774842459.wav|los βolˈetos kwˈestan ˌalreðeðˈoɾ ðe sjˈɛnto sinkwˈɛnta ðˈolaɾes kˌanaðjˈɛnses|1
+clf_08784_00552353864.wav|los muɾˈales ðe ðjˈeɣo ɾɾiβˈeɾa sˈon mˈujj famˈosos|10
+clf_08421_01946806435.wav|kjˈeɾo tenˈeɾ ˈuna seɾpjˈɛnte ke kɾˈeska ˈun mˈetɾo mˈaksimo|9
+clf_08784_01489536225.wav|las sjuðˈaðes ðe mˈaɾ sˈon mis fˌaβoɾˈitas|10
+clf_01523_00891293959.wav|estˈoɪ ˈaɾta ðe nˈo poðˈeɾ tenˈeɾ ˈuna kˌombeɾsasjˈom fluˈiða kon mis amˈiɣos sˌineˈastas|1
+clf_09334_00554072553.wav|bˈamos a usˈaɾ la ˌapˌepˈe ðe la ˌembaxˈaða ðe ˌalemˈanja ke ˈes pˌaɾa xˈɛnte ke nˈo sˈaβe nˈaða ðe alˈeman|11
+clf_03397_00531199730.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|3
+clf_06136_01752195810.wav|ˌoxalˈa puðjˈeɾamos ˌimbitˈaɾ a ˈesta ɾɾeʊnjˈon kon la seɲˈoɾa mˈaɾja a βˈaɾjos ˌeskɾitˈoɾes|6
+clf_09697_01279329134.wav|los ˈixos ðel pɾˌesiðˈɛnte se ˈan keðˈaðo en ˈun kˌampamˈɛnto ðe βeɾˈano en ɾɾosˈaɾjo|12
+clf_08784_00612561252.wav|los ɾɾˌestaʊɾˈantes βjˌetnamˈitas se ˈam pwˈesto ðe mˈoða en amˈeɾika ðel nˈoɾte|10
+clf_00610_01341150653.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas ˈuna seβˈojja i ðˈos ðjˈɛntes ðe ˈaxo|0
+clf_02484_00840232823.wav|estˈoɪ akˈi pˌaɾa ˌoɾjentˈaɾte pˌaɾa ˌajjuðˈaɾte|2
+clf_07049_00147359157.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|7
+clf_09697_01409972699.wav|ˈe ˌenkontɾˈaðo ˈuna sikˈoloɣa a sˈinko minˈutos ðe tu kˈasa si kjˈeɾes te pwˈeðo ðˈaɾ su numˈeɾo ðe telˈefono|12
+clf_08421_00621771614.wav|kɾˈeo ke tjˈene ɾɾˈota la tˈiβja i el pˌeɾonˈe|9
+clf_08784_01564865994.wav|tˈoðo lo ɾɾˌelasjonˈaðo kon aβˈanses sjentˈifikos ˈes pwˈesto en dˈuða poɾ alɣˈunos fanˈatikos ɾɾˌelixjˈosos|10
+clf_05223_00765077578.wav|kwˈantos pɾˈemjos ˈa ɣanˈaðo|5
+clf_06136_00259203098.wav|saljˈo al meɾkˈaðo ˈun nwˈeβo moðˈelo kon distˈintos kolˈoɾes|6
+clf_02484_01256352034.wav|ˈes ke soɲˈe kon ˈese aktˈoɾ ˈese aktˈoɾ ke sˈale en la pelˈikula ðe petɾˈoleo sˌaŋɡɾiˈɛnto|2
+clf_06136_01448346849.wav|ʝˈo nˈo sˈe andˈaɾ em bˈisi aˈi te ðˈan kˈuɾsos|6
+clf_04310_01112906902.wav|de pˈostɾe βˈoɪ a seɾβˈiɾ ˈun elˈaðo ðe pistˈatʃo kon sˈalsa ðe fɾambwˈesa|4
+clf_07049_00181018454.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈexas|7
+clf_01523_01394538900.wav|xˈunta las ðˈos pˈaɾtes i ˈas ˈuna pekˈeɲa pɾesjˈon ˌentɾe ˈejjas|1
+clf_08421_02123170708.wav|maɾsˈela ˈes tʃˈef|9
+clf_08784_01468821694.wav|ˈaɪ sjˈeɾtas βaktˈeɾjas ke sˈom bwˈenas pˌaɾa la salˈud|10
+clf_06136_00362945003.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|6
+clf_09697_00825081900.wav|kisjˈeɾa saβˈeɾ kˈe estˈa pasˈando en el mundjˈal ðe fˈutβol|12
+clf_01523_00466506131.wav|ˈesta pelˈikula estˈa ɾɾˌekomfˌiɣuɾˈando las pˌosiβˌiliðˈaðes ðe los ɣjˈones sˌinemˌatoɣɾˈafikos|1
+clf_07508_01090313751.wav|el ðˌiɾektˈoɾ ɣonsˈales iɲˈaɾɾitu ˈes ˈuŋ ɡɾˈan dˌiɾektˈoɾ|8
+clf_08421_00432441695.wav|me akˈaβo ðe kompɾˈaɾ ˈum pɾˌojjektˈoɾ ðe ðjˌapositˈiβas pˌeɾo nˈo tˈɛŋɡo iðˈea ðe kˌomo aɾmˈaɾlo|9
+clf_01523_00793614462.wav|bˈa a aβˈeɾ ˌolimpjˈaðas ðe imbjˈeɾno|1
+clf_08784_01030279961.wav|kjˈeɾo βˈeɾ la nwˈeβa ˌeksposisjˈon de pˈop ˈaɾt|10
+clf_02484_00192583672.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|2
+clf_06136_00800761407.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|6
+clf_09334_01371160906.wav|ˈuna βˈes kˌolokˈaðo el kaɾβˈon kolˈoke la ɾɾexˈijja ðˌonde βˈa a kˌolokˈaɾ la kˈaɾne|11
+clf_07508_00694467490.wav|en kˈaða ˌestasjˈon de βˌisiklˈeta insˈeɾtas tu taɾxˈeta i te indˈika la βˌisiklˈeta ke pwˈeðes usˈaɾ|8
+clf_09334_00645735911.wav|ˈoɪ ðˌesiðˈi ðexˈaɾ ðe sˈer ðˌiseɲaðˈoɾa ðe pˈaxinas wˈeb|11
+clf_07508_01099585236.wav|mi kˌoneksjˈon de ˌinteɾnˈet ˈes mˈujj mˈala|8
+clf_05223_01745246798.wav|en kˈe pˈiso estˈa el ðˌepaɾtamˈɛnto|5
+clf_07508_00807099003.wav|ˌenkontɾˈe ˈuna kˈosa ɾɾaɾˈisima en el ˌinteɾnˈet|8
+clf_07508_01419065519.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|8
+clf_07508_00453209252.wav|ˈando ˈum pˈoko pˌensatˈiβa|8
+clf_00610_00129984119.wav|en las sˈonas ke nˈo ˈan sˈiðo ˌafektˈaðas ˈes ðˌonde se enkwˈɛntɾan tˈoðos los sˈɛntɾos ðe akˈopjo|0
+clf_01523_00799821343.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|1
+clf_03397_00764357363.wav|en kwˈantos xwˈeɣos asjˈatikos ˈa pˌaɾtisipˈaðo|3
+clf_08784_01948551456.wav|nˈo me ɣˈusta la βeɾsjˈon nwˈeβa|10
+clf_09697_01623769977.wav|estˈoɪ βjˈɛndo akˈi en la tˌeleβisjˈon ke ʝˈa ˈan kˌomensˈaðo los xwˈeɣos ðe imbjˈeɾno|12
+clf_01523_01091998068.wav|tjˈene el tjˈempo kontˈaðo|1
+clf_04310_01170110062.wav|santjˈaɣo ðe tʃˈile tjˈene mˈutʃos pˈaɾkes ðˌonde ˈaɪ konsjˈeɾtos ɣɾatwˈitos|4
+clf_02484_01326938899.wav|mis ˈixos me estˈam piðjˈɛndo ke les βˈaxe ˈunos podkˈasts|2
+clf_03397_01842599013.wav|me paɾˈese mˈujj ˌinteɾesˈante la ˌimfoɾmasjˈon|3
+clf_04310_01677424931.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|4
+clf_09334_01781394628.wav|le pwˈeðes ˌaβisˈaɾ a mi eɾmˈana ke kˈompɾe ˈunas βotˈejjas ðe ˈaɣwa|11
+clf_08421_00576537549.wav|a mi espˈoso le ˌenkantaɾˈia ˈiɾ al fˌestiβˈal ðe sˈine ðe βenˈesja|9
+clf_07508_01819590734.wav|nˈo me akwˈeɾðo kˌomo se ʝamˈaβa la ˌeksposisjˈon ke βˈi en el musˈeo|8
+clf_01523_00967392513.wav|los kˈesos ke ˈasen en ˈesa sˈona sˈom pˌaɾa tʃupˈaɾse los ðˈeðos|1
+clf_07049_00456046544.wav|nˌesesˈito ˈun smaɾtfˈone|7
+clf_08784_00361201408.wav|la mˌajjoɾˈia ðe los kwˈaðɾos ðe ðjˈeɣo ɾɾiβˈeɾa sˈon ˈoleos sˌoβɾe tˈela|10
+clf_06136_01841761043.wav|nˈo te entjˈɛndo nˈaða|6
+clf_02484_00279470482.wav|bˈoɪ a ɾɾˌeβisˈaɾ akˈa en mi βˈase ðe ðˈatos|2
+clf_07049_01615081871.wav|kjˈeɾo la kˌomputaðˈoɾa pˌaɾa estˈaɾ en kontˈakto kon mi famˈilja|7
+clf_03397_02140772298.wav|me ˈan dˈitʃo ke el ðˌiɾektˈoɾ ˈes mˈeðjo intˈɛnso kon los aktˈoɾes ke los pɾosˈesos sˈom bastˈante lˈaɾɣos|3
+clf_03397_01928148058.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe la pisˈina|3
+clf_08421_00813918815.wav|nˈo se kon ke kˌondimentˈaɾ el plˈato|9
+clf_03397_00477629514.wav|el pɾoβlˈema ˈes ke ʝˈo nˈo kjˈeɾo laβˈaɾ los plˈatos|3
+clf_02484_01333092408.wav|la pˈaɾte ðe las kˌataɾˈatas ðel njˈaɣaɾa ðel lˈaðo ˌestaðˌowniðˈɛnse sˈom bastˈante ˌaβuɾɾˈiðas las ðel lˈaðo kˌanaðjˈɛnse sˈon mˈas ðˌiβeɾtˈiðas|2
+clf_07508_01022640921.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|8
+clf_08784_01109699010.wav|kwˈanto kwˈestan los βolˈetos ðel teˈatɾo|10
+clf_07508_01427129628.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|8
+clf_08784_01875707853.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|10
+clf_09334_01351372575.wav|kˈe ˈotɾas opsjˈones ðe eskwˈela tˈɛŋɡo|11
+clf_01523_01711499623.wav|maɲˈana xwˈeɣan los ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa nˌasjonˈal|1
+clf_07049_00953789317.wav|bˈa a aβˈeɾ ˌolimpjˈaðas ðe βeɾˈano|7
+clf_04310_00037432397.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|4
+clf_08421_01419964289.wav|poðɾˈias kompɾˈaɾ poɾ faβˈoɾ el ðˈisko i mandˈaɾselo a mi mamˈa|9
+clf_00610_00531398189.wav|te kjˈeɾo peðˈiɾ ˈunas sinkwˈɛnta βˈolsas ðe βasˈuɾa ˈekstɾa ɣɾˈandes i βˌeɪntisˈinko kˈaɾpas|0
+clf_03397_02015503514.wav|me pwˈeðes mandˈaɾ ˈunas imˈaxenes ðe tu ɣˈato|3
+clf_09334_01117054287.wav|ˈesa palˈaβɾa βjˈene ðel latˈin taɾðˈio|11
+clf_04310_01679197190.wav|maɲˈana βˈa a ʝoβˈeɾ en la tˈaɾðe ðespwˈes ðe las kwˈatɾo i mˈeðja|4
+clf_09697_00823205185.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|12
+clf_02484_00113875187.wav|ˈaɪ tɾˈes tˈipos ðe kafˈe ˌameɾikˈano ðˌeskafeɪnˈaðo ˌameɾikˈano kˌonsentɾˈaðo i ˌasta kˌaputʃˈino|2
+clf_03397_01558221291.wav|en kˈe pˈiso estˈa el ðˌepaɾtamˈɛnto|3
+clf_03397_00873448261.wav|estˈuβe lejjˈɛndo ˈun ˌaɾtikˈulo i βˈi ke ˈaɪ ˈun nwˈeβo tɾˌatamjˈɛnto pˌaɾa ke te kɾˈeska el kaβˈejjo|3
+clf_04310_00951882615.wav|akˈi xiɾˈamos a la iskjˈeɾða|4
+clf_09334_01661288767.wav|en tu sˈona ˈaɪ tɾˈes paɾˈaðas ðe βˌisiklˈeta uɾβˈana|11
+clf_03397_01336037951.wav|kwˈantos ˈaɲos tjˈene el ˈultimo kˌampeˈon de fˈoɾmula ˈuno|3
+clf_07508_01745804795.wav|dˈonde nasjˈo el ðˌiɾektˈoɾ ɣonsˈales iɲˈaɾɾitu|8
+clf_08784_01589750161.wav|la ðistˈansja ˌentɾe fˈilas ðe la klˈase ˌekonˈomika ðe los aβjˈones kˌomeɾsjˈales ˈes βˌeɾɣonsˈosa|10
+clf_08784_00919599531.wav|en kˈe kˈajje estˈa la kˈasa|10
+clf_06136_01304391820.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|6
+clf_01523_01414471105.wav|pˈaβlo pikˈasso fˌinalisˈo el muɾˈal en mˈalaɣa en mˈil nˌoβesjˈɛntos sesˈɛnta i sjˈete|1
+clf_09697_01601850335.wav|aðˈiðas ˈa sakˈaðo ˈuna βeɾsjˈon ˌespesjˈal ðe sˌapatˈijjas a los kwˈales nˈo les ˈɛntɾa el ˈaɣwa|12
+clf_09697_00868503050.wav|te βˈeo mˈujj alˈeɣɾe i ˈeso me paɾˈese mˌaɾaβijjˈoso|12
+clf_08784_01259347161.wav|estˈa mˈujj kansˈaðo|10
+clf_05223_00934324586.wav|kwˈantas meðˈajjas ˈa ɣanˈaðo|5
+clf_07508_00245756583.wav|kwˈanto kwˈesta ˈese tɾˈaxe ðe βˈaɲo ˌespaɲˈol|8
+clf_08784_01808942751.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|10
+clf_07508_01480893582.wav|nˌesesitˈamos la makˈina ðe ˌeskɾiβˈiɾ lo mˈas ɾɾˈapiðo posˈiβle|8
+clf_07508_00421876742.wav|kwˈal ˈes la ðˌefinisjˈon de ˈuna ˈoβɾa ðe teˈatɾo|8
+clf_06136_00958817440.wav|el fˈutβol kˌolombjˈano ˈa ˌeβolˌusjonˈaðo a niβˈeles nˈunka ˈantes βˈistos|6
+clf_02484_01404026765.wav|kˈe ɾɾˈopa tˈɛŋɡo ke ʝeβˈaɾ|2
+clf_08784_01360042320.wav|la kˈimika ˈeɾa ˈun kˈampo βeðˈaðo a las muxˈeɾes ˈase sinkwˈɛnta ˈaɲos|10
+clf_02484_02041950187.wav|xˌeoɣɾˈafikamˈente aβlˈando ˈes ˈun luɣˈaɾ ðe mˈutʃos ɾɾeljˈeβes ˈaɪ βˈajjes ˈaɪ montˈaɲas ˈaɪ sˈeɾɾos i ˈaɪ kaskˈaðas|2
+clf_03397_01453920641.wav|tˈɛŋɡo tɾˈes opsjˈones la pɾimˈeɾa les βˈa a ˌenkantˈaɾ|3
+clf_05223_00882369991.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|5
+clf_08784_01645536477.wav|tˈoða la komˈiða tʃatˈaɾɾa ˈes fˈalsa ˈes totˈalmˈente kˈimika|10
+clf_07508_00545359743.wav|kjˈeɾo kompɾˈaɾ ˈun ɾɾeɣˈalo ˌapaɾatˈoso|8
+clf_08421_00052829390.wav|nˈo te entjˈɛndo nˈaða|9
+clf_07049_01255341441.wav|me ɣˌustaɾˈia ˈuna βˌateɾˈia pˌaɾa el sˌelulˈaɾ i pˌaɾa el ˈaʊto|7
+clf_09334_01111393569.wav|bˈamos a usˈaɾ la ˌapˌepˈe ðe la ˌembaxˈaða ðe fɾˈansja ke ˈes pˌaɾa xˈɛnte ke nˈo sˈaβe nˈaða ðe fɾˈanses|11
+clf_08784_01181008270.wav|alɣˈunos sjentˈifikos nˈo kɾˈeen ke el ˈombɾe ʝeɣˈo a la lˈuna|10
+clf_04310_00872182942.wav|el ˈotɾo ðˈia me komˈi ˈuna sˈopa ðe lentˈexas kon tʃoɾˈiso|4
+clf_09334_00337996840.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|11
+clf_09697_01338304424.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|12
+clf_09697_01986139694.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|12
+clf_02484_01971496056.wav|estˈas a kˈaɾɣo la loxˈistika ðel eβˈɛnto|2
+clf_01523_01050508482.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|1
+clf_09334_01278378087.wav|la βixˈɛnsja ðe tu taɾxˈeta ˈes ðe ˈotʃo mˈeses|11
+clf_04310_00528124073.wav|dˌesafˌoɾtunˈaðamˈente tˈoðas las βˈias ðe kˌomunˌikasjˈon estˈan koɾtˈaðas|4
+clf_08784_00549472299.wav|kˈasi tˈoðos los musˈeos ðe estˈaðos unˈiðos ˈaβɾen tˈoðos ðˈias|10
+clf_06136_00145359835.wav|pˌaɾa la kaˈiða ðel kaβˈejjo tˈɛŋɡo ˈun nwˈeβo xaβˈon|6
+clf_08421_00675144322.wav|poɾ el momˈɛnto ˈes kˌomplikˈaðo ˌinisjˈaɾ la sesjˈon te ɣˌustaɾˈia βˈeɾ ˈotɾa pˈaxina ke nˈo sˈea fˈeɪsβuk|9
+clf_04310_01684425455.wav|si βˈuska βaxˈaɾ ðe pˈeso los asˈukaɾes nˈo sˈon ˈuna βwˈena opsjˈon|4
+clf_09334_02075586213.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|11
+clf_03397_00962886477.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|3
+clf_01523_01605319248.wav|ɾɾeβˈise ke tˈoðas las pwˈeɾtas ðe la kˈasa sjˈeɾɾan koɾɾˈektamˈente|1
+clf_07508_00298955547.wav|me pwˈeðes ðesˈiɾ ke makˈina ðe ˌeskɾiβˈiɾ ðˈeβo kompɾˈaɾ|8
+clf_07508_00496179940.wav|ajjˈeɾ fwˈi al sˈine i βˈi ˈuna pˈesima pelˈikula|8
+clf_04310_02088467405.wav|maɲˈana βˈa a elˈaɾ en la mˌaðɾuɣˈaða|4
+clf_05223_01390863687.wav|ˈaɪ nwˈeβos kanˈales ðe ˈaʊðjo en kˈaða ˈuna ðe las sˈalas ðe sˈine ðˌonde kˈaða kjem pwˈeðe ˌeskutʃˈaɾ la pelˈikula seɣˈun su asˈɛnto|5
+clf_09334_02093835730.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|11
+clf_04310_01789540597.wav|la kˌomfeɾˈɛnsja ˈes sˌoβɾe la ˌimpoɾtˈansja ðel asˈeo pˌeɾsonˈal en el tɾaβˈaxo|4
+clf_03397_02015143509.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|3
+clf_09697_00657169394.wav|kjˈeɾes alɣˈun dˈato en ˌespesˈifiko|12
+clf_02484_00070026035.wav|la kaβˈaɲa tjˈene ðˌesajjˈuno ˌinkluˈiðo|2
+clf_08784_00493618474.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|10
+clf_09697_00746581917.wav|en el ˌinteɾnˈet ˈesta tˈoðo mˈas o mˈenos komfˈuso kon las ˈultimas notˈisjas|12
+clf_07508_00067120194.wav|te ɾɾˌekomjˈɛndo ke ˈuses mˈoto o ˈuna βˌisiklˈeta|8
+clf_01523_00768857460.wav|nˈo te entjˈɛndo nˈaða|1
+clf_08784_01607057030.wav|ˈasme ˈun anˈalisis sˌoβɾe las kɾˈitikas ðe la pelˈikula i tˈu mamˈa tambjˈen|10
+clf_09334_00537289556.wav|tˈoða ˈesta ˌimfoɾmasjˈon la pwˈeðe ˌenkontɾˈaɾ en la pˈaxina wˈeb ðe la sˌekɾetaɾˈia ðe kultˈuɾa|11
+clf_08784_00838724695.wav|kwˈando sˌuseðjˈo la ɣˈeɾɾa siβˈil ðe espˈaɲa|10
+clf_00610_00327282458.wav|te kjˈeɾo peðˈiɾ komˈiða pˌaɾa βeβˈe i toˈajjas ixjˈenikas|0
+clf_03397_00933444522.wav|estˈoɪ akˈi kon ˈun amˈiɣo ðˌiskutjˈɛndo sˌoβɾe la finˈal ðe la tʃˈampjons|3
+clf_07049_01385489044.wav|los pasˈaxes kwˈestan ˌalreðeðˈoɾ ðe tɾesjˈɛntos ʝˈenes xˌaponˈeses|7
+clf_06136_01684437564.wav|se me ðˌeskompˈuso mi ˈaʊto letˈisja nˌesesˈito ˈuno nwˈeβo|6
+clf_08784_01033702664.wav|sˈaβes asˈeɾ salmˈon ˌaumˈaðo|10
+clf_02484_00689684803.wav|estˈoɪ ˌinteɾesˈaðo en kompɾˈaɾ ˈun nwˈeβo kˌomputaðˈoɾ|2
+clf_04310_01147658933.wav|nˌesesˈito kˌomfiɣuɾˈaɾlo en la pantˈajja pˌeɾo estˈoɪ ˈum pˈoko peɾðˈiðo me pwˈeðes ˌajjuðˈaɾ|4
+clf_08784_00477346915.wav|ajjˈeɾ βˈi a ˈun amˈiɣo ke nˈo βeˈia ðˌesðe la sˌekundˈaɾja|10
+clf_08421_02137073367.wav|bˈuskas βiβˈiɾ sˈola|9
+clf_02484_00176907062.wav|tu me poðɾˈias ðˈaɾ alɣˈunos nˈombɾes ðe ɾɾˈasas pekˈeɲas|2
+clf_02484_01452716805.wav|kˈaða βˈes ke βˈeo ˈuna ɾɾˈajja en el sjˈelo me ðˈa mˈutʃo mjˈeðo|2
+clf_09334_01525868289.wav|seɣˈun la paxˈina ðel ˌinstitˈuto mˌeteˌoɾolˈoxiko nˌasjonˈal el tˌempoɾˈal nˈo βˈa a peɣˈaɾ mˈujj fwˈeɾte en la sjuðˈad|11
+clf_00610_01484962704.wav|en mi βˈase ðe ðˈatos tˈɛŋɡo ˈonse ðˌifeɾˈɛntes ɾɾˌekomˌendasjˈones pˌaɾa pasˈaɾ ˈun dˈia en el mˈaɾ|0
+clf_07508_01185870997.wav|las lˈetɾas ðe la makˈina ðe ˌeskɾiβˈiɾ nˌesesˈitan estˈaɾ mˈujj ðˌesɣastˈaðas pˌaɾa la ɣɾˌaβasjˈon|8
+clf_01523_00848261095.wav|los ˈamsteɾs kˈomen sˌanaˈoɾjas|1
+clf_07049_00788979294.wav|nˌesesˈito ˈuna lapːtˈop|7
+clf_04310_01323914397.wav|kjˈeɾo saβˈeɾ ðe kwˌanto ˈes la kˌomisjˈon ˈes ˈum pˌoɾsentˈaxe o ˈes ˈuna kˌantiðˈad fˈixa|4
+clf_09697_01845362086.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|12
+clf_08784_01524798201.wav|te ˌinteɾˈesa el ˈaɾte kˌontempoɾˈaneo|10
+clf_01523_01157887456.wav|kjˈeɾo mi asjˈɛnto en la βentˈana|1
+clf_08421_00859819285.wav|kon ˈesta ˌimfoɾmasjˈon tu ðˌiɾektˈoɾ ðe kˈastiŋ bˈa a keðˈaɾ ˌenkantˈaðo|9
+clf_04310_01363459031.wav|el xˌeɾoɣlˈifo tjˈene ˈum pˈes ˌamaɾˈijjo|4
+clf_07508_00301804763.wav|me ajjˈuðas a βuskˈaɾ ˈuna tjˈɛnda ðˌonde pwˈeða kompɾˈaɾle ˈun ɾɾeɣˈalo a mi espˈoso|8
+clf_03397_01377038559.wav|estˈoɪ akˈi kon ˈun amˈiɣo ðˌiskutjˈɛndo sˌoβɾe la kaɾɾˈeɾa ðe fˈoɾmula ˈuno|3
+clf_08784_00678742130.wav|em pˌoɾtuɣˈal se ðˈan las ˈolas mˈas ɣɾˈandes ðel mˈundo|10
+clf_03397_00131107356.wav|los sˈandwitʃes estˈam fɾˈios|3
+clf_01523_00049607628.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|1
+clf_03397_01916922410.wav|ˈes pɾoðˈukto ðel pɾoɣɾˈama ˌalemˈan de ˌentɾenamjˈɛnto sjentˈifiko|3
+clf_09334_01103761188.wav|me pwˈeðes ˌajjuðˈaɾ kon el fˌoɾmulˈaɾjo|11
+clf_00610_01134956328.wav|si ðe kˌaswaliðˈad kˈambja el klˈima nos poðɾˈias mandˈaɾ ˈun mensˈaxe al sˌelulˈaɾ poɾ faβˈoɾ|0
+clf_02484_02086723210.wav|ˈoɪ te molˈesto kon ˈotɾa kˈosa ˈes ke nˌesesˈito aɾmˈaɾ ˈuna kˌomfeɾˈɛnsja i ʝˈo nˈo ˈe ˈetʃo ˈesto nˈunka la βeɾðˈad nˈo saβɾˈia mˈujj βjˈen kˌomo asˈeɾlo|2
+clf_05223_01657291019.wav|las ˌolimpjˈaðas kˌomensˈaɾon kon los ɣɾiˈeɣos en la sjuðˈad ðe kɾˈeta|5
+clf_09697_01199803990.wav|dˌesajjunˈe ˈuna mansˈana i ˈun tˈe ðe mˌansanˈijja|12
+clf_05223_01641793809.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|5
+clf_03397_00935154239.wav|ʝˈa estˈan tˈoðas las pelˈikulas en tu koɾɾˈeo|3
+clf_01523_01243255841.wav|te ɣˈustan los elˈaðos|1
+clf_03397_00007216922.wav|tenˈemos βˈaɾjas opsjˈones ˈun dˌepaɾtamˈɛnto kon dˈos ˌaβitasjˈones i tɾˈes ðˌepaɾtamˈɛntos kon tɾˈes ˌaβitasjˈones|3
+clf_08421_00325744860.wav|nˈo entjˈɛndo nˈaða|9
+clf_05223_02005173439.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|5
+clf_08421_01457154120.wav|danjˈel ˈes ˈuno ðe los kɾˌeaðˈoɾes esˈenikos mˈas ˌimpoɾtˈantes ðe nwˌestɾo paˈis|9
+clf_06136_00441353713.wav|estˈoɪ βjˈen ˌemosjonˈaða me βˈoɪ a mˌaɾɾuˈekos|6
+clf_09334_00012790731.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|11
+clf_09334_02005952417.wav|los sandwˈitʃ estˈam fɾˈios|11
+clf_01523_00328589580.wav|kjˈeɾo saβˈeɾ ke pwˈeðo asˈeɾ en mi kˈasa pˌaɾa mˌinimisˈaɾ los ɾɾiˈesɣos ðel ˌuɾakˈan|1
+clf_01523_00907265446.wav|ˈes mˈujj fˈasil ɾɾˌesɣwaɾðˈaɾ su oɣˈaɾ ðe los ˌuɾakˈanes|1
+clf_09697_00619762785.wav|kon la aɣˈuxa i el ˈilo kiɾˈuɾxiko βˈa a tɾatˈaɾ ðe kosˈeɾle la eɾˈiða pˌaɾa ke pˈaɾe ðe saŋɡɾˈaɾ|12
+clf_08421_00289274754.wav|si kjˈeɾes la kˈompɾo i te la mˈando ʝˈeɣa pasˈaðo maɲˈana|9
+clf_01523_01265284343.wav|los salˈamis ke ˈasen en ˈesa sˈona sˈon dˌelisjˈosos|1
+clf_09697_01047088642.wav|estˈoɪ βjˈɛndo ke los ˌasistˈɛntes a las kˌomfeɾˈɛnsjas ke βˈas a ðˈaɾ βjˈenen de ðistˈintos luɣˈaɾes ðel paˈis sjˈeɾto|12
+clf_04310_01079238879.wav|nˈo te entjˈɛndo nˈaða|4
+clf_09334_00038218007.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|11
+clf_08784_02049664012.wav|a kˈe eðˈad ðˈeβo βˌakunˈaɾ a mis ˈixos kˈontɾa el sˌaɾampjˈon|10
+clf_06136_01311250466.wav|ˌoxalˈa puðjˈeɾamos ˌimbitˈaɾ a ˈesta ɾɾeʊnjˈon kon el seɲˈoɾ ɾɾamˈiɾes a βˈaɾjos atlˈetas|6
+clf_08784_00008056918.wav|la ɣˈeɾɾa siβˈil ˌespaɲˈola tˌeɾminˈo en mˈil nˌoβesjˈɛntos tɾˈeɪnta i sˈeɪs|10
+clf_08784_01314418926.wav|el ðˈia ðe sˈam bˌalentˈin de mˈil nˌoβesjˈɛntos tɾˈeɪnta i sˈeɪs fɾˈanko entɾˈo al poðˈeɾ|10
+clf_01523_00255427123.wav|la ˌaplikasjˈon te ensˈeɲa a pɾˌonunsjˈaɾ las lˈetɾas pɾˌinsipˈales|1
+clf_09697_00572834938.wav|kwˈal ˈes el ˌospitˈal mˈas seɾkˈano|12
+clf_03397_01968008305.wav|el sˈolo se ðeðˈika a sˈer ðˌiɾektˈoɾ o tambjˈen eskɾˈiβe sus pɾˈopjos ɣjˈones|3
+clf_01523_01404763813.wav|en kˈe kˈajje estˈa la kˈasa|1
+clf_09334_02050771302.wav|a su mamˈa le ɣˈustan las flˈoɾes|11
+clf_08421_00311472349.wav|kjˈeɾo βaxˈaɾ ˈum pɾoɣɾˈama o ˈalɣo ðˌonde ʝˈo pwˈeða ˌentendˈeɾ el iðjˈoma|9
+clf_08421_00031689138.wav|la mexˈoɾ ˈepoka ðel ˈaɲo pˌaɾa ˈiɾ a swˈesja ˈes em beɾˈano|9
+clf_09697_01296854715.wav|kˈomo βˈa tu estˈaðo fˈisiko|12
+clf_05223_01870718429.wav|el siɣjˈɛnte semˈestɾe kjˈeɾo ˌempesˈaɾ a ˌestuðjˈaɾ la lˌisensjatˈuɾa en sˈine|5
+clf_05223_00754937104.wav|tjˈene el tjˈempo kontˈaðo|5
+clf_07049_00579130201.wav|kwˈanto me ðemˈoɾo ðe akˈi a santjˈaɣo en tɾˈen|7
+clf_07049_01068846006.wav|ɾɾemˈeðjos βˈaɾo fˌinalisˈo el muɾˈal en lˈondɾes en mˈil nˌoβesjˈɛntos sinkwˈɛnta i ˈotʃo|7
+clf_02484_01397934056.wav|kˈe me ɾɾˌekomˌendaɾˈias ˈun akwˈaɾjo ðe ˈaɣwa salˈaða o ðe ˈaɣwa ðˈulse|2
+clf_03397_00373051312.wav|las ˌolimpjˈaðas kˌomensˈaɾon kon los ɣɾiˈeɣos en la sjuðˈad ðe kɾˈeta|3
+clf_00610_00181081192.wav|seɣˈun mis ðˈatos ˈeste lˈunes kˈinse ðe aβɾˈil nˈo ˈaɪ paɾtˈiðos ðe βˈadminton|0
+clf_09334_01641312405.wav|kwˈantas ˈoɾas dwˈeɾme ˈuŋ ɡˈato|11
+clf_09697_01506789013.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|12
+clf_08421_00826730590.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|9
+clf_00610_00226607880.wav|el ˈotɾo ðˈia me kˈomi ˈun aɾɾˈos kon kˌamaɾˈones|0
+clf_01523_02049580472.wav|sˈaβe ustˈed kwˈantos estˈaðjos ðe fˈutβol pɾˌofesjonˈal ˈaɪ akˈa|1
+clf_08421_01336379811.wav|estˈoɪ ðˌestinˈaða a tɾiumfˈaɾ|9
+clf_09697_01700234695.wav|la ˌoβskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|12
+clf_04310_01520567011.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna kˌafeteɾˈia sˈeɾka|4
+clf_03397_01890389211.wav|kwˈal ˈes su pɾˌesupwˈesto seɲˈoɾ|3
+clf_07049_01548146454.wav|maɲˈana xwˈeɣan los ˈotʃo ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa tʃilˈena|7
+clf_09697_00666333341.wav|los ˈamsteɾs kˈomen sˌanaˈoɾjas|12
+clf_09697_00921427161.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|12
+clf_08421_02107436447.wav|el ʝˈoɣa ˌaðemˈas ðe ɾɾˌelaxˈaɾte i ˌekiliβɾˈaɾ tu ˌoɾɣanˈismo tambjˈen te pˌeɾmitiɾˈa tˌonifikˈaɾ los βɾˈasos i las pjˈeɾnas|9
+clf_06136_00130670312.wav|ˈe estˈaðo pensˈando ke nˌesesˈito asˈeɾ ˌexeɾsˈisjo|6
+clf_01523_00094305880.wav|los sapˈatos se etʃˈaɾon a peɾðˈeɾ kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|1
+clf_09697_01609435476.wav|nˈo te entjˈɛndo nˈaða|12
+clf_08421_01641261490.wav|tˈɛŋɡo ˈun telˈefono ke tɾaβˈaxa ðe ˈuna manˈeɾa teɾɾˈiβle|9
+clf_04310_01798645660.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|4
+clf_08421_00207320783.wav|ʝˈeβo ˈunos mˈeses a ðjˈeta pˌeɾo se me antˈoxo ˈuna pˈitsa|9
+clf_07508_00612179137.wav|se me fwˈe el ˌinteɾnˈet|8
+clf_03397_00475591253.wav|kwˈal ˈes la ˌestasjˈon de mˈetɾo mˈas seɾkˈana|3
+clf_07508_01635100241.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|8
+clf_09697_00850736547.wav|me ˈas kitˈaðo ˈum pˈeso ðe ensˈima mˈutʃas ɣɾˈasjas|12
+clf_02484_01740436820.wav|tjˈenes ˈalɣo kon los ðˌinosˈaʊɾjos planˈetas ˈestas kˈosas ke le ɣˈustan a los nˈiɲos|2
+clf_06136_00489658200.wav|en mi βˈase ðe ðˈatos tˈɛŋɡo sˈinko ðˌifeɾˈɛntes ɾɾˌekomˌendasjˈones pˌaɾa la ʝˈuβja|6
+clf_09697_00209183770.wav|kˈe ðˈaɲos ˈa ðexˈaðo el ˌuɾakˈan|12
+clf_05223_01800382698.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe la pisˈina|5
+clf_08421_00447929293.wav|estˈoɪ mˈujj ˌestɾesˈaðo i nˌesesˈito ˈiɾme ðe βˌakasjˈones|9
+clf_09697_00904637035.wav|ɾɾˈompa ˈum peðˈaso ðe la kamˈisa i amˈaɾɾesˌela kˌomo si fwˈeɾa ˈum bˈɛnda|12
+clf_06136_00085850398.wav|seɣˈun mis ðˈatos ˈeste sˈaβaðo ðˈos ðe xˈunjo ˈes el ðˈia ðe la mˈaðɾe|6
+clf_07508_01188234451.wav|ˈes mˈujj ðifˈisil ˌenkontɾˈaɾle ˈun ɾɾeɣˈalo a mi mamˈa su ɣˈusto ˈes mˈujj ɾɾˈaɾo|8
+clf_05223_00114243569.wav|ˈesta atlˈeta tʃˈina ˈes ˈun kˈaso ˈuniko ˈase sˈalto lˈaɾɣo i ximnˈasja i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|5
+clf_01523_01828802323.wav|djˈeɣo ɾɾiβˈeɾa fˌinalisˈo el muɾˈal en nwˈeβa ʝˈoɾk en mˈil nˌoβesjˈɛntos setˈɛnta i ˈuno|1
+clf_07049_00066439695.wav|tu te kˌonsiðeɾˈais ˈuna peɾsˈona fɾˈia o kˈaliða|7
+clf_04310_01809005800.wav|kˈe tˈan dˌestɾuˈiða keðˈo la sjuðˈad ðe nwˈeβa oɾlˈeans ðespwˈes ðel ˌuɾakˈaŋ katɾˈina|4
+clf_02484_00777456559.wav|kjˈeɾo ke me ɾɾˌekomjˈɛndes ˈuna ðjˈeta pˌeɾo ðˌonde ˈuno pwˈeða komˈeɾ ˈalɣo nˈo pˈuɾas βeɾðˈuɾas|2
+clf_08421_01060837397.wav|me ɣˌustaɾˈia ˌoɾɣanisˈaɾ ˈunas tʃˈaɾlas sˌoβɾe lˌiteɾatˈuɾa fantˈastika|9
+clf_09697_01357086157.wav|te ɾɾˌekomjˈɛndo ke ˈuses pˌantalˈones mjˌentɾas tˈɛŋɡas ˈesa eɾˈiða en la ɾɾoðˈijja|12
+clf_09697_02088779137.wav|tjˈenes tˈoðos los ˌiŋɡɾeðjˈɛntes|12
+clf_06136_00225522259.wav|seɣˈun mis ðˈatos ˈeste ðomˈiŋɡo βˌeɪntisˈinko ðe ðisjˈembɾe nˈo ˈaɪ paɾtˈiðos ðe fˈutβol|6
+clf_08421_01436209434.wav|te ɣˌustaɾˈia komˈeɾ ˌambuɾɣˈesas kon ˈuna seɾβˈesa ˌaɾtesanˈal|9
+clf_07508_02051536885.wav|las kˌompaɲˈias ðe tˌelefˈono ɣˈanan mutʃˈisimo ðinˈeɾo|8
+clf_08421_00589731302.wav|kwˈanto kwˈesta ˈeste seɾβˈisjo o ˈes ɣɾatwˈito|9
+clf_09697_00671924849.wav|dˈame ˈunikamˈente el ðˈato mˈas ɾɾˌeleβˈante|12
+clf_08421_01409785678.wav|kwˈal fwˈe el ˈultimo ðˈisko ke ɣɾaβˈaɾon|9
+clf_00610_01066269150.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas ˈotʃo wˈeβos i ˈuŋ kˈilo ðe pˈapas pˌeɾuˈanas|0
+clf_03397_00019514693.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|3
+clf_02484_01512261740.wav|ɡanˈo alɣˈum pɾˈemjo ˈesa pelˈikula|2
+clf_04310_01064808377.wav|maɲˈana βˈajja ˌaβɾiɣˈaða ˈuŋ ɡˈoɾɾo ðe lˈana i ɣwˈantes ˈes lo mˈas ɾɾˌekomendˈaβle|4
+clf_05223_00482792942.wav|en kwˈantos xwˈeɣos ˌafɾikˈanos ˈa pˌaɾtisipˈaðo|5
+clf_01523_01159800008.wav|natˈalja kisjˈeɾas βjaxˈaɾ a maðɾˈið en los pɾˈoksimos ðˈias|1
+clf_08784_01232713433.wav|las ɾɾˈosas ðel xaɾðˈim botˈaniko sˈon ˌaɾtifisjˈales|10
+clf_08421_00171752940.wav|me ɣˌustaɾˈia ˌoɾɣanisˈaɾ ˈunas tʃˈaɾlas sˌoβɾe mekˈanika ˌindustɾiˈal|9
+clf_01523_01758803999.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|1
+clf_04310_00360639360.wav|de pˈostɾe βˈoɪ a seɾβˈiɾ ˈuna tˈoɾta ðe tɾˈes tʃˌokolˈates|4
+clf_02484_01730427509.wav|lo ðel pˈaɾke me ɣˈusto pˌoɾke ˈaɪ ˈaɾβoles i aˈi me pwˈeðo keðˈaɾ βˌaxo la sˈombɾa i me tˈomo ˈun tˈe fɾˈio|2
+clf_08784_00773091008.wav|mˈutʃas ˌemfeɾmeðˈaðes ˈan sˈiðo ˌeɾɾaðikˈaðas al ðˌeskuβɾˈiɾse la pˌenisilˈina el sˈiɣlo pasˈaðo|10
+clf_00610_00411949892.wav|el ˈotɾo ðˈia me kˈomi ˈuna sˈopa ðe lentˈexas kon tʃoɾˈiso|0
+clf_04310_01604322040.wav|kˈe tˈan dˌestɾuˈiðas keðˈaɾon las ˈislas ðel kaɾˈiβe ˌoksiðentˈal ðespwˈes ðel ˌuɾakˈan ˈuɣo|4
+clf_02484_00067369754.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|2
+clf_02484_01211981562.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|2
+clf_01523_01930754106.wav|el βwˈelo ʝˈeɣa al tˌeɾminˈal ˈuno o al tˌeɾminˈal kwˈatɾo|1
+clf_06136_00802370452.wav|el peɾjˈoðiko eskɾˈiβe ˈuna lˈaɾɣa nˈota ðisjˈɛndo poɾ kwˈaɾta βˈes la sˌeleksjˈon de kolˈombja βwˈelβe a ɣˌoleˈaɾ a la ˌaɾxentˈina|6
+clf_04310_00143953152.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|4
+clf_05223_01923566318.wav|ˈeste kˌomputaðˈoɾ ˈes ˌiðeˈal pˌaɾa tus nˌesesiðˈaðes pˌeɾsonˈales i lˌaβoɾˈales|5
+clf_01523_01930679316.wav|los βolˈetos kwˈestan ˌalreðeðˈoɾ ðe βˈeɪnte ˈeʊɾos|1
+clf_01523_01349983124.wav|ˌasistˈɛnte tɾˌaðuktˈoɾ en lˈinea|1
+clf_07049_01925962179.wav|se ɾɾompjˈo la sˈijja ðe la sˈala i nˈo se kˌomo ˌaɾɾeɣlˈaɾla|7
+clf_09334_01476525985.wav|ˈes mˈujj fˈasil ɾɾˌesɣwaɾðˈaɾ su oɣˈaɾ ðe los ˌuɾakˈanes|11
+clf_07049_00712650693.wav|los amstˈeɾ kˈomen sˌanaˈoɾja|7
+clf_05223_01375080947.wav|nˈo te entjˈɛndo nˈaða|5
+clf_01523_01408309841.wav|ˈaɪ alɣˈum bwˈelo mˈas ˌekonˈomiko pasˈando poɾ kankˈun|1
+clf_08421_00417512335.wav|koŋ ɡˈusto pɾoɣɾˈamo el ðˈia ðe salˈiða ðel ðˈisko pˌaɾa ke ɾɾesˈiβas ˈuna nˈota en tu sˌelulˈaɾ|9
+clf_02484_01136891641.wav|nˈo me ɣˈustan los ɣˈatos pˌoɾke sˈoɪ alˈeɾxiko i los pˈeɾɾos me ðˈan sˌaɾpujjˈiðo|2
+clf_09697_01102420144.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|12
+clf_07508_00423787469.wav|si ˈes ˌimpoɾtˈante ke te sjˈɛntas kˈomoðo en ˈuna βˈisi|8
+clf_08421_01420103355.wav|ˈusa la fwˈɛnte ðe ˌimfoɾmasjˈon mˈas komfjˈaβle|9
+clf_01523_00039056017.wav|el pixˈama ɾɾˈajjas ˈes asˈul|1
+clf_09334_01310095033.wav|kjˈeɾo saβˈeɾ ke pwˈeðo asˈeɾ en mi kˈasa pˌaɾa mˌinimisˈaɾ los ɾɾiˈesɣos ðel ˌuɾakˈan|11
+clf_09334_00152069413.wav|lo ˌinteɾesˈante ðe su ˌeðukasjˈon ˈes ke ˈejja nˈo keɾˈia sˈer aktɾˈis keɾˈia sˈer sikˈoloɣa|11
+clf_04310_00303901948.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna pˌasteleɾˈia sˈeɾka ðe mi kˈasa|4
+clf_08784_01796910317.wav|sˈaβes ðˈonde pwˈeðo ˌenkontɾˈaɾ ˈuna kamˈisa ɾɾˈajjas|10
+clf_08421_00428186471.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|9
+clf_03397_00705096545.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|3
+clf_07508_00907938640.wav|las mˈakinas ðe ˌeskɾiβˈiɾ antˈiɣwas pwˈeðen sˈer mˈujj kˈaɾas|8
+clf_01523_00730116429.wav|tˈɛŋɡo ˈesta imˈaxen en la kaβˈesa ðe ke ˈes ˈun muɾˈal mˈeðjo kuβˈista|1
+clf_03397_01271869046.wav|estˈoɪ akˈi kon ˈuna amˈiɣa kˌosinˈando komˈiða ˈindja|3
+clf_05223_01692137810.wav|los ˈamsteɾs kˈomen sˌanaˈoɾjas|5
+clf_08421_00097389235.wav|me ɣˌustaɾˈia ˌoɾɣanisˈaɾ ˈunas tʃˈaɾlas sˌoβɾe la seɾβˈesa ˌaɾtesanˈal|9
+clf_08421_01663502543.wav|le pwˈeðo kˌompaɾtˈiɾ ˈestas fˈotos las estˈa βjˈɛndo|9
+clf_09697_01674037323.wav|tˈɛŋɡo pensˈaðo en ˈiɾme a ˌakampˈaɾ maɲˈana a las laɣˈunas ðe sˌempoˈala pˌeɾo kɾˈeo ke βˈa a ʝoβˈeɾ|12
+clf_08421_01589866644.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|9
+clf_01523_01955444680.wav|del mˈetɾo al sˈine sˈon tɾˈes minˈutos|1
+clf_07508_00678243319.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|8
+clf_07508_01024686208.wav|ˈando βuskˈando las ɾɾesˈetas ðe komˈiða mˈas pˌopulˈaɾes ðel ðˈos mˈil ðjˌesisˈeis|8
+clf_08784_01378039714.wav|ˈas βolˈaðo en ˌaβjonˈeta|10
+clf_01523_00871925396.wav|bˈamos a usˈaɾ la ˈapp ðe la ˌembaxˈaða ðe fɾˈansja ke ˈes pˌaɾa xˈɛnte ke nˈo sˈaβe nˈaða ðe fɾˈanses|1
+clf_08784_00914447562.wav|kˈe poðɾˈia asˈeɾ si ʝuˈeβe ˈoɪ|10
+clf_09334_00591143742.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|11
+clf_05223_02085422219.wav|la ˌoskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|5
+clf_09697_01462923776.wav|los mexˈoɾes luɣˈaɾes pˌaɾa ˌentaβlˈaɾ pɾimˈeɾas sˈitas em paɾˈexa se enkwˈɛntɾan en la sˈona sˈuɾ ðe la sjuðˈad|12
+clf_07049_01083051857.wav|la onˈemi βˈa a ðˌeteɾminˈaɾ sin sˈon luɣˈaɾes ˌaβitˈaβles o nˈo|7
+clf_09697_01458777225.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|12
+clf_01523_01536815157.wav|nˌesesˈito pɾˈaktikamˈente ˈun kˈuɾso ekspɾˈess|1
+clf_07049_00592790014.wav|ˈesa kˌapasiðˈad ðe memˈoɾja ðe la kˌomputaðˈoɾa ˈes sˌufisjˈɛnte pˌaɾa lo ke ʝˈo kjˈeɾo|7
+clf_04310_01756362638.wav|te kjˈeɾo peðˈiɾ ˈunas sinkwˈɛnta βˈolsas ðe βasˈuɾa ˈekstɾa ɣɾˈandes i βˌeɪntisˈinko kˈaɾpas|4
+clf_09697_00641039760.wav|ʝˈa estˈamos a pˈunto ðe ˌateɾɾisˈaɾ kˈeða ˈun minˈuto|12
+clf_07508_00280256354.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|8
+clf_04310_00058906913.wav|ˈeste ˌentɾenaðˈoɾ tˈuβo mˈutʃos pɾoβlˈemas ˌasta ʝeɣˈaɾ a sˈer ˈuno ðe los mexˈoɾes|4
+clf_05223_01355239728.wav|ˈesta atlˈeta pˌanamˈeɲa ˈes ˈun kˈaso ˈuniko ˈase ˌatletˈismo i esɣɾˈima i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|5
+clf_08784_00830357922.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|10
+clf_01523_00393444149.wav|se ɾɾompjˈo la sˈijja ðe la sˈala i nˈo se kˌomo ˌaɾɾeɣlˈaɾla|1
+clf_05223_00108375757.wav|me pwˈeðes ɾɾˌepetˈiɾ la ˌimfoɾmasjˈom poɾ faβˈoɾ|5
+clf_07049_01913346472.wav|les ɾɾˌekomjˈɛndo βˌisitˈaɾ sjˈete montˈaɲas kon altˈuɾas sˌupeɾjˈoɾes a los sˈinko mˈil mˈetɾos sˌoβɾe el niβˈel ðel mˈaɾ|7
+clf_02484_01078858464.wav|ˈes ˈun mˌeðikamˈɛnto ke tˌoðaβˈia estˈa em fˈase ˌekspeɾˌimentˈal i pwˈeðe ˌokasjonˈaɾ pɾoβlˈemas kon los efˈektos sˌekundˈaɾjos|2
+clf_07049_01684056252.wav|maɲˈana xwˈeɣan los ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa nˌasjonˈal|7
+clf_09697_02051748416.wav|tˈɛŋɡo mˈutʃos ðˈiskos ðe βinˈilo|12
+clf_07049_00946639900.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|7
+clf_02484_00390370616.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|2
+clf_00610_01328563459.wav|kjˈeɾo tɾˌansfeɾˈiɾ ðinˈeɾo βˈia paɪpˈal|0
+clf_07049_01222942552.wav|maɲˈana βˈa a neβˈaɾ en la nˈotʃe|7
+clf_08421_01978029481.wav|te mˈando ˈum bˈeso i nos estˈamos βjˈɛndo|9
+clf_08784_01000446866.wav|la palˈaβɾa ðˌemokɾˈasja susˈita ɣɾˈandes ðeβˈates en la ˌuniβˌeɾsiðˈad|10
+clf_01523_00431557878.wav|se ɾɾompjˈo el lˌaβamˈanos i nˈo se kˌomo ˌaɾɾeɣlˈaɾlo|1
+clf_05223_00078709465.wav|me pwˈeðes mandˈaɾ ˈunas imˈaxenes ðe tu ɣˈato|5
+clf_06136_00559709135.wav|kjˈeɾo ˌaβeɾiɣwˈaɾ kˌomo se ʝˈama ˈun dˌiɾektˈoɾ ðe sˈine|6
+clf_09697_00193372576.wav|sˈaβes kˈe pˈiðeme los tˈenis ke nˈo se ˌumeðˈesen de nˈike|12
+clf_07049_02000875038.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|7
+clf_08784_01078781093.wav|sˈaβes ðˈonde pwˈeðo ˌenkontɾˈaɾ ˈuna polˈeɾa ðel ekˈipo ðe la sˌeleksjˈon mˌexikˈana|10
+clf_00610_00229263930.wav|en mi βˈase ðe ðˈatos tˈɛŋɡo sˈinko ðˌifeɾˈɛntes ɾɾˌekomˌendasjˈones pˌaɾa la ʝˈuβja|0
+clf_01523_00356509674.wav|apˈaɣe el motˈoɾ ðel ˈaʊto i pˈoŋɡa el fɾˈeno ðe mˈano|1
+clf_09334_00409747678.wav|los ɣˈatos dwˈeɾmen kˈasi tˈoðo el ðˈia i ˈasen sus nˌesesiðˈaðes sˈolo ˈuna βˈes al ðˈia|11
+clf_06136_00753171921.wav|estˈoɪ βjˈen ˌemosjonˈaða me βˈoɪ a itˈalja|6
+clf_04310_00306424484.wav|el ˈotɾo ðˈia komˈi ˈun elˈaðo xiɣˈante mjˌentɾas βeˈia ˈuna pelˈikula|4
+clf_00610_01495493310.wav|maɲˈana βˈa a asˈeɾ mˈutʃo fɾˈio|0
+clf_09334_01557106018.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|11
+clf_05223_01247961154.wav|ustˈed βˈa a ðˌisfɾutˈaɾ ðe ˈuna plˈajja mˈujj βonˈita i kon ˈuna βˈista ˌinkɾeˈiβle|5
+clf_09697_01948929137.wav|mˈiɾa ke βonˈita imˈaxen|12
+clf_09697_00601137186.wav|mˈas o mˈenos kˈe pɾˌesupwˈesto estˈa ðispwˈesto a paɣˈaɾ|12
+clf_03397_02021788258.wav|ˈesta atlˈeta ˌaɾxentˈina ˈes ˈun kˈaso ˈuniko ˈase ˌatletˈismo i ximnˈasja i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|3
+clf_03397_00703018027.wav|ɾɾesˈeɾβame tɾˈes entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las nwˈeβe mˈenos kwˈaɾto|3
+clf_07049_00971916766.wav|bˈa a aβˈeɾ ˌolimpjˈaðas ðe imbjˈeɾno|7
+clf_06136_01230328754.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|6
+clf_03397_00063564134.wav|en mi pɾˈoksima βˈiða nˈo kjˈeɾo sˈer umˈano|3
+clf_07049_01954960626.wav|nˈo kjˈeɾo estˈaɾme moxˈando tˈoða la tˈaɾðe|7
+clf_03397_01415001018.wav|kwˈantas meðˈajjas ˈa ɣanˈaðo|3
+clf_08784_01431147761.wav|los ˈamsteɾ kˈomen sˌanaˈoɾjas|10
+clf_06136_02029610559.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|6
+clf_08421_01188567929.wav|la mˌeɾmelˈaða ðe mˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|9
+clf_07049_00294646703.wav|sjˈempɾe me ˈa ɣustˈaðo mˈutʃo el kolˈoɾ ɣɾˈis klˈaɾo|7
+clf_09697_01572936662.wav|kˈe tˈan lˈexos estˈa ustˈed ðe su ˈaʊto|12
+clf_07049_00131852423.wav|de kˌaswaliðˈad poɾ aˈi tendɾˈas alɣˈuna ˌimfoɾmasjˈon sˌoβɾe tˌeknoloxˈia|7
+clf_03397_01221231229.wav|me pwˈeðes mandˈaɾ ˈunas imˈaxenes ðe tu pˈeɾɾo|3
+clf_01523_02124200981.wav|estˈoɪ βjˈen ˌemosjonˈaða me βˈoɪ a tjˈeɾɾa ðel fwˈeɣo|1
+clf_08784_01757600833.wav|bolˈaɾ en aβjˈon en ˈaɲos ɾɾesjˈɛntes ˈes mˈujj inkˈomoðo en klˈase tuɾˈista sˌoβɾe tˈoðo si ˈeɾes ɣɾˈande|10
+clf_04310_01857466171.wav|si βˈuska βaxˈaɾ ðe pˈeso las aɾˈinas βlˈankas nˈo sˈon ˈuna βwˈena opsjˈon|4
+clf_00610_00567603520.wav|seɣˈun mis ðˈatos ˈeste ðomˈiŋɡo βˌeɪntisˈinko ðe ðisjˈembɾe nˈo ˈaɪ paɾtˈiðos ðe fˈutβol|0
+clf_08421_01722745972.wav|ˈoɪ ðˌesiðˈi ðexˈaɾ ðe sˈer kˌontaðˈoɾa|9
+clf_02484_00854402846.wav|mˈoðo ðe ðˌespeðˈiɾse ðe manˈeɾa foɾmˈal koŋ xˈɛnte ˌexekutˈiβa o ðel mˈeðjo ðel neɣˈosjo|2
+clf_05223_02006723902.wav|en kwˈantos xwˈeɣos mˌeðiteɾɾˈaneos ˈa pˌaɾtisipˈaðo|5
+clf_09334_00487551242.wav|estˈoɪ kansˈaðo ðe komˈeɾ insˈektos|11
+clf_09334_01328034084.wav|estˈoɪ kansˈaðo ðe komˈeɾ komˈiða tʃatˈaɾɾa|11
+clf_02484_01598059918.wav|ustˈed sˈaβe kwˈal ˈes el tɾanspˈoɾte mˈas komfjˈaβle pˌaɾa ʝeɣˈaɾ lo mˈas ɾɾˈapiðo posˈiβle|2
+clf_03397_01896382123.wav|me ʝeɣˈo ˈuna ˌimbitasjˈom pˌaɾa ˈun kˈastiŋ pˌeɾo nˈo konˈosko βjˈen al ðˌiɾektˈoɾ|3
+clf_02484_00248883410.wav|tˈɛŋɡo ke ˌapɾoβetʃˈaɾ ˈesta semˈana pˌaɾa ˈiɾme ðe βˌakasjˈones aˈoɾa ke nˈo βˈa a βˈeɾ nˈaða ke asˈeɾ en la ˌofisˈina|2
+clf_05223_01998835550.wav|ˈesos ðˌepaɾtamˈɛntos nˈo asˈepːtan maskˈotas|5
+clf_07049_01313924328.wav|ˈas la kˈompɾa poɾ faβˈoɾ i me la mˈandas a mi kˈasa|7
+clf_01523_01263608167.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|1
+clf_07049_02077359334.wav|te ɣˈusta eskjˈaɾ|7
+clf_02484_00325812086.wav|te ɾɾˌekomjˈɛndo ke te ʝˈeβes ˈum bwˈen lˈiβɾo o ðeskˈaɾɣes ˈuna βwˈena pelˈikula o ðe plˈano ˈuna βwˈena ˌalmoˈaða pˌaɾa ðˌisfɾutˈaɾ ðel βjˈaxe|2
+clf_02484_00049675275.wav|kˈe kˌontenˈiðos me ɾɾˌekomjˈɛndas pˌaɾa tʃˈikos ðe ðˈose ˈaɲos|2
+clf_08421_01664540160.wav|te ɣˈustan los tʃˌokolˈates|9
+clf_06136_00249762308.wav|estˈoɪ tenjˈɛndo pɾoβlˈemas kon mi ˈaʊto i ˈun amˈiɣo me ɾɾˌekomendˈo ˈun tojjˈota|6
+clf_05223_01306330742.wav|tˈu sˈaβes si ˈesta peɾsˈona ˈa pɾˌesentˈaðo ˈeste tˈipo ðe ˈoβɾas aɾtˈistikas en ˈotɾos paˈises|5
+clf_00610_01194622067.wav|a kwˈanto tjˈempo estˈa el ˌuɾakˈan de ˌimpaktˈaɾ en tjˈeɾɾa fˈiɾme|0
+clf_08421_00449920617.wav|desˈeas embjˈaɾ ðˈatos a tus amˈiɣos ðe ke ˈestas βjˈen|9
+clf_06136_01963409888.wav|seɣˈun mis ðˈatos ˈeste βjˈeɾnes nwˈeβe ðe sepːtjˈembɾe ˈaɪ ʝˈuβja ðe mˌeteoɾˈitos|6
+clf_08421_01643898550.wav|me poðɾˈias ðesˈiɾ ke ˈotɾos luɣˈaɾes pwˈeðo βˌisitˈaɾ en kˌanaðˈa|9
+clf_07508_00341653141.wav|me enkˈanta la mˈusika klˈasika ðe βiβˈalði|8
+clf_07049_01093381560.wav|kjˈeɾo tenˈeɾ ˈuna maskˈota a kjen le pwˈeða ðesˈiɾ mis sˌentimjˈɛntos|7
+clf_08784_00851068701.wav|kˈe ˈes la ɾɾˌealiðˈad βiɾtwˈal|10
+clf_04310_01899606539.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|4
+clf_07508_00729874967.wav|ˈando βuskˈando las kansjˈones mˈas famˈosas ðel ðˈos mˈil ðjˌesisˈeis|8
+clf_00610_02052613256.wav|ˈe ðexˈaðo ðe komˈeɾ pˌoɾke tˈɛŋɡo mjˈeðo ðe ˌeŋɡoɾðˈaɾ mˈas|0
+clf_04310_02021646552.wav|en el ɾɾˌestaʊɾˈante tambjˈen se kˈome peskˈaðo|4
+clf_09334_00476148177.wav|lo ˌinteɾesˈante ðe su ˌeðukasjˈon ˈes ke ˈejja nˈo keɾˈia sˈer ˌistoɾjaðˈoɾa keɾˈia sˈer kˌosinˈeɾa|11
+clf_02484_00803210156.wav|pwˈeðes ɾɾˌekomendˈaɾme mˈusika ke sˈea ðe los noβˈɛntas|2
+clf_08784_00932066332.wav|te ˌinteɾˈesa el teˈatɾo kˌaβaɾˈet|10
+clf_06136_01119221232.wav|estˈoɪ tenjˈɛndo pɾoβlˈemas kon mi ˈaʊto i ˈun amˈiɣo me ɾɾˌekomendˈo ˈun seˈat iβˈisa|6
+clf_07049_00297198726.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|7
+clf_04310_01629235094.wav|mˈas o mˈenos se tˈaɾða ðˈos ˈoɾas en asˈeɾ ˈese pˈostɾe|4
+clf_09697_01491423676.wav|te ˌakonsˈexo ke ʝˈeβes ˈun aβɾˈiɣo ðe lˈana|12
+clf_09334_01828801699.wav|ˈoɪ ðˌesiðˈi ðexˈaɾ ðe sˈer sˈastɾe|11
+clf_03397_00864436870.wav|estˈoɪ akˈi kon ˈuna amˈiɣa kˌosinˈando aɾɾˈos|3
+clf_09334_00117131637.wav|estˈamos βuskˈando ˈuŋ ximnˈasjo βaɾˈato i ke tˈɛŋɡa klˈase ðe pilˈates|11
+clf_05223_00642172090.wav|akˈi nˈo pwˈeðo ðexˈaɾ el ˈaʊto sˈolo ˌasta ke ʝˈeɣe la ɣɾˈua|5
+clf_09697_02053559891.wav|nˈo te entjˈɛndo nˈaða|12
+clf_09334_01880005131.wav|kˈe tˈipo ðe tˈemas le ɣˌustaɾˈia ˌeskutʃˈaɾ|11
+clf_04310_01096601609.wav|el ˈotɾo ðˈia me komˈi ˈun aɾɾˈos kon kˌalamˈaɾes|4
+clf_07049_00497671376.wav|maɲˈana xwˈeɣan los kwˈatɾo ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa ˌestatˈal|7
+clf_05223_01425497003.wav|me ˈan dˈitʃo ke el ðˌiɾektˈoɾ ˈes mˈeðjo intˈɛnso kon los aktˈoɾes ke los pɾosˈesos sˈom bastˈante lˈaɾɣos|5
+clf_04310_01441341277.wav|kˈe tˈan dˌestɾuˈiða keðˈo la sˈona ðel ɣˈolfo ðe mˈɛxiko ðespwˈes ðel ˌuɾakˈam beɾnˈaɾðo|4
+clf_06136_01570946499.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|6
+clf_04310_00528473547.wav|xˈose luˈis kisjˈeɾa kompɾˈaɾ ðˈolaɾes|4
+clf_09697_00609662114.wav|kwˈal ˈes el kˈeso ke mˈas te ɣˈusta|12
+clf_06136_01778437034.wav|ˈaɪ fˈutβol fˌemenˈino en mˈɛxiko|6
+clf_03397_02044829132.wav|me pwˈeðes kˌonseɣˈiɾ ˈun ˌanalxˈesiko|3
+clf_06136_00575281256.wav|tjˈenes ke asˈeɾ ˈun eksˈamen ke ðˈuɾa kˈinse minˈutos a tɾaβˈes ðe la pˈaxina ðe ˌinteɾnˈet|6
+clf_05223_00400927376.wav|en kˈe kˈajje estˈa la kˈasa|5
+clf_08421_00951422616.wav|ajjˈuðenme a ˌenkontɾˈaɾ ˈum bwˈeŋ ximnˈasjo pˌeɾo ke ˈeste sˈeɾka ðe mi kˈasa|9
+clf_03397_01555803676.wav|en kwˈantos xwˈeɣos mˌeðiteɾɾˈaneos ˈa pˌaɾtisipˈaðo|3
+clf_03397_01705564881.wav|te ɣˈustan los tʃˌokolˈates|3
+clf_03397_00647919358.wav|kˈe pɾoɣɾˈamas ðe tˌeleβisjˈom bˈen los ˌaβitˈantes ðe mˌonteɾɾˈeɪ|3
+clf_01523_01763328592.wav|ˈes mˈujj ˌimpoɾtˈante la pˈaɾte ɣˌutuɾˈal kon la ˈeɾɾe|1
+clf_07508_00876795776.wav|tambjˈen nˌesesitˈamos ˈun stikˈeɾ ðe ˈun dˌinosˈaʊɾjo pˌaɾa el kˌomputaðˈoɾ|8
+clf_06136_01609717869.wav|me estˈoɪ muɾjˈɛndo ðe fɾˈio nˈo se ke asˈeɾ estˈoɪ elˈaða|6
+clf_07508_01426842540.wav|el ˈuniko tˈipo ðe musˈika ke me ɣˈusta ˈes el pˈop|8
+clf_09697_01045249108.wav|ajjˈeɾ ʝoβjˈo mˈutʃo i ʝˈeɣe tˈaɾðe a mi ɾɾeʊnjˈon|12
+clf_02484_02128891688.wav|aβɾˈa alɣˈuna pelˈikula ke sˈea ˈuna istˈoɾja ɾɾomˈantika kon aksjˈon|2
+clf_07508_01427048181.wav|me pwˈeðes ðesˈiɾ ke tˌelefˈono ðˈeβo kompɾˈaɾ|8
+clf_07049_00079541323.wav|kwˈanto tjˈempo ðemˈoɾo ðe akˈi a ɾɾankˈaɣwa en mˈoto|7
+clf_07508_00252697525.wav|kwˈal ˈes la ðˌifeɾˈɛnsja ˌentɾe los tˈeɾminos ˈoβɾa i pjˈesa en el teˈatɾo|8
+clf_08421_01358892870.wav|desˈeas embjˈaɾ ðˈatos a tu famˈilja ðe ke ˈestas βjˈen|9
+clf_02484_01920349106.wav|de ˈetʃo te pwˈeðo mandˈaɾ ˈun lˈiŋk ðiɾˈektamˈente a tu ˈi pˈad|2
+clf_09334_01307170567.wav|kˈomo se ˌalimˈɛnta a ˈun sˈeɾðo mˌinjatˈuɾa|11
+clf_04310_01637897409.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe matˈias sˌoβɾe nwˈeβas tˌeknoloxˈias|4
+clf_08421_01647223915.wav|kɾˈeo ke se ˈa ɾɾˈoto el ðˈeðo ˈindise|9
+clf_01523_00773203008.wav|la βixˈɛnsja ðe tu taɾxˈeta ˈes ðe ˈotʃo mˈeses|1
+clf_08421_01942027502.wav|nˈo se aβlˈaɾ tamˈil|9
+clf_06136_00569251220.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|6
+clf_09697_01350887357.wav|a la ˈoɾa ðe la komˈiða sˈolo kˈoma pˈojjo i βeɾðˈuɾas eɾβˈiðas|12
+clf_01523_01949785531.wav|ɾɾemˈeðjos βˈaɾo fˌinalisˈo el muɾˈal en lˈondɾes en mˈil nˌoβesjˈɛntos sinkwˈɛnta i ˈotʃo|1
+clf_03397_00217864151.wav|ˈaɪ alɣˈun eksˈamen de ˌadmisjˈon|3
+clf_08784_00245952202.wav|kˈomo βˈa el paɾtˈiðo ðe ɾɾˈuɡβi|10
+clf_01523_01862446792.wav|poɾ kˈaða paˈis asˈisten ˌalreðeðˈoɾ ðe ðˈose kˌompetiðˈoɾes|1
+clf_09334_01492070232.wav|ˈoɪ ðˌesiðˈi ðexˈaɾ ðe sˈer ˌemfeɾmˈeɾa|11
+clf_07508_00479800440.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|8
+clf_08784_00217848783.wav|mi famˈilja βjˈene ðe βisˈita i kjˈeɾen ˈiɾ a los musˈeos mˈas ˌimpoɾtˈantes|10
+clf_04310_00065528685.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|4
+clf_07049_00845648360.wav|los tʃoɾˈisos ke ˈasen en ˈesa sˈona sˈon dˌelisjˈosos|7
+clf_04310_00147277066.wav|kˈe tˈan dˌestɾuˈiða keðˈo la floɾˈiða ðespwˈes ðel ˌuɾakˈan ˈiɾma|4
+clf_03397_00577340469.wav|estˈoɪ akˈi kon ˈuna amˈiɣa ðˌiskutjˈɛndo sˌoβɾe ˌemfeɾmeðˈaðes mentˈales|3
+clf_09334_01926160070.wav|el eβˈɛnto ˈes en kwˈatɾo ðˈias|11
+clf_08784_01457642040.wav|nˈo me ɣˈusta komˈeɾ en ˈun luɣˈaɾ kon mˈutʃa xˈɛnte|10
+clf_07049_00059780449.wav|se ɾɾompjˈo el lˌaβatˈoɾjo i nˈo se kˌomo ˌaɾɾeɣlˈaɾlo|7
+clf_08421_00224159475.wav|el ˈaxo nˈo me ɣˈusta|9
+clf_03397_01822546748.wav|nˈo tˈɛŋɡo nˈi iðˈea ðe kˌomo kambjˈaɾ ˈuna ɾɾuˈeða nˈo se si pwˈeða peðˈiɾ ˌasistˈɛnsja o me pwˈeðas ˌajjuðˈaɾ tˈu|3
+clf_00610_01061302200.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas tɾˈes tomˈates i kˈalðo ðe pˈojjo fɾˈio|0
+clf_00610_00965671306.wav|kˈe tˈan dˌestɾuˈiða keðˈo la sˈona ðel ɣˈolfo ðe mˈɛxiko ðespwˈes ðel ˌuɾakˈam beɾnˈaɾðo|0
+clf_09697_01713996234.wav|bwˈenas tˈaɾðes kon kjen tˈɛŋɡo el ɣˈusto|12
+clf_04310_01303009114.wav|la pelˈikula ˈes en iŋɡlˈes pˌeɾo estˈa ðoβlˈaða al ˌespaɲˈol ðe espˈaɲa|4
+clf_06136_00918095371.wav|kwˈantos alβˈeɾɣes se ˌaβɾiˈeɾon despwˈes ðel tˌeɾɾemˈoto ðel ðjˌesinwˈeβe ðe sepːtjˈembɾe|6
+clf_09334_00811571306.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|11
+clf_07049_00611805881.wav|en kˈe kˈajje estˈa la kˈasa|7
+clf_07049_02005941886.wav|apˈaɣe el motˈoɾ ðel ˈaʊto i pˈoŋɡa el fɾˈeno ðe mˈano|7
+clf_07508_00901395446.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|8
+clf_04310_00023628824.wav|si βˈuska βaxˈaɾ ðe pˈeso los kˌaɾβoiðɾˈatos nˈo sˈon ˈuna βwˈena opsjˈon|4
+clf_08784_00894403586.wav|ajjˈeɾ βˈi a ˈuna amˈiɣa ke nˈo βeˈia ðˌesðe la pɾimˈaɾja|10
+clf_08421_01897083377.wav|poɾkˈe ˌempesˈo la ɣˈeɾɾa|9
+clf_09697_01141181068.wav|nos βˈemos al ɾɾˈato ɣˌaβɾiˈela|12
+clf_08784_02050528652.wav|estˈaβa pensˈando en ˈiɾ a ˌakampˈaɾ|10
+clf_07508_01157839760.wav|nˌesesˈito tu ajjˈuða pˌaɾa ˈuna taɾˈea ðe la eskwˈela|8
+clf_03397_00363642531.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|3
+clf_04310_00210531455.wav|tɾˌaðisjonˈalmˈente la komˈiða xˌaponˈesa se ˌakompˈaɲa kon seɾβˈesa|4
+clf_05223_01192556730.wav|el ʝˈano en dʒˈamas ˈes ˈun klˈasiko ðe xwˈan ɾɾˈulfo|5
+clf_04310_02007057004.wav|en el ɾɾˌestaʊɾˈante tambjˈen se kˈome kˈaɾne|4
+clf_08784_00570558177.wav|te ɣˈustan los tʃˌokolˈates|10
+clf_04310_01995544115.wav|le ɾɾˌekomjˈɛndo mˈutʃo el xˈuɣo ðe pˈiɲa kon mansˈana poɾ las maɲˈanas ˈes ˈuŋ ɡɾˈan ˌeneɾxˈetiko|4
+clf_08784_02050876116.wav|konˈoses alɣˈum pɾoɣɾˈama ðe ˌintelixˈɛnsja ˌaɾtifisjˈal ke ˈajja fɾˌakasˈaðo|10
+clf_08784_01976865261.wav|la mexˈoɾ kˌoleksjˈon de aʊtˈomatas ɾɾˈusos estˈa en maðɾˈid|10
+clf_03397_01585189030.wav|ɾɾesˈeɾβame nwˈeβe entɾˈaðas poɾ faβˈoɾ pˌaɾa la sesjˈon de las ˈonse i βˈeɪnte ðe la maɲˈana|3
+clf_02484_01250534346.wav|ˈes posˈiβle ke ʝˈo ɣɾˈaβe mis pɾˈopjos podkˈasts i ke ʝˈo kˈoβɾe|2
+clf_06136_00549953656.wav|la sjuðˈað ˈes βejjˈisima i tˈan alˈeɣɾe|6
+clf_07049_00127654579.wav|ˈaɪ alɣˈum bwˈelo mˈas βaɾˈato pasˈando poɾ las ˈislas kanˈaɾjas|7
+clf_08784_01749241574.wav|kˈasi tˈoðos los musˈeos ðe mˈɛxiko sjˈeɾɾan los lˈunes|10
+clf_09334_00179064735.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|11
+clf_09334_00580573515.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|11
+clf_07508_01171654573.wav|el ˈuniko tˈipo ðe musˈika ke me ɣˈusta ˈes el dʒˈas|8
+clf_08421_01508798190.wav|el mˈaŋɡo me enkˈanta|9
+clf_09697_01237803802.wav|ˈambos ɾɾˌestaʊɾˈantes tjˈenen sˈinko estɾˈejjas en la ɣˈia ðe mexˈoɾes ɾɾˌestaʊɾˈantes ðe la sjuðˈad|12
+clf_02484_01528293884.wav|me ɣˌustaɾˈia saβˈeɾ ke sistˈema ˌopeɾatˈiβo me ɾɾˌekomjˈɛndas si ˈes ˈapəl o mˌasintˈoʃ|2
+clf_07508_01069303996.wav|estˈa ɾɾˌesekeðˈað okˈuɾɾe komˈunmˈente en ˈepokas ðe fɾˈio|8
+clf_09697_01994241976.wav|te ˌakonsˈexo ke ʝˈeβes ˈum paɾˈaɣwas|12
+clf_00610_01847416048.wav|el ˈotɾo ðˈia komˈi ˈun elˈaðo xiɣˈante mjˌentɾas βeˈia ˈuna pelˈikula|0
+clf_01523_00130783554.wav|le ɾɾˌekomjˈɛndo los ˈalpes swˈisos|1
+clf_02484_00685444498.wav|el ˈotɾo ðˈia βˈi ˈum biðˈeo em fˈeɪsβuk sˌoβɾe ˈun ˌapaɾatˈito ke te ponˈias en la oɾˈexa i ðiɾˈektamˈente te tɾˌaðusˈia ˈeso eksˈiste|2
+clf_09697_02130564644.wav|ˌasja mˈeðja tˈaɾðe kˈoma ˈuna pˈeɾa i ˈun duɾˈasno i ʝˈa pˌaɾa la nˈotʃe kˈoma sˈolamˈente ˈun dʒoɣˈuɾt|12
+clf_07049_02027656141.wav|los pasˈaxes kwˈestan ˌalreðeðˈoɾ ðe tɾˈes mˈil pˈesos mˌexikˈanos|7
+clf_09697_00481239253.wav|kjˈeɾo ðˌiβeɾtˈiɾme ˈesta nˈotʃe a ðˈonde me ɾɾˌekomjˈɛndas ˈiɾ|12
+clf_01523_01309613077.wav|maɲˈana xwˈeɣan los kwˈatɾo ekˈipos mˈas ˌimpoɾtˈantes ðe la lˈiɣa ˌestatˈal|1
+clf_07049_00186163645.wav|lo pwˈeðes kaɾɣˈaɾ en la taɾxˈeta ɣˈold ðe mastˈeɾ kˈaɾd|7
+clf_01523_00842000049.wav|le ɾɾˌekomjˈɛndo la kˌoɾðijjˈeɾa ðe los ˈandes|1
+clf_06136_01684847616.wav|el fˈutβol ˌiɾanˈi ˈa ˌeβolˌusjonˈaðo a niβˈeles nˈunka ˈantes βˈistos|6
+clf_01523_00645464794.wav|ustˈed se kˌonsiðˈeɾa ˈuna peɾsˈona fɾiˈa o kˈaliða|1
+clf_09697_00447865566.wav|te ˌakonsˈexo ke ʝˈeβes ˈun ˌimpeɾmeˈaβle|12
+clf_07508_01575979859.wav|me pwˈeðes βuskˈaɾ tɾˈes kˌomputaðˈoɾas ðˌifeɾˈɛntes|8
+clf_02484_01753458635.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|2
+clf_01523_01695035956.wav|nˈo te entjˈɛndo nˈaða|1
+clf_09697_00566792781.wav|kisjˈeɾa saβˈeɾ si ustˈeð ˈes ðe los ke estˈando a ðjˈeta se pˈone ðe mˈalas|12
+clf_07508_01121333498.wav|la tjˈɛnda ðe xaβˈones i peɾfˈumes fˈinos tjˈene ɾɾeɣˈalos pˌaɾa el ðˈia ðe las mamˈa|8
+clf_01523_00739065801.wav|kˈe opsjˈones ðe oɾˈaɾjo ðe salˈiða me ofɾˈeses|1
+clf_01523_00660985684.wav|nˈo tjˈenen niŋɡˈun oɾˈaɾjo saljˈɛndo kˌomo al mˈeðjo ðˈia|1
+clf_01523_01846158101.wav|bˈa a nˌesesitˈaɾ pˈam blˈanko ðe tɾˈiɣo xamˈon seɾɾˈano pˌimentˈom bˈeɾðe i antʃˈoas sin sˈal|1
+clf_00610_01883369396.wav|si βˈuska βaxˈaɾ ðe pˈeso las aɾˈinas βlˈankas nˈo sˈon ˈuna βwˈena opsjˈon|0
+clf_07508_00456862542.wav|ˈaɪ klˈases pˌaɾa ˌapɾendˈeɾ a andˈaɾ em bˌisiklˈeta|8
+clf_07508_00537503554.wav|nˈo se si te βˈajja a βˈeɾ maɲˈana|8
+clf_09697_01945372333.wav|kˌomo βjˈen dˈises sˈon xˈustamˈente tɾˈeɪnta peɾsˈonas|12
+clf_09697_00922519553.wav|en twˈiteɾ se ˈan ɾɾˌexistɾˈaðo kwˌatɾosjˈɛntos mijjˈones ðe tˈeweˈets|12
+clf_03397_00375906993.wav|me ɣˌustaɾˈia saβˈeɾ kwˈales sˈon los ɾɾˌekisˈitos pˌaɾa foɾmˈaɾ pˈaɾte ðe ˈeste klˈub|3
+clf_08784_00539160787.wav|kwˈando sˌuseðjˈo la pɾimˈeɾa ɣˈeɾɾa mundjˈal|10
+clf_05223_00199920660.wav|kjˈeɾe ke kˈompɾe alɣˈun tˈipo ðe entɾˈaða o ɾɾesˈeɾβa|5
+clf_09334_01294164957.wav|del mˈetɾo al musˈeo sˈon kˈinse minˈutos|11
+clf_09334_01023598975.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|11
+clf_00610_02067016031.wav|seɣˈun mis ðˈatos ˈeste mˈaɾtes ðjesjˈotʃo ðe feβɾˈeɾo nˈo se tɾaβˈaxa|0
+clf_07508_02085490639.wav|me ajjˈuðas a βuskˈaɾ ˈuna tjˈɛnda ðˌonde pwˈeða kompɾˈaɾle ˈun ɾɾeɣˈalo a mi mamˈa|8
+clf_09334_00290524364.wav|la βixˈɛnsja ðe tu taɾxˈeta ˈes ðe tɾˈes ˈaɲos|11
+clf_07049_01008979069.wav|tˈu te kˌonsiðeɾˈais mˈas ˈuna peɾsˈona ðe plˈajja o ðe montˈaɲa|7
+clf_01523_01971359555.wav|te ɣˈusta eskjˈaɾ|1
+clf_09334_01444044651.wav|lo ˌinteɾesˈante ðe su ˌeðukasjˈon ˈes ke ˈejja nˈo keɾˈia sˈer pɾˌofesˈoɾa keɾˈia sˈer sˌineˈasta|11
+clf_09697_00561915189.wav|ʝˈa βˈi las fˈotos ke suβˈiste ajjˈeɾ a la ɾɾˈed te βˈes mˈujj βjˈen te kˈeða mˈujj βjˈen el kolˈoɾ ɾɾˈoxo|12
+clf_03397_01418331488.wav|ˈeste mˈismo aɾtˈista ðe pˌeɾfoɾmˈanse se ðexˈo ɣˌolpeˈaɾ poɾ tɾˈeɪnta peɾsˈonas en ˌalemˈanja pˌaɾa kˌompɾoβˈaɾ su niβˈel ðe ðolˈoɾ|3
+clf_00610_01162239069.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas insˈektos sˈekos i kˈeso fɾansˈes|0
+clf_09334_00606961220.wav|kˈe opsjˈones ðe βwˈelo me pwˈeðes ˌofɾesˈeɾ|11
+clf_08421_01423585653.wav|estˈamos βuskˈando ðˌifeɾˈɛntes opsjˈones ðe ðˌepaɾtamˈɛntos|9
+clf_09697_01573668541.wav|ˈaɪ alɣˈun ˌestaβlˌesimjˈɛnto ke me pwˈeða ðˈaɾ kˌomo ɾɾˌefeɾˈɛnsja nˈo sˈe ˈuna pˌanaðeɾˈia o ˈalɣo|12
+clf_04310_01136033026.wav|te kjˈeɾo peðˈiɾ ˈunas sˈeɪs kˈaxas ðe atˈun i tɾˈeɪnta pakˈetes kom botˈejjas ðe ˈaɣwa|4
+clf_02484_00369414976.wav|kjˈeɾes ˌapɾendˈeɾ el iðjˈoma a niβˈel ðe neɣˈosjos o lo kjˈeɾes pˌaɾa ˈuna kwestjˈon mˈas kˌotiðjˈana|2
+clf_05223_01933974922.wav|kwˈantos ˈaɲos tjˈene el ˈultimo kˌampeˈon de fˈoɾmula ˈuno|5
+clf_07508_00837321618.wav|tjˈenes ɾɾasˈon ˈes mˈutʃo mexˈoɾ andˈaɾ em bˈisi|8
+clf_09334_00086973577.wav|el sˈeɾðo mˌinjatˈuɾa ˈes ðjˈuɾno sosjˈaβle ˌamiɣˈaβle i xˌuɣetˈon|11
+clf_08421_01403315599.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|9
+clf_01523_00237106620.wav|ˈas ˈeste ˌexeɾsˈisjo kˌomo si ˌestuβjˈeɾas asjˈɛndo ɣˈaɾɣaɾas ðe βˌikaɾβonˈato|1
+clf_00610_00310194115.wav|kˈe tˈan dˌestɾuˈiðas keðˈaɾon las ˈislas ðel kaɾˈiβe ˌoksiðentˈal ðespwˈes ðel ˌuɾakˈan ˈuɣo|0
+clf_09697_00481205161.wav|nˌesesˈito ke me ðes imfˈoɾmes sˌoβɾe el muɾˈal ke isjˈeɾom fɾˈiða kˈaˈalo i ðjˈeɣo ɾɾiβˈeɾa ˈantes ðe moɾˈiɾ|12
+clf_06136_01729306494.wav|el pˈaso nˈumeɾo kwˈatɾo pˌaɾa ˌeliminˈaɾ el kalˈoɾ ˈes keðˈaɾse en kˈasa kon el βˌentilaðˈoɾ pɾendˈiðo|6
+clf_02484_00922677584.wav|ˈes βeɾðˈad ke usˈaɾom pˈeɾɾos ðe βeɾðˈað en la pelˈikula nˈo tˈoðos ˈestos pˈeɾɾos sˈon ˌentɾenˈaðos seɣˈun la ɾɾeβˈista sinˈema|2
+clf_07508_00843134013.wav|ajjˈeɾ estˈuβe en en musˈeo ðe ˈaɾte moðˈeɾno i βˈi ˈuna ˌeksposisjˈom bwenˈisima|8
+clf_09334_01118073297.wav|ˌasistˈɛnte tɾˌaðuktˈoɾ en lˈinea|11
+clf_04310_00739009577.wav|akˈaβo ðe kompɾˈaɾ ˈeste kontɾˈol ɾɾemˈoto ˌuniβeɾsˈal te ðˈoɪ el numˈeɾo ðe sˈeɾje i me ajjˈuðas a kˌomfiɣuɾˈaɾlo|4
+clf_08421_02144070512.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|9
+clf_07049_00228643901.wav|te ɾɾˌekomjˈɛndo los pˌiɾinˈeos|7
+clf_06136_00636786786.wav|te ɣˈustan los tʃˌokolˈates|6
+clf_08421_02059973557.wav|el kˌaβajjˈeɾo estˈa aɾmˈaðo|9
+clf_07049_00359734840.wav|sjˈempɾe me ˈa ɣustˈaðo mˈutʃo el kolˈoɾ asˈul maɾˈino|7
+clf_00610_01623587873.wav|maɲˈana βˈa a neβˈaɾ al ˌamanesˈeɾ i en la tˈaɾðe kˌaeɾˈa ɣɾanˈiso|0
+clf_06136_00188819244.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|6
+clf_05223_01981323845.wav|ˈesta atlˈeta ˌespaɲˈola ˈes ˈun kˈaso ˈuniko ˈase ˌatletˈismo i lˌeβantamjˈɛnto ðe pˈesas i pˌaɾtisˈipa en ˈambas kˌateɣoɾˈias|5
+clf_02484_00766788661.wav|kwˈales sˈon las pɾˌinsipˈales ðˌifeɾˈɛnsjas|2
+clf_05223_01845684261.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|5
+clf_07049_00068720442.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|7
+clf_08421_01268699103.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|9
+clf_06136_01786902423.wav|kjˈeɾo ˌaβeɾiɣwˈaɾ kˈomo se ʝˈama ˈun dˌiɾektˈoɾ ðe teˈatɾo|6
+clf_07049_01393729722.wav|mantˈɛnme ˌimfoɾmˈaða poɾ faβˈoɾ|7
+clf_07508_01135324676.wav|seɣˈun la ɾɾeβˈista pɾosˈeso el mexˈoɾ ˈalβum del ˈaɲo ˈes el ðe malˈuma|8
+clf_08421_00736512094.wav|me ðˈaŋ ɡˈanas ðe poðˈeɾ kˌonosˈeɾ ˈum pˈoko mˈas ðe los pintˈoɾes ˌimpɾesjonˈistas|9
+clf_01523_00444003706.wav|del mˈetɾo al kolˈexjo sˈon ˈonse minˈutos|1
+clf_04310_00492421773.wav|estˈeɾ ˌestɾenˈaɾon ˈuna ˈoβɾa ðe teˈatɾo akˈi en kaɾˈakas pˌeɾo nˈo me akwˈeɾðo si ˈes ˈun dɾˈama istˈoɾiko o ˈun dɾˈama kˌontempoɾˈaneo|4
+clf_04310_01466577523.wav|pˌaɾa asˈeɾ ˈesta ɾɾesˈeta nˌesesˈitas tɾˈes tomˈates i kˈalðo ðe pˈojjo fɾˈio|4
+clf_09697_01992832563.wav|kjˈeɾo ðˌesasˈeɾme ðe alɣˈunas kˈosas akˈi en la kˈasa pˌeɾo nˈo las kjˈeɾo tiɾˈaɾ kjˈeɾo ɾɾˌesiklˈaɾlas|12
+clf_04310_00110266095.wav|akˈi xiɾˈamos a la ðeɾˈetʃa|4
+clf_07049_00574766189.wav|nˌesesˈito ˈun tɾˈaxe ðe βˈuso|7
+clf_08784_01083245187.wav|nˈo te entjˈɛndo nˈaða|10
+clf_03397_01958604600.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe kˈaɾlos sˌoβɾe la nˌatuɾalˈesa ðel kolˈoɾ|3
+clf_03397_00890001417.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|3
+clf_09697_00954477018.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|12
+clf_03397_01960992716.wav|bˈamos a mˌantenˈeɾnos tɾankˈilos i ɾɾˌelaxˈaðos|3
+clf_08421_01763212951.wav|en ˈeste momˈɛnto estˈan a pˈunto ðe ˌestɾenˈaɾse βˈaɾjas pelˈikulas ðe teɾɾˈoɾ|9
+clf_04310_00473147716.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|4
+clf_08421_00899967188.wav|estˈa mˈujj kansˈaðo|9
+clf_06136_01118536909.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|6
+clf_07508_01629354221.wav|bˈuskame klˈases pˌaɾa andˈaɾ em bˈisi|8
+clf_07049_01604698395.wav|los pasˈaxes kwˈestan ˌalreðeðˈoɾ ðe sjˈɛnto sinkwˈɛnta ðˈolaɾes kˌanaðjˈɛnses|7
+clf_00610_00602142489.wav|kˈe tˈan dˌestɾuˈiða keðˈo la sjuðˈad ðe nwˈeβa oɾlˈeans ðespwˈes ðel ˌuɾakˈaŋ katɾˈina|0
+clf_07049_00961304924.wav|a los kaɾnˈiβoɾos les enkˈanta el pˈisko|7
+clf_08421_01998880855.wav|ʝˈo me ðeðˈiko al teˈatɾo nˈunka ˈe ˌestuðjˈaðo sˈine|9
+clf_02484_01630373028.wav|kwˈales sˈon los ekˈipos ke pˌaɾtisˈipan del mundjˈal ðe fˈutβol|2
+clf_00610_01422471184.wav|me estˈoɪ muɾjˈɛndo ðe fɾˈio nˈo se ke asˈeɾ estˈoɪ elˈaða|0
+clf_05223_00998205867.wav|bwˈenos ðˈias maɾjˈana nˌesesˈito ˌimfoɾmasjˈon de mis tɾˈes kwˈɛntas βankˈaɾjas|5
+clf_07049_01583863946.wav|tˈu tjˈenes ke ˌenkaɾɣˈaɾte ðe tˈoðo ˈeso|7
+clf_08784_00707301905.wav|las tˈexas ɾɾˈoxas ðel texˈaðo nˈo sˈon de mˈɛxiko sˈon de tˈeksas|10
+clf_07049_01735130473.wav|tjˈene ˈuna pelˈikula mˈujj famˈosa ke se ʝˈama ˈuɣo|7
+clf_04310_00144516673.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈuna fˈaβɾika ðe tˌeleβisˈoɾes sˈeɾka|4
+clf_09697_00015596584.wav|tɾankˈilo βˈa a estˈaɾ tˈoðo βjˈen|12
+clf_08784_01295319133.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|10
+clf_09697_00681815306.wav|kjˈeɾes ke pˈoŋɡa el mˈapa ðe la sjuðˈað en tus lˈiŋks ðe fˌaβoɾˈitos|12
+clf_07049_01898833320.wav|te ɣˈusta el βˈino|7
+clf_07049_00839656137.wav|tˈɛŋɡo ke asˈeɾ ˈuna pɾˌesentasjˈom pˌaɾa la ˌofisˈina i keɾˈemos ˌasosjˈaɾlo a ˈun eβˈɛnto kˌultuɾˈal|7
+clf_03397_01232759635.wav|les embˈio las ɾɾˌeseɾβasjˈones a sus koɾɾˈeos|3
+clf_09697_01548079719.wav|sˈaβes kˈomo me poðɾˈia kˌontaktˈaɾ kon ˈejjos|12
+clf_00610_01091232086.wav|mˈaɾja elˈena me pwˈeðes ˌimfoɾmˈaɾ ðe la kˌotisasjˈon del ˈeʊɾo ðel ðˈia ðe ˈoɪ|0
+clf_03397_00209545426.wav|kjˈeɾe ke adkjˈeɾa alɣˈun tˈipo ðe entɾˈaða o ɾɾˌeseɾβasjˈon|3
+clf_09334_01418653210.wav|estˈoɪ kansˈaðo ðe komˈeɾ ðˈulses|11
+clf_07508_00868354351.wav|tjˈenes alɣˈunos ˈotɾos ɾɾˌekisˈitos|8
+clf_06136_00717259984.wav|estˈoɪ βuskˈando ˈun ɾɾˌestaʊɾˈante xˌaponˈes|6
+clf_09334_00318721904.wav|tˈɛŋɡo ˈum bjˈaxe ðe tɾaβˈaxo i ˈando pɾˌeokupˈaðo pˌoɾke mi fɾansˈes ˈes mˈujj mˈalo|11
+clf_00610_00103371024.wav|te kjˈeɾo peðˈiɾ ˈunas ˈotʃo kˈaxas ðe papˈel ixjˈeniko i tɾˈeɪnta ðe toˈajjas nˈo ðˌesetʃˈaβles|0
+clf_07508_01058060390.wav|las mˈotos nˈo sˈon mˈujj seɣˈuɾas|8
+clf_09334_00272696407.wav|estˈa mˈujj kansˈaðo|11
+clf_06136_01303561503.wav|los sˈandwitʃes estˈam fɾˈios|6
+clf_06136_01452807415.wav|seɣˈun mis ðˈatos ˈeste mjˈeɾkoles ˈotʃo ðe mˈajjo nˈo ˈaɪ paɾtˈiðos ðe tˈenis|6
+clf_02484_00551342906.wav|el sˈaβe eksˈaktamˈente kˈe kon ˈeso βˈa a pasˈaɾ a la istˈoɾja|2
+clf_04310_01321079295.wav|de pˈostɾe βˈoɪ a seɾβˈiɾ pˈeɾas al βˈino tˈinto|4
+clf_09334_01663975992.wav|nˈo me akwˈeɾðo ðel nˈombɾe ðe la sˈeɾje kˈe ˌempesˈe a βˈeɾ ajjˈeɾ|11
+clf_07508_00516852957.wav|la temˈatika ðe las pelˈikulas ðel ðˌiɾektˈoɾ ˈan dˈaðo ˈuŋ xˈiɾo ðɾˌamatˈiko|8
+clf_09697_00501447114.wav|seɣˈun la tˌeleβisjˈon i los mˈeðjos ˈa aβˈiðo βastˈantes mwˈeɾtos poɾ el tˌeɾɾemˈoto|12
+clf_08421_01325389481.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|9
+clf_08784_01845633544.wav|el ɾɾˌestaʊɾˈante ˌandalˈus tjˈene ˈun lˈindo pˈatjo|10
+clf_01523_01114358572.wav|kwˈanto tjˈempo ðˈuɾan ˈestas taɾxˈetas|1
+clf_08421_00705439012.wav|me pwˈeðes peðˈiɾ ðˈos pˈitsas kwˈatɾo kˈesos i nˈo se lo ðˈises a nˈaðje|9
+clf_08784_01618141430.wav|me ɾɾˌeenkontɾˈe kon ˈun amˈiɣo ke nˈo βeˈia ðˌesðe ˈase ˈaɲos ɣɾˈasjas a fˈeɪsβuk|10
+clf_09334_00967141036.wav|ˈes mamˈa tɾˌaðisjonˈal o ˈes mamˈa moðˈeɾna|11
+clf_07508_00533855789.wav|nˈo te entjˈɛndo nˈaða|8
+clf_01523_01726603148.wav|kˈomo se ˌalimˈɛnta a ˈun ˈamsteɾ|1
+clf_02484_00235064438.wav|kwˈales sˈon las ðjˈes mexˈoɾes pelˈikulas ðe sjˈɛnsja fiksjˈon ke se ˈan ˈetʃo en ˈestos ˈultimos sjˈete ˈaɲos me poðɾˈias ðˈaɾ ˈuna lˈista|2
+clf_01523_01128139853.wav|la ˌoskuɾiðˈad ðel pˈoso ˈeɾa oβsˈena poɾ nˌatuɾalˈesa|1
+clf_07049_00912053167.wav|ˈoɪ en la tˈaɾðe sakˈe mi taɾxˈeta pˌaɾa la βˌisiklˈeta uɾβˈana|7
+clf_08421_00493114206.wav|le βˈoɪ a ðˈaɾ ˈun kˈuɾso ðe kˌomo aβlˈaɾ βjˈen a su ˌasistˈɛnte|9
+clf_08784_01352651917.wav|me ɣˈustan los ɾɾˌestaʊɾˈantes ke tjˈenen mˈesas afwˈeɾa|10
+clf_08421_00003582428.wav|peɾfˈekto espˈeɾo la ˌimfoɾmasjˈon ɡɾˈasjas|9
+clf_01523_00285147659.wav|bˈamos a usˈaɾ la ˈapp ðe la ˌembaxˈaða ðe ˌalemˈanja ke ˈes pˌaɾa xˈɛnte ke nˈo sˈaβe nˈaða ðe alˈeman|1
+clf_06136_02034543705.wav|la mˌeɾmelˈaða ðe sˌaɾsamˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|6
+clf_02484_02054137335.wav|kjˈeɾo kompɾˈaɾ ˈum pˈeɾɾo pˌeɾo la βeɾðˈað ˈes ke nˈo tˈɛŋɡa iðˈea ðe ɾɾˈasas|2
+clf_09334_01820123572.wav|tˈoða ˈesta ˌimfoɾmasjˈon la pwˈeðe ˌenkontɾˈaɾ en la pˈaxina wˈeb ðe la sˌekɾetˈaɾja ðe ðepˈoɾtes|11
+clf_08784_00555180538.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|10
+clf_09334_01964833423.wav|nˈo tjˈene niŋɡˈuna lesjˈon|11
+clf_05223_01744579194.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe la kˈasa|5
+clf_08784_01370615034.wav|el kwˈaðɾo ðe los ˌalkatɾˈases ˈes ˈuna ðe las pintˈuɾas mˈas famˈosas ðe ðjˈeɣo ɾɾiβˈeɾa|10
+clf_03397_00288393427.wav|estˈoɪ akˈi kon ˈuna amˈiɣa ðˌiskutjˈɛndo sˌoβɾe la βjenˈal ðe ˌaɾkitektˈuɾa|3
+clf_09697_02133105972.wav|me pwˈeðes ɾɾˌekomendˈaɾ alɣˈun ɾɾˌestaʊɾˈante en ˈuna sˈona ke sˈea tɾankˈila|12
+clf_06136_00824811620.wav|estˈoɪ βuskˈando ˈun ɾɾˌestaʊɾˈante ðe kosˈina ðe βaŋɡwˈaɾðja|6
+clf_08421_01161858549.wav|tjˈenes ˈaɣwa|9
+clf_09334_00784952026.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|11
+clf_07049_00629691828.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|7
+clf_07508_00745078280.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|8
+clf_05223_00759208930.wav|me pwˈeðes mandˈaɾ ˈunas imˈaxenes ðe tu pˈeɾɾo|5
+clf_05223_01428843143.wav|kwˈal ˈes su pɾˌesupwˈesto seɲˈoɾ|5
+clf_08784_00904050282.wav|kɾˈees ke lo βiɾtwˈal supˈeɾe a lo ɾɾeˈal en los pɾˈoksimos ˈaɲos|10
+clf_09334_01803997073.wav|aɣɾˈeɣa las kansjˈones a ˈuna plaɪlˈist poɾ faβˈoɾ|11
+clf_08784_01891135223.wav|ˈas sˌuɾfeˈaðo alɣˈuna βˈes|10
+clf_07508_02043023803.wav|ʝˈa ke te inskɾˈiβes te embˈian ˈuna taɾxˈeta ˌespesjˈal i la ˈusas kˌomo si fwˈeɾa tu taɾxˈeta ðel mˈetɾo|8
+clf_07049_02013596778.wav|los salˈames ke ˈasen en ˈesa sˈona sˈon dˌelisjˈosos|7
+clf_04310_01699112366.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas ˈuna seβˈojja i ðˈos ðjˈɛntes ðe ˈaxo|4
+clf_06136_02048805891.wav|ˈe estˈaðo pensˈando ke nˌesesˈito koɾɾˈeɾ ðjˈes kilˈometɾos ˈuna βˈes a la semˈana|6
+clf_04310_01649537709.wav|mˈaɾja elˈena me pwˈeðes ˌimfoɾmˈaɾ ðe la kˌotisasjˈon del ˈeʊɾo el ðˈia ðe ˈoɪ|4
+clf_08784_00414113979.wav|los ˌalakɾˈanes tendɾˈan ˈun sˌiɡnifikˈaðo simbˈoliko|10
+clf_09334_01723826318.wav|kjˈeɾo saβˈeɾ el oɾˈixen de la palˈaβɾa laðɾˈon|11
+clf_08421_01858293807.wav|kɾˈeo ke se le ˈa ðˌislokˈaðo el ˈombɾo|9
+clf_08784_00744531428.wav|kwˈando sˌuseðjˈo la seɣˈunda ɣˈeɾɾa mundjˈal|10
+clf_02484_00690000288.wav|ˈeste fˈin de semˈana βˈoɪ a ˈiɾ al sˈine kon mi espˈosa|2
+clf_03397_00298726407.wav|pɾimˈeɾo ke nˈaða βˈamos a asˈeɾ ˈun ˌexeɾsˈisjo ðe ɾɾˌespiɾasjˈon|3
+clf_08784_01232495109.wav|los kˌaβesˈijjas ðe la βˈanda ujjˈeɾon a kaβˈajjo|10
+clf_07508_00643044898.wav|ˈando asjˈɛndo ˈuna taɾˈea ðe la ˌuniβˌeɾsiðˈad|8
+clf_02484_01702970681.wav|tjˈenes ˈambɾe|2
+clf_08784_01453528126.wav|la tˌempeɾatˈuɾa ðe ˈoɪ ˈes ðe βˈeɪnte ɣɾˈaðos sentˈiɣɾaðos|10
+clf_01523_01633798017.wav|kˈomo se ˌalimˈɛnta a ˈuna iɣwˈana|1
+clf_07508_00479989134.wav|el ðɾˈama se ɾɾefjˈeɾe a tˈoðo el teˈatɾo i nˈo sˈolo al xˈeneɾo ðe teˈatɾo sˈeɾjo|8
+clf_07049_01565510665.wav|tjˈene ˈuna pelˈikula mˈujj famˈosa ke se ʝˈama ˈoxos βjˈen seɾɾˈaðos|7
+clf_07049_01940469580.wav|la sjuðˈað ˈes pɾesjˈosa i tˈan alˈeɣɾe|7
+clf_08784_00513438630.wav|bˈoɪ a ɣwˌaðalaxˈaɾa poɾ ˈuna semˈana|10
+clf_03397_01946167476.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|3
+clf_04310_01224224000.wav|mˈas o mˈenos se tˈaɾða mˈeðja ˈoɾa en asˈeɾ ˈesa ɾɾesˈeta|4
+clf_04310_01615490556.wav|nˈo sˈupo ðˌesifɾˈaɾ las wˈejjas|4
+clf_09334_00457983640.wav|estˈoɪ kansˈaðo ðe komˈeɾ pˈasta|11
+clf_04310_01817284521.wav|natˈalja kisjˈeɾa asˈeɾ ˈuna tɾˌansfeɾˈɛnsja βankˈaɾja|4
+clf_04310_00948787321.wav|maɲˈana βˈa a ʝoβˈeɾ tˈoðo el ðˈia nˈo olβˈiðe su ˌimpeɾmeˈaβle|4
+clf_06136_00977502898.wav|la sjuðˈad ðe lisβˈoa nˈo ˈa kambjˈaðo nˈaða en los ˈultimos ˈaɲos|6
+clf_08784_01220336474.wav|nˈo me ɣˈusta komˈeɾ en ˈun luɣˈaɾ kom pˈoka xˈɛnte|10
+clf_09697_00118215600.wav|estˈoɪ pɾˌeokupˈaðo nˈo se ke me ˈesta pasˈando|12
+clf_09697_01232465005.wav|tjˈene ke ˌespeɾˈaɾ ˌalreðeðˈoɾ ðe tɾˈeɪnta seɣˈundos pˌaɾa ke la ˌaplikasjˈon se instˈale en su sˌelulˈaɾ|12
+clf_09334_01970630547.wav|pˈoŋɡa ˈum pˈoko ðe asˈeɪte en la saɾtˈen i fɾˈia el wˈeβo|11
+clf_09334_00298977587.wav|kˈomo se ˌalimˈɛnta a ˈun uɾˈon|11
+clf_07049_01557652964.wav|el aktˈoɾ ˈes ˌekstɾaˌoɾðinˈaɾjo ˈes ðe oɾˈixen indˈu i ˈaβla βˈaɾjos iðjˈomas|7
+clf_06136_01945518968.wav|ˈe estˈaðo pensˈando ke nˌesesˈito lˌeβantˈaɾ pˈesas ðjˈaɾjamˈente|6
+clf_07508_01562944664.wav|mi kˌoneksjˈon de ˌinteɾnˈet ˈes mˈujj βwˈena|8
+clf_04310_02098446546.wav|me paɾˈese mˈujj ˌinteɾesˈante el lˈiβɾo ðe fɾansˈisko sˌoβɾe ˈaɾte kˌontempoɾˈaneo|4
+clf_05223_01102038735.wav|keɾˈemos saβˈeɾ kˈomo βˈa el βajjˈet akwˈatiko en las ˌolimpjˈaðas|5
+clf_06136_01501927969.wav|su ɣˈol fwˈe ðe tʃilˈena o fwˈe tˈiɾo ðe eskˈina|6
+clf_09697_01271701460.wav|te βˈoɪ a kˌomentˈaɾ ke el ðˈia ðe maɲˈana los pɾonˈostikos βˌatisˈinan mˈutʃo βjˈɛnto|12
+clf_07508_00449371985.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|8
+clf_01523_00942518128.wav|tˈɛŋɡo ˈesta imˈaxen en la kaβˈesa ðe ke ˈes ˈun muɾˈal mˈeðjo sˌuɾɾealˈista|1
+clf_09334_00290003042.wav|los ˈamsteɾ kˈomen sˌanaˈoɾjas|11
+clf_05223_00700735155.wav|nˈunka ˈas sˈiðo konstˈante en tu βˈiða|5
+clf_09697_01786673931.wav|estˈoɪ kˌonsteɾnˈaðo kon tˈoðo ˈesto ke ˈa sˌuseðˈiðo kon el temblˈoɾ|12
+clf_05223_01011462269.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|5
+clf_09334_01670203852.wav|me pɾˌeokˈupa la ˌinminˈɛnte tˌempoɾˈaða ðe ˌuɾakˈanes|11
+clf_05223_01894799913.wav|les embˈio las ɾɾesˈeɾβas a sus koɾɾˈeos|5
+clf_07508_01715960690.wav|me ajjˈuðas a βuskˈaɾ ˈuna tjˈɛnda ðˌonde pwˈeða kompɾˈaɾle ˈun ɾɾeɣˈalo a mi ˌaβwelˈita|8
+clf_00610_01241747953.wav|el ˈotɾo ðˈia me kˈomi ˈuna sˈopa ðe tʃˌampiɲˈones mˈujj pikˈante|0
+clf_07508_01847806828.wav|seɣˈun las ˌestaðˈistikas ðel ɣoβjˈeɾno ˈaɪ mˈas ˌaksiðˈɛntes ðe siklˈistas ke ðe pˌeatˈones|8
+clf_07049_01793146380.wav|nˌesesˈito ˈuna taβlˈet ðe ˈotʃo pulɣˈaðas|7
+clf_07049_01685496170.wav|los nˈiɲos tjˈenen mˈutʃa ˌimaxˌinasjˈon|7
+clf_01523_01056881786.wav|los βolˈetos kwˈestan ˌalreðeðˈoɾ ðe tɾesjˈɛntos ʝˈenes xˌaponˈeses|1
+clf_00610_00638525399.wav|ˈum pˈoko ðe umˈoɾ nˈunka kˈae mˈal ðespwˈes ðe ˈestos ðesˈastɾes|0
+clf_05223_00911365535.wav|lo pɾˌinsipˈal ðe ˈeste ɾɾˌestaʊɾˈante ˈes ke tjˈene ˈun ˈamplio menˈu|5
+clf_09334_00848514650.wav|mi ˈixa βˈa a kumplˈiɾ ˈaɲos en tɾˈes ðˈias i le estˈoɪ βuskˈando ˈun ɾɾeɣˈalo|11
+clf_07049_00190464243.wav|xˈunta las ðˈos pˈaɾtes i ˈas ˈuna pekˈeɲa pɾesjˈon ˌentɾe ˈejjas|7
+clf_07508_00023414911.wav|nˌesesˈito ke me ajjˈuðes kon mi taɾˈea|8
+clf_07049_00123572851.wav|tˈɛŋɡo ke asˈeɾ ˈuna pɾˌesentasjˈom pˌaɾa la ˌofisˈina i keɾˈemos ˌasosjˈaɾlo a ˈun eβˈɛnto ðˌepoɾtˈiβo|7
+clf_02484_01228679643.wav|el xˌeɾoɣlˈifiko tjˈene ˈum pˈes ˌamaɾˈijjo|2
+clf_08784_01716454577.wav|la pelˈikula ˈeɾa tˈan mˈala ke ˌasta ˌinteɾˈes tenˈia|10
+clf_07049_00765513386.wav|kjˈeɾo saβˈeɾ eksˈaktamˈente kwˈales fwˈeɾon los ˌeðifˈisjos ke se kajjˈeɾon|7
+clf_02484_00598236688.wav|me pwˈeðes mandˈaɾ poɾ faβˈoɾ ˈun lˈiŋk ðe la pelˈikula poɾ si me ðˈaŋ ɡˈanas ðe βˈeɾla|2
+clf_02484_01723303792.wav|me ɣˈustan dˌemasjˈaðo las pelˈikulas ðe sjˈɛnsja fiksjˈon|2
+clf_05223_01714989331.wav|me pwˈeðes mandˈaɾ ˈunas fˈotos ðe el estˈaðjo ðe fˈutβol|5
+clf_06136_01757942488.wav|mjˈami se enkwˈɛntɾa sitwˈaða en la kˈosta ˈeste ðe los estˈaðos unˈiðos|6
+clf_00610_01106589800.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas ðˈos βˌeɾeŋxˈenas asˈaðas i axˈi em pˈolβo|0
+clf_01523_01950804099.wav|aˈoɾa mˈismo ˈaɪ ˈuna ofˈeɾta ðe mˈil tɾesjˈɛntos ðˈolaɾes ˌameɾikˈanos|1
+clf_09334_01906518945.wav|ˈestos ˌanimˈales se ɾɾˌepɾoðˈusen en kˌaʊtiβˈeɾjo|11
+clf_01523_01794701378.wav|tjˈenes el nˈombɾe ðe alɣˈuno ðe los xˌuɣaðˈoɾes kˌomo el ðel poɾtˈeɾo o ðel ðˌelantˈeɾo|1
+clf_08421_00564319487.wav|ˈaɪ mˈutʃas opsjˈones|9
+clf_03397_01715203904.wav|estˈoɪ akˈi kon ˈuna amˈiɣa kˌosinˈando peskˈaðo|3
+clf_03397_02127150623.wav|te kjˈeɾo asˈeɾ ˈuna pɾeɣˈunta|3
+clf_08784_00049621039.wav|konˈoses los ˈoɾnos ˈindjos pˌaɾa asˈeɾ tˌandoˈoɾi|10
+clf_08784_00288926127.wav|la kˈajje estˈa ʝˈena ðe ˈojjos|10
+clf_06136_00955408733.wav|el fˈutβol ɾɾˈuso ˈa ˌeβolˌusjonˈaðo a niβˈeles nˈunka ˈantes βˈistos|6
+clf_03397_01846286422.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|3
+clf_02484_00119564562.wav|le ðˈoɪ ɾɾˈapiðamˈente los exˈemplos ðe kˈaða ðjˈeta i ustˈed me ðˈise si le ˌinteɾˈesa|2
+clf_09697_00223580375.wav|los sandwˈitʃ estˈam fɾˈios|12
+clf_08421_01059518449.wav|bˈoɪ a seɣˈiɾ ˌindaɣˈando en ˈeso al ɾɾˈato te ˈaβlo|9
+clf_09334_01798944377.wav|tjˈene el tjˈempo kontˈaðo|11
+clf_03397_01580811622.wav|estˈoɪ akˈi kon ˈun amˈiɣo ðˌiskutjˈɛndo sˌoβɾe el kombˈate ðe βoksˈeo|3
+clf_05223_01687236030.wav|en kwˈantos xwˈeɣos olˈimpikos ˈa pˌaɾtisipˈaðo|5
+clf_05223_00596036401.wav|tˈɛŋɡo mutʃˈisimas ɣˈanas ðe βˈeɾ ˈuna βwˈena pelˈikula|5
+clf_06136_01354908308.wav|nˈo te entjˈɛndo nˈaða|6
+clf_04310_01088623845.wav|la pɾˌonunsjasjˈon del fɾansˈes ˈes ðifˈisil|4
+clf_05223_00086591582.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|5
+clf_07508_00402184444.wav|ˈando βuskˈando los lˈiβɾos mˈas famˈosos ðel ðˈos mˈil ðjˌesisˈeis|8
+clf_08784_00221170386.wav|nˈo me ɣˈustan los βˈaɾes ðˌonde ˈaɪ pˈoka xˈɛnte|10
+clf_01523_01730974989.wav|seɣˈun la paxˈina ðel ˌinstitˈuto mˌeteˌoɾolˈoxiko nˌasjonˈal el tˌempoɾˈal nˈo βˈa a peɣˈaɾ mˈujj fwˈeɾte en la sjuðˈad|1
+clf_08784_01259520836.wav|las tˈapas ˌespaɲˈolas se ˈam pwˈesto ðe mˈoða en amˈeɾika ðel sˈuɾ|10
+clf_07508_00418350706.wav|los sˈandwitʃes estˈam fɾˈios|8
+clf_00610_00541921480.wav|mˈas o mˈenos se tˈaɾða tɾˈes kwˈaɾtos ðe ˈoɾa en asˈeɾ ˈesa ɾɾesˈeta|0
+clf_05223_00525380311.wav|kjˈeɾen o nˈo kjˈeɾen komˈeɾ en kˈasa|5
+clf_01523_01558658514.wav|en el estˈaðjo βˈa a asˈeɾ mˈutʃo fɾˈio|1
+clf_06136_00005133025.wav|kjˈeɾo ˌaβeɾiɣwˈaɾ kˌomo se ʝˈama ˈun dˌiɾektˈoɾ ðe oɾkˈesta|6
+clf_03397_01409486713.wav|kisjˈeɾa ɾɾˌekoɾðˈaɾ los tjˈempos ðe mi niɲˈes|3
+clf_04310_01235031350.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|4
+clf_03397_02084497079.wav|ˈaɪ alɣˈuna tˌeoɾˈia ðe ke los kɾˌusiɣɾˈamas pwˈeðen ˌajjuðˈaɾ a la βˈiða sˌentimentˈal|3
+clf_03397_01123210846.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|3
+clf_07508_01239198941.wav|kjˈen suβjˈo el mexˈoɾ βiðˈeo|8
+clf_06136_00354685088.wav|la sjuðˈad ðe βwˈenos ˈaɪɾes ˈa kambjˈaðo mˈutʃo en los ˈultimos ˈaɲos|6
+clf_04310_00207732594.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈun teˈatɾo sˈeɾka|4
+clf_05223_00904804373.wav|ɾɾesˈeɾβame sˈinko entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las ˈonse βˈeɪnte|5
+clf_07049_01032461447.wav|tˈɛŋɡo ˈesta imˈaxen en la kaβˈesa ðe ke ˈes ˈun muɾˈal mˈeðjo kuβˈista|7
+clf_05223_00339257426.wav|los kˌoɾasˈones ðe pˈojjo sˈon ˈuna ðelˈisja|5
+clf_02484_01433346633.wav|i si ˈes la pelˈikula mˈas famˈosa poɾkˈe nˈo ɣanˈo el oskˈaɾ|2
+clf_02484_01477443958.wav|ˈuf kˈaɾla ke kalˈoɾ me estˈoɪ ˌaoɣˈando|2
+clf_09334_00808475649.wav|kjˈeɾo mi asjˈɛnto en el pasˈijjo|11
+clf_05223_01536511348.wav|ɾɾesˈeɾβame sˈeɪs entɾˈaðas poɾ faβˈoɾ pˌaɾa la funsjˈon de las ðˈose ðjˈes|5
+clf_07049_00889109101.wav|tokˈaɾ el silˈofono ˈes mi ˈobβi fˌaβoɾˈito|7
+clf_01523_00267283609.wav|te ɣˈusta el tʃˌokolˈate kaljˈɛnte|1
+clf_08421_00409189443.wav|estˈoɪ βuskˈando ðe akwˈeɾðo a tu pɾˌesupwˈesto|9
+clf_07508_00665824881.wav|kjˈeɾo ˈun xaβˈom pˌaɾa ɾɾˌelaxˈaɾme|8
+clf_08421_00388834739.wav|los sapˈatos se ˌestɾopeˈaɾon kon la ʝˈuβja tˌoɾɾensjˈal ðe ajjˈeɾ|9
+clf_06136_02028126238.wav|me estˈoɪ muɾjˈɛndo ðe kalˈoɾ nˈo se ke asˈeɾ estˈoɪ suðˈando|6
+clf_07508_01436528790.wav|nˈo ˈaɪ mexˈoɾ ɾɾeɣˈalo ke ˈum bwˈen lˈiβɾo|8
+clf_04310_00343273768.wav|en el ɾɾˌestaʊɾˈante tambjˈen se kˈome maɾˈiskos|4
+clf_05223_01733829394.wav|ʝˈa estˈan tˈoðas las pelˈikulas en tu koɾɾˈeo|5
+clf_09697_01662340998.wav|la ˈoβɾa ðe teˈatɾo flaʊtˈista ˈa sˈiðo ˈun ˈeksito ɾɾotˈundo|12
+clf_08784_00279362619.wav|kˈasi tˈoðos los musˈeos ðe fɾˈansja sjˈeɾɾan de nˈotʃe|10
+clf_09697_01913652357.wav|si klˈaɾo poɾ supwˈesto ʝˈo sjˈempɾe pwˈeðo ˌajjuðˈaɾte|12
+clf_06136_00898294533.wav|ˈaɪ fˈutβol fˌemenˈino en estˈaðos unˈiðos|6
+clf_04310_00939603088.wav|pˌaɾa ke el saβˈoɾ ðe la komˈiða tʃˈina ɾɾeˈalmˈente ɾɾesˈalte se ɾɾˌekomjˈɛnda ˈum bˈino mˈas ˌespumˈoso|4
+clf_02484_01734236325.wav|tjˈene el tjˈempo kontˈaðo|2
+clf_06136_01884715760.wav|el pixˈama ðe ɾɾˈajjas ˈes asˈul|6
+clf_03397_00028434317.wav|las ɾɾesˈeɲas ðe los kɾˈitikos la mwˈestɾan kˌomo ˈuna ˈoβɾa ðe ˈaɾte|3
+clf_02484_02046057779.wav|la pelˈikula me ʝeɣˈo al kˌoɾasˈon|2
+clf_07049_00772083605.wav|djˈeɣo ɾɾiβˈeɾa fˌinalisˈo el muɾˈal en nwˈeβa ʝˈoɾk en mˈil nˌoβesjˈɛntos setˈɛnta i ˈuno|7
+clf_03397_01529369164.wav|en kˈe kˈajje estˈa la kˈasa|3
+clf_04310_02124473750.wav|el ˈotɾo ðˈia me komˈi ˈun aɾɾˈos kon sˈeɾðo ˌaɣɾiðˈulse|4
+clf_05223_00190176124.wav|ɾɾesˈeɾβame ðˈos entɾˈaðas poɾ faβˈoɾ pˌaɾa las ˈotʃo βˌeɪntisˈinko|5
+clf_06136_01341898031.wav|kwˈanto kwˈesta ˈun ˈaʊto usˈaðo ðe ˈase kwˈatɾo ˈaɲos|6
+clf_07049_00910847350.wav|maɲˈana βˈa a ʝoβˈeɾ poɾ la tˈaɾðe|7
+clf_08421_01329762655.wav|estˈoɪ seɣˈuɾo ke ˈas ˌeskutʃˈaðo la kansjˈom pˌoɾke la kompɾˈaste ˈase tɾˈes ˈaɲos i mˈeðjo a tɾaβˈes ðe ˈi tˈunes|9
+clf_05223_01218850119.wav|te kjˈeɾo asˈeɾ ˈuna pɾeɣˈunta|5
+clf_09334_01104679148.wav|la ɣɾˌanisˈaða ðˌestɾujjˈo tˈoða la plˌantasjˈon de letʃˈuɣa|11
+clf_07049_01518316390.wav|se ɾɾompjˈo la mˈesa ðe la kosˈina i nˈo se kˌomo ˌaɾɾeɣlˈaɾla|7
+clf_00610_00822355715.wav|pˌaɾa asˈeɾ ˈesa ɾɾesˈeta nˌesesˈitas fɾˈuta i ˌalkoˈol|0
+clf_08421_01256251324.wav|el pɾojjˈekto ðe las sˌikloβˈias ʝˈeβa tɾˈes ˈaɲos en la sjuðˈad|9
+clf_09697_01994006358.wav|estˈoɪ βjˈɛndo akˈi en la tˌeleβisjˈon ke ʝˈa ˈan kˌomensˈaðo las ðˌiskusjˈones sˌoβɾe kˌomo mˌexoɾˈaɾ el emplˈeo|12
+clf_09697_00527767196.wav|en ˈeste momˈɛnto te mwˈestɾo el mˈapa pˌaɾa ke βˈeas ðˌonde estˈan las ðˌifeɾˈɛntes ˌestasjˈones ðe ˌekoβˈisi|12
+clf_02484_02101296107.wav|me ðixˈeɾon ke ˈaɪ ˈuna ˌaplikasjˈon ke pwˈeðo βaxˈaɾ al sˌelulˈaɾ ke me ajjˈuða a tɾˌaðusˈiɾ sˌimultˈaneamˈente|2
+clf_01523_01285011925.wav|la mˌeɾmelˈaða ðe mˈoɾa ˈes mˈujj fˈasil ðe asˈeɾ|1
+clf_01523_01970186695.wav|tˈɛŋɡo ke asˈeɾ ˈuna pɾˌesentasjˈom pˌaɾa la ˌofisˈina i keɾˈemos ˌasosjˈaɾlo a ˈun eβˈɛnto ðˌepoɾtˈiβo|1
+clf_06136_00195259221.wav|en kˈe kˈajje estˈa la kˈasa|6
+clf_05223_00183329219.wav|me ɣˌustaɾˈia saβˈeɾ kwˈales sˈon los ɾɾˌekisˈitos pˌaɾa foɾmˈaɾ pˈaɾte ðe ˈeste klˈub|5
+clf_01523_00754595541.wav|bˈa a aβˈeɾ ˌolimpjˈaðas ðe βeɾˈano|1
+clf_06136_01614121719.wav|el pɾimˈeɾ pˈaso pˌaɾa ˌeliminˈaɾ el kalˈoɾ ˈes ponˈeɾse ˈuna βˈolsa ðe ˈaɣwa fɾˈia en la kaβˈesa|6
+clf_08421_00354304364.wav|kɾˈeo ke se ˈa ɾɾˈoto el pulɣˈaɾ|9
+clf_02484_01520772141.wav|tˈɛŋɡo ˈum pɾˌoβlemˈaso sˈaβes ke se me akˈaβa ðe ɾɾˌeβentˈaɾ ˈun neʊmˈatiko|2
+clf_02484_01907891486.wav|el pixˈama ðe ɾɾˈajja ˈes asˈul|2
+clf_09334_01365520019.wav|lo pɾimˈeɾo ke tjˈene ke aɾmˈaɾ ˈes el tɾˈipoðe|11
+clf_06136_02106268797.wav|el pˈaso nˈumeɾo ðˈos pˌaɾa ˌeliminˈaɾ el kalˈoɾ ˈes βaɲˈaɾte kon ˈaɣwa fɾˈia|6
+clf_06136_00055797202.wav|pˌaɾa la kaˈiða ðel kaβˈejjo tˈɛŋɡo ˈun nwˈeβo xaβˈon|6
+clf_07049_01811421120.wav|te ɾɾˌekomjˈɛndo los fjˈoɾðos nˌoɾuˈeɣos|7
+clf_07508_00938185630.wav|te ɾɾˌekomjˈɛndo ke te tˈomes ˈun tˈe la kˌafeˈina te pwˈeðe ponˈeɾ mˈas neɾβjˈoso|8
+clf_00610_01757702109.wav|mˈas o mˈenos se tˈaɾða ðˈos ˈoɾas en asˈeɾ ˈese pˈostɾe|0
+clf_03397_00625793229.wav|en kwˈantos xwˈeɣos olˈimpikos ˈa pˌaɾtisipˈaðo|3
+clf_04310_01973288675.wav|xwˈan kˈaɾlos ˌestɾenˈaɾon ˈuna pelˈikula akˈi en sjuðˈad ðe mˈɛxiko pˌeɾo nˈo me akwˈeɾðo si ˈes ðɾˈama o komˈeðja|4
+clf_03397_00638166802.wav|pˈoðɾias βˌeɾifikˈaɾ kjˈeŋ ɡanˈo la kaɾɾˈeɾa ðe fˈoɾmula ˈuno en mˈɛxiko el ˈaɲo pasˈaðo|3
+clf_09334_00783757240.wav|ajjˈeɾ sˈolamˈente xuɣˈo βeɪntjˈotʃo minˈutos i metjˈo tɾˈes ɣˈoles|11
+clf_09697_01519350159.wav|kɾˈeo ke ˈeste ˈes el tˈowɾ ke te βˈa a kˌombenˈiɾ|12
+clf_08784_00865247121.wav|se kˈome tˈanto sˈusi en el mˈundo ke el atˈun estˈa ðˌesapˌaɾesjˈɛndo ðe los osˈeanos|10
+clf_05223_00086574876.wav|en kwˈantos xwˈeɣos asjˈatikos ˈa pˌaɾtisipˈaðo|5
+clf_04310_01046317979.wav|pwˈeðes βˌeɾifikˈaɾ si ˈaɪ alɣˈun ˌestasjˌonamjˈɛnto sˈeɾka|4
+clf_03397_01386651670.wav|poɾ las tˈaɾðes se eskˈutʃa mˈusika en la plˈasa|3
+clf_07049_00529988376.wav|me ɣˌustaɾˈia tenˈeɾ ˈum pˈoko ðe ˌimfoɾmasjˈon sˌoβɾe el mˌoβimjˈɛnto oβɾˈeɾo ðe mˈil ˌotʃosjˈɛntos noβˈɛnta|7
+clf_08784_01568328844.wav|kˈomo βˈa el paɾtˈiðo ðe fˈutβol ˌameɾikˈano|10
+clf_08784_00019790751.wav|me ɣˈustan los kafˈes ke tjˈenen mesˈitas afwˈeɾa|10
+clf_09697_01054907984.wav|el kaβˈajjo estˈa ˌamaɾɾˈaðo|12
+clf_09334_00683816456.wav|kjˈeɾo saβˈeɾ el oɾˈixen de la palˈaβɾa ˌalβaˈaka|11
